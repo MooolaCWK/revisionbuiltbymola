@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "med-001",
+    "topic": "Medicine subspecialties",
+    "scene": "On the first morning the preceptor points at the heart team on the medicine list.",
+    "ask": "Which opening set matches the printed subspecialty list?",
+    "choices": [
+      {
+        "text": "Cardiology (心臟科), Endocrinology (內分泌科), and Gastroenterology and Hepatology (腸胃肝臟科).",
+        "note": "Correct. Those are items a to c on the introduction list."
+      },
+      {
+        "text": "Cardiology is 血液科, Endocrinology is 老人科, and the gut-liver team is 腎病科.",
+        "note": "No. Those Chinese labels belong to Haematology, Geriatrics, and Nephrology."
+      },
+      {
+        "text": "The list opens with Neurology, Nephrology, and Respiratory Medicine.",
+        "note": "No. Those names come later; the list opens with the heart, endocrine, and gut-liver teams."
+      },
+      {
+        "text": "Gastroenterology and Hepatology is printed as 內分泌科.",
+        "note": "No. 內分泌科 is Endocrinology; the gut-liver label is 腸胃肝臟科."
+      }
+    ],
+    "answer": 0,
+    "page": "2"
+  },
+  {
+    "id": "med-002",
+    "topic": "Medicine subspecialties",
+    "scene": "The student is still matching Chinese labels to the middle of the medicine list.",
+    "ask": "Which middle set is printed correctly?",
+    "choices": [
+      {
+        "text": "Haematology is 心臟科 and Infectious Disease is 內科腫瘤科.",
+        "note": "No. 心臟科 is Cardiology, and 內科腫瘤科 is Medical Oncology."
+      },
+      {
+        "text": "Haematology (血液科), Geriatrics (老人科), Infectious Disease (感染及傳染病科), and Medical Oncology (內科腫瘤科).",
+        "note": "Correct. Those four follow the gut-liver service on the list."
+      },
+      {
+        "text": "Geriatrics is 腦神經科 and Medical Oncology is 呼吸系統科.",
+        "note": "No. 腦神經科 is Neurology and 呼吸系統科 is Respiratory Medicine."
+      },
+      {
+        "text": "Infectious Disease is omitted and replaced by a surgical team.",
+        "note": "No. Infectious Disease is on the medicine list as 感染及傳染病科."
+      }
+    ],
+    "answer": 1,
+    "page": "3"
+  },
+  {
+    "id": "med-003",
+    "topic": "Medicine subspecialties",
+    "scene": "The allocation board ends with kidney, brain, lung, and a shared rheumatology line.",
+    "ask": "Which closing statement matches the list?",
+    "choices": [
+      {
+        "text": "Neurology is 腎病科 and Nephrology is 腦神經科.",
+        "note": "No. Those two Chinese labels are swapped."
+      },
+      {
+        "text": "Rheumatology and Palliative Care are two separate department headings.",
+        "note": "No. They share one line: 風濕病科和紓緩醫學科."
+      },
+      {
+        "text": "Nephrology (腎病科), Neurology (腦神經科), Respiratory Medicine (呼吸系統科), and Rheumatology and Palliative Care together (風濕病科和紓緩醫學科).",
+        "note": "Correct. Rheumatology and palliative care are printed as one subspecialty, not two separate headings."
+      },
+      {
+        "text": "Respiratory Medicine is 風濕病科和紓緩醫學科.",
+        "note": "No. That Chinese line is Rheumatology and Palliative Care; respiratory medicine is 呼吸系統科."
+      }
+    ],
+    "answer": 2,
+    "page": "3"
+  },
+  {
+    "id": "med-004",
+    "topic": "Study manual purpose",
+    "scene": "The educator explains why this medicine study manual was written.",
+    "ask": "What purpose is stated for the manual?",
+    "choices": [
+      {
+        "text": "To replace the doctor's medication orders for the placement.",
+        "note": "No. The page is about learning in an unfamiliar clinical environment, not about replacing orders."
+      },
+      {
+        "text": "To limit each student to one subspecialty and stop further study.",
+        "note": "No. It aims at continuous clinical study, not at stopping study."
+      },
+      {
+        "text": "To teach only theatre scrub so students avoid the medical wards.",
+        "note": "No. The manual is for adapting to the medicine clinical environment."
+      },
+      {
+        "text": "To build an education program so students adapt to the clinical setting, become a competent member, and keep studying without pressure caused by an unfamiliar environment.",
+        "note": "Correct. That is the purpose printed on the introduction page."
+      }
+    ],
+    "answer": 3,
+    "page": "4"
+  },
+  {
+    "id": "med-005",
+    "topic": "Tympanic temperature",
+    "scene": "A loosely seated ear probe is used just after a cold drink, in an ear full of wax.",
+    "ask": "Which factors underestimate tympanic temperature?",
+    "choices": [
+      {
+        "text": "An ear canal that is not straightened, so the probe leaks air; a lot of earwax; and a recent swallow of cold food or liquid.",
+        "note": "Correct. Those three are the underestimate factors; a hot swallow, or lying with the ear covered, overestimates instead."
+      },
+      {
+        "text": "A recent hot swallow and lying with the measured ear covered.",
+        "note": "No. Those two overestimate tympanic temperature."
+      },
+      {
+        "text": "Only a hot swallow, which pulls the reading down.",
+        "note": "No. A hot swallow is listed under overestimate, not underestimate."
+      },
+      {
+        "text": "Straightening the canal and a clear ear, which always read low.",
+        "note": "No. The low readings come from a poor seal, wax, or a cold swallow."
+      }
+    ],
+    "answer": 0,
+    "page": "8"
+  },
+  {
+    "id": "med-006",
+    "topic": "Low body temperature",
+    "scene": "The tympanic temperature is at or below 35.9 degrees Celsius and the patient is not dizzy.",
+    "ask": "What immediate temperature action is printed?",
+    "choices": [
+      {
+        "text": "The normal range starts at 35.9 degrees Celsius, so no recheck is needed.",
+        "note": "No. 35.9 degrees Celsius or below is the low-temperature line, and the normal range is 36.0 to 37.6."
+      },
+      {
+        "text": "Treat it as low body temperature, recheck both ears at once, and chart the higher result that lies in, or nearest, the normal range of 36.0 to 37.6 degrees Celsius.",
+        "note": "Correct. Dizziness is reported at once; otherwise the report waits until after the temperature round."
+      },
+      {
+        "text": "Chart the lower ear and cool the patient with an ice pad.",
+        "note": "No. Chart the higher of the two ears; an ice pad belongs to fever care, not low temperature."
+      },
+      {
+        "text": "Phone the doctor before any recheck and give Panadol.",
+        "note": "No. Recheck both ears first; Panadol is not the low-temperature action."
+      }
+    ],
+    "answer": 1,
+    "page": "9"
+  },
+  {
+    "id": "med-007",
+    "topic": "Low body temperature",
+    "scene": "After the recheck the temperature is still low and the patient feels dizzy.",
+    "ask": "What further care does the low-temperature page describe?",
+    "choices": [
+      {
+        "text": "Apply a covered ice pad first and remove blankets.",
+        "note": "No. Ice and fewer blankets are fever measures; low temperature needs more blankets."
+      },
+      {
+        "text": "A Bair Hugger is a cooling device and is applied before the recheck.",
+        "note": "No. It blows warm air and is considered only if recheck plus blankets still fail."
+      },
+      {
+        "text": "Add blankets and keep bed rest, raise the bedside rail and check blood pressure and pulse if dizzy, recheck in 15 to 30 minutes, tell the team nurse at once because of dizziness, and use a Bair Hugger if blankets still cannot hold a normal temperature.",
+        "note": "Correct. The team nurse informs the doctor. A Bair Hugger is a forced warm-air system used to prevent and treat hypothermia."
+      },
+      {
+        "text": "Dizziness can wait until the next shift, and the team nurse does not call the doctor.",
+        "note": "No. Dizziness is reported immediately, and the team nurse informs the doctor."
+      }
+    ],
+    "answer": 2,
+    "page": "9"
+  },
+  {
+    "id": "med-008",
+    "topic": "Low-grade fever",
+    "scene": "The rechecked temperature sits between 37.6 and 38.5 degrees Celsius and the patient is not dizzy.",
+    "ask": "How is this low-grade fever handled?",
+    "choices": [
+      {
+        "text": "This band is high fever, so the doctor is phoned before a bilateral recheck.",
+        "note": "No. 37.6 to 38.5 degrees Celsius is low-grade fever, and the doctor is informed on the ward round."
+      },
+      {
+        "text": "Add blankets and start a Bair Hugger as the first step.",
+        "note": "No. Extra covering is removed; a Bair Hugger is for temperature that stays too low."
+      },
+      {
+        "text": "Panadol 500 mg is withheld on this page so the fever pattern can be watched.",
+        "note": "No. That option belongs to the septic-workup note. Here Panadol 500 mg Q4H prn may be given if ordered."
+      },
+      {
+        "text": "A covered ice pad may be used, water is encouraged if intake is allowed and swallowing is safe, extra blankets and clothing come off, and oral or per-rectal Panadol 500 mg Q4H prn is given only if ordered; monitoring becomes Q4H and the doctor is told on the ward round.",
+        "note": "Correct. Report dizziness at once; otherwise report after the temperature round. The team nurse does not use the immediate phone path printed for high fever."
+      }
+    ],
+    "answer": 3,
+    "page": "10"
+  },
+  {
+    "id": "med-009",
+    "topic": "High fever",
+    "scene": "The temperature stays at or above 38.5 degrees Celsius and the rechecked blood pressure is low.",
+    "ask": "What does the high-fever page tell the team to do?",
+    "choices": [
+      {
+        "text": "Recheck both ears, and if it is still high measure blood pressure, pulse, and SaO2; the team nurse informs the doctor by phone immediately, septic workup may be ordered, and temperature checks increase to Q4H.",
+        "note": "Correct. Tell the team nurse at once if blood pressure or SaO2 is on the low side. Cooling care, fluids if safe, and ordered Panadol 500 mg Q4H prn are the same fever supports as for low-grade fever."
+      },
+      {
+        "text": "High fever starts at 37.6 degrees Celsius and is told to the doctor only on the ward round.",
+        "note": "No. 37.6 to 38.5 is low-grade fever and uses the ward-round path; 38.5 or above is high fever with a phone call."
+      },
+      {
+        "text": "Blood pressure, pulse, and SaO2 are not measured when fever stays this high.",
+        "note": "No. Those three are measured if the recheck is still high."
+      },
+      {
+        "text": "Apply more blankets and do not inform the doctor until the next day.",
+        "note": "No. The remarks say the team nurse phones the doctor immediately."
+      }
+    ],
+    "answer": 0,
+    "page": "11"
+  },
+  {
+    "id": "med-010",
+    "topic": "Septic shock",
+    "scene": "An older patient with a body-wide infection develops dangerously low blood pressure.",
+    "ask": "How does the page describe septic shock?",
+    "choices": [
+      {
+        "text": "Only viruses cause it, and the blood pressure rises.",
+        "note": "No. Any bacteria can cause it, fungi can, viruses rarely do, and the pressure falls."
+      },
+      {
+        "text": "A body-wide infection leads to dangerously low blood pressure and poor organ function; it is most often in the very old, the very young, or people with weak immunity, and bacteria, fungi, or rarely viruses may cause it through toxins.",
+        "note": "Correct. Some researchers think clots in small arteries cut blood flow, and a strong inflammatory response to the toxins may add to organ damage."
+      },
+      {
+        "text": "It is limited to young adults with a normal immune system.",
+        "note": "No. It is most often in the very old and the very young, and also in weakened immunity."
+      },
+      {
+        "text": "Toxins are said to spare the tissues and leave organ function intact.",
+        "note": "No. Toxins may damage tissue, and organ function becomes poor."
+      }
+    ],
+    "answer": 1,
+    "page": "12-13"
+  },
+  {
+    "id": "med-011",
+    "topic": "Septic workup",
+    "scene": "The doctor orders a septic workup and is deciding whether to chart Panadol.",
+    "ask": "Which workup set matches the page?",
+    "choices": [
+      {
+        "text": "Augmentin is printed as 1.2 g once a day, with no cultures.",
+        "note": "No. The example is Augmentin 1.2 g Q8H, and blood, urine, and sputum cultures are listed."
+      },
+      {
+        "text": "Panadol must be given so the fever pattern cannot be seen.",
+        "note": "No. The doctor may omit Panadol in order to watch the fever pattern against the antibiotic effect."
+      },
+      {
+        "text": "Blood culture, complete blood picture, and liver and renal function; mid-stream or catheter urine culture; sputum culture; a chest X-ray; Panadol may be left off to watch the fever pattern; an intravenous antibiotic such as Augmentin 1.2 g Q8H may be added.",
+        "note": "Correct. Complete blood picture is used to look for a white-cell rise. Panadol, if used, is the oral or per-rectal option already described, not a fixed extra dose."
+      },
+      {
+        "text": "The workup is only a chest X-ray.",
+        "note": "No. Chest X-ray is one item beside blood, urine, and sputum tests."
+      }
+    ],
+    "answer": 2,
+    "page": "14-15"
+  },
+  {
+    "id": "med-012",
+    "topic": "Blood-pressure cuff",
+    "scene": "A narrow cuff is wrapped over a thick sleeve on a large arm.",
+    "ask": "Which cuff result is printed correctly?",
+    "choices": [
+      {
+        "text": "A narrow cuff lowers systolic pressure by 10 to 40 mmHg.",
+        "note": "No. A narrow cuff raises the systolic reading by 10 to 40 mmHg because more pressure is needed to compress the artery."
+      },
+      {
+        "text": "A loose cuff or a ballooning bladder gives a falsely high reading.",
+        "note": "No. That problem gives a falsely low reading."
+      },
+      {
+        "text": "Clothing has no effect, and an arm above the heart reads high.",
+        "note": "No. Clothing can add 10 to 50 mmHg systolic, and above heart level reads low."
+      },
+      {
+        "text": "A cuff that is too narrow can raise systolic pressure by 10 to 40 mmHg, and a cuff over clothing can raise it by 10 to 50 mmHg.",
+        "note": "Correct. A loose, uneven cuff, or a bladder that balloons out of the wrap, reads falsely low because it cuts off the brachial artery too easily. Above heart level, as when lying on the side, also reads falsely low."
+      }
+    ],
+    "answer": 3,
+    "page": "16"
+  },
+  {
+    "id": "med-013",
+    "topic": "High blood pressure",
+    "scene": "Systolic pressure stays above 160 mmHg and the patient develops a headache.",
+    "ask": "What action matches the high-blood-pressure page?",
+    "choices": [
+      {
+        "text": "Use a correct cuff with no clothing in the way, stop the patient talking, and recheck both limbs; a headache is reported to the team nurse at once, otherwise the report waits until after the blood-pressure round, then recheck pressure and pulse in 15 to 30 minutes.",
+        "note": "Correct. Rest in bed with the call bell and the rail up, and stop exercise and talking. Monitoring may become Q4H or Q1H. The doctor may order an antihypertensive after an ECG or blood tests."
+      },
+      {
+        "text": "Headache waits until the next day because only the routine report is allowed.",
+        "note": "No. Headache is the trigger for an immediate report."
+      },
+      {
+        "text": "The action line on this page is a systolic pressure under 90 mmHg.",
+        "note": "No. This page is systolic pressure above 160 mmHg."
+      },
+      {
+        "text": "Leave the cuff over clothing and encourage exercise during the recheck.",
+        "note": "No. Clothing is removed from the cuff site, talking and exercise stop, and the patient rests."
+      }
+    ],
+    "answer": 0,
+    "page": "17"
+  },
+  {
+    "id": "med-014",
+    "topic": "Low blood pressure",
+    "scene": "Systolic pressure is still under 90 mmHg on the bed, and the patient feels dizzy.",
+    "ask": "What does the low-blood-pressure page instruct?",
+    "choices": [
+      {
+        "text": "Sit the patient with the feet lower than the head for the next reading.",
+        "note": "No. The next position is feet higher than the head by 15 to 30 degrees."
+      },
+      {
+        "text": "If it is still low in bed, measure with the feet 15 to 30 degrees higher than the head, check conscious level, report dizziness at once, and recheck pressure and pulse in 15 to 30 minutes.",
+        "note": "Correct. The doctor may order a 12-lead ECG, bloods such as CBP, liver and renal function, CK, and troponin I, plus intravenous fluid or an inotrope, and bed rest. Also watch any sudden rise or fall in pressure."
+      },
+      {
+        "text": "The systolic line on this page is under 160 mmHg.",
+        "note": "No. Low blood pressure here is systolic pressure under 90 mmHg."
+      },
+      {
+        "text": "Troponin I, CK, and a 12-lead ECG are not among the possible doctor orders.",
+        "note": "No. A 12-lead ECG and bloods including CBP, liver and renal function, CK, and troponin I are listed."
+      }
+    ],
+    "answer": 1,
+    "page": "18"
+  },
+  {
+    "id": "med-015",
+    "topic": "Low oxygen saturation",
+    "scene": "A warm, well-perfused finger reads a saturation under 90 percent and there is a sputum sound.",
+    "ask": "What does the saturation page require?",
+    "choices": [
+      {
+        "text": "Under 90 percent waits for the ward round if the finger is warm.",
+        "note": "No. The team nurse is informed immediately when SpO2 is under 90 percent."
+      },
+      {
+        "text": "Chart the lower of the two limbs.",
+        "note": "No. Chart the highest of the bilateral readings."
+      },
+      {
+        "text": "Inform the team nurse immediately, make sure cold or poor circulation is not fooling the probe, recheck both limbs and chart the higher value, and clear sputum retention by nasopharyngeal suction.",
+        "note": "Correct. Under 90 percent is an immediate report on this page, not a ward-round delay."
+      },
+      {
+        "text": "A sputum sound is ignored because suction is not mentioned.",
+        "note": "No. Sputum retention is cleared by nasopharyngeal suction."
+      }
+    ],
+    "answer": 2,
+    "page": "19"
+  },
+  {
+    "id": "med-016",
+    "topic": "Oxygen step-up",
+    "scene": "Saturation has still not returned to normal within 20 to 30 seconds, and oxygen is already prescribed.",
+    "ask": "How does this page step the oxygen up?",
+    "choices": [
+      {
+        "text": "Wait 20 to 30 minutes before any oxygen.",
+        "note": "No. The page says 20 to 30 seconds."
+      },
+      {
+        "text": "Use a 100 percent mask first and skip the nasal cannula.",
+        "note": "No. The cannula comes first; the 50 or 100 percent mask is the next step if the cannula fails."
+      },
+      {
+        "text": "Only 2 L/min is listed, so 4 and 6 L/min are not on the page.",
+        "note": "No. The cannula examples are 2, 4, and 6 L/min as prescribed."
+      },
+      {
+        "text": "Start a nasal cannula at 2, 4, or 6 L/min as prescribed; if that fails, use a 50 percent or 100 percent oxygen mask and call the doctor as soon as possible.",
+        "note": "Correct. The clock on this page is 20 to 30 seconds, not 20 to 30 minutes."
+      }
+    ],
+    "answer": 3,
+    "page": "20"
+  },
+  {
+    "id": "med-017",
+    "topic": "COPD oxygen target",
+    "scene": "A patient with COPD is on oxygen and a colleague wants the saturation pushed well above the usual COPD aim.",
+    "ask": "Why is the COPD saturation target 88 to 92 percent?",
+    "choices": [
+      {
+        "text": "Chronic high carbon dioxide switches off the brain carbon-dioxide sensor, so rate is driven by oxygen; too much oxygen can slow breathing and worsen carbon-dioxide retention.",
+        "note": "Correct. In people without that chronic change, both the oxygen sensor and the carbon-dioxide sensor drive the rate: low oxygen or high carbon dioxide speeds breathing. Close watching and an arterial blood gas may be needed."
+      },
+      {
+        "text": "The COPD target on this page is 95 to 100 percent.",
+        "note": "No. The COPD aim printed here is 88 to 92 percent."
+      },
+      {
+        "text": "In COPD the carbon-dioxide sensor is more active, so high oxygen makes the rate rise.",
+        "note": "No. The carbon-dioxide sensor is deactivated, and high oxygen can reduce the rate."
+      },
+      {
+        "text": "Normal rate control uses the oxygen sensor only, and COPD uses both sensors in the usual way.",
+        "note": "No. The page says the reverse: usual control uses both sensors, and COPD is left with the oxygen sensor."
+      }
+    ],
+    "answer": 0,
+    "page": "21-22"
+  },
+  {
+    "id": "med-018",
+    "topic": "Low blood glucose",
+    "scene": "One conscious patient and one unconscious patient each have a glucose under 4 mmol/L.",
+    "ask": "How does the page separate those two?",
+    "choices": [
+      {
+        "text": "Both patients drink D50, and orange juice is forbidden.",
+        "note": "No. Juice or milk is for the conscious patient; D50 is intravenous for the unconscious patient."
+      },
+      {
+        "text": "The conscious patient may have orange juice or milk, and the doctor is told on the ward round; the unconscious patient needs an intravenous site and D50 as prescribed, and the doctor is phoned at once.",
+        "note": "Correct. Tell the team nurse after the routine, or at once if the patient is dizzy or unconscious. Withhold anti-hyperglycaemic drugs as ordered, and recheck glucose 15 to 30 minutes after food, juice, milk, or the doctor's treatment."
+      },
+      {
+        "text": "The action line is under 8 mmol/L.",
+        "note": "No. The low-glucose action is under 4 mmol/L. 4 to 8 mmol/L is only the easy-memory range."
+      },
+      {
+        "text": "The unconscious patient waits for the ward round, and the conscious patient is given subcutaneous insulin.",
+        "note": "No. Unconscious hypoglycaemia is a phone call; insulin is not the low-glucose treatment."
+      }
+    ],
+    "answer": 1,
+    "page": "23"
+  },
+  {
+    "id": "med-019",
+    "topic": "High blood glucose",
+    "scene": "An awake patient has a routine glucose above 16 mmol/L after extra food.",
+    "ask": "What is printed for glucose above 16 mmol/L?",
+    "choices": [
+      {
+        "text": "Give orange juice and a larger night snack.",
+        "note": "No. Juice is for low glucose; the night snack is withheld when glucose is above 16 mmol/L."
+      },
+      {
+        "text": "The doctor is told only on the ward round, as for a conscious reading under 4 mmol/L.",
+        "note": "No. For a reading above 16 mmol/L the team nurse phones the doctor immediately."
+      },
+      {
+        "text": "The team nurse phones the doctor at once; ask what was eaten, withhold the night snack, test urine for ketones, and expect possible subcutaneous insulin with glucose checks as often as Q4H, plus a DKI drip if diabetic ketoacidosis is a risk.",
+        "note": "Correct. The easy-memory range is 4 to 8 mmol/L. That band is not the same as the above-16 action line. Report dizziness or unconsciousness immediately."
+      },
+      {
+        "text": "Every reading above 8 mmol/L gets a DKI drip.",
+        "note": "No. The DKI drip is if diabetic ketoacidosis is a risk when glucose is above 16 mmol/L, not for every reading above 8."
+      }
+    ],
+    "answer": 2,
+    "page": "24"
+  },
+  {
+    "id": "med-020",
+    "topic": "COPD definition",
+    "scene": "A new admission asks what COPD means on the respiratory teaching sheet.",
+    "ask": "Which definition matches the page?",
+    "choices": [
+      {
+        "text": "COPD is only an acute pneumonia with normal elastic recoil.",
+        "note": "No. The definition is chronic bronchitis, emphysema, and/or airway hypersensitivity."
+      },
+      {
+        "text": "Emphysema here means a short bronchospasm without enlarged air spaces.",
+        "note": "No. Emphysema is permanent enlargement of air spaces and loss of elastic recoil."
+      },
+      {
+        "text": "Chronic bronchitis is defined as loss of elastic recoil, not extra mucus.",
+        "note": "No. Chronic bronchitis is hypersecretion of mucus; loss of recoil is the emphysema part."
+      },
+      {
+        "text": "Airflow obstruction from chronic bronchitis with mucus hypersecretion, emphysema with permanently enlarged air spaces and loss of elastic recoil of the terminal bronchioles, and/or airway hypersensitivity such as asthma.",
+        "note": "Correct. Those are the three elements printed in the COPD definition."
+      }
+    ],
+    "answer": 3,
+    "page": "26"
+  },
+  {
+    "id": "med-021",
+    "topic": "Lung functions",
+    "scene": "The same patient asks what the two lungs are for.",
+    "ask": "What two major functions are printed?",
+    "choices": [
+      {
+        "text": "Get oxygen into the body and remove carbon dioxide from the body.",
+        "note": "Correct. Those are the two major functions named under the COPD page."
+      },
+      {
+        "text": "Make bicarbonate and filter urea.",
+        "note": "No. Those are not the two lung functions on this page."
+      },
+      {
+        "text": "Hold carbon dioxide in so saturation rises.",
+        "note": "No. A major function is to remove carbon dioxide."
+      },
+      {
+        "text": "Pump blood through the coronary arteries.",
+        "note": "No. The page is about gas exchange, not coronary pumping."
+      }
+    ],
+    "answer": 0,
+    "page": "26"
+  },
+  {
+    "id": "med-022",
+    "topic": "Type I shunt",
+    "scene": "A patient with pneumonia is in hypoxaemic respiratory failure.",
+    "ask": "What is the commonest mechanism of type I failure?",
+    "choices": [
+      {
+        "text": "Dead-space ventilation is named as the commonest cause of type I failure.",
+        "note": "No. Dead space is a type II mechanism. Shunting is the commonest type I cause."
+      },
+      {
+        "text": "Shunting, perfusion without ventilation, with examples such as pneumonia, lung collapse, and APO.",
+        "note": "Correct. Type I is hypoxaemic failure from inadequate oxygen transfer. In a shunt the alveoli are not ventilated, so oxygen uptake fails, but they are still perfused, so carbon dioxide can still be removed, because of collapse, pus, mucus, or fluid oedema."
+      },
+      {
+        "text": "Shunting means ventilation without perfusion.",
+        "note": "No. Shunting is perfusion without ventilation."
+      },
+      {
+        "text": "Type I failure is defined as insufficient carbon-dioxide removal.",
+        "note": "No. That is type II. Type I is inadequate oxygen transfer."
+      }
+    ],
+    "answer": 1,
+    "page": "28"
+  },
+  {
+    "id": "med-023",
+    "topic": "Diffusion abnormality",
+    "scene": "The tutor asks how lung fibrosis differs from a mucus plug inside the type I page.",
+    "ask": "What is a diffusion abnormality here?",
+    "choices": [
+      {
+        "text": "Diffusion abnormality is brainstem injury with normal alveolar surface.",
+        "note": "No. Brainstem injury is an alveolar-hypoventilation example under type II failure."
+      },
+      {
+        "text": "It means perfusion without ventilation from pus alone.",
+        "note": "No. That description is shunting. Diffusion abnormality is loss of alveolar surface area."
+      },
+      {
+        "text": "A fall in alveolar surface area, with examples such as lung fibrosis, acute respiratory distress syndrome, and APO.",
+        "note": "Correct. APO is named under both shunting and diffusion abnormality. Fibrosis and acute respiratory distress syndrome are the diffusion examples, not the shunt-only examples of pneumonia and collapse."
+      },
+      {
+        "text": "APO is excluded from both shunt and diffusion.",
+        "note": "No. APO appears in both lists on the type I pages."
+      }
+    ],
+    "answer": 2,
+    "page": "28"
+  },
+  {
+    "id": "med-024",
+    "topic": "Type II hypoventilation",
+    "scene": "Carbon dioxide is rising after a respiratory depressant.",
+    "ask": "What is hypercapnic type II failure from alveolar hypoventilation?",
+    "choices": [
+      {
+        "text": "Type II is inadequate oxygen transfer from a shunt.",
+        "note": "No. Inadequate oxygen transfer is type I."
+      },
+      {
+        "text": "The examples are pneumonia and lung collapse.",
+        "note": "No. Those are shunt examples. Hypoventilation examples are muscle fatigue, a depressant, and brainstem injury."
+      },
+      {
+        "text": "Type II means carbon dioxide is being removed too quickly.",
+        "note": "No. Type II is insufficient carbon-dioxide removal."
+      },
+      {
+        "text": "Insufficient carbon-dioxide removal by hypoventilation, including respiratory muscle fatigue, a depressant, and brainstem injury.",
+        "note": "Correct. This is the first type II mechanism on the page, separate from dead-space ventilation."
+      }
+    ],
+    "answer": 3,
+    "page": "29"
+  },
+  {
+    "id": "med-025",
+    "topic": "Dead-space ventilation",
+    "scene": "The tutor contrasts a pulmonary embolus with a pneumonia shunt.",
+    "ask": "How is dead space described?",
+    "choices": [
+      {
+        "text": "Ventilation without perfusion, as in COAD and pulmonary embolism; compression or stretched alveolar capillaries lead to carbon-dioxide retention and type II failure.",
+        "note": "Correct. The alveoli still take up oxygen, but carbon dioxide is not cleared because perfusion is missing."
+      },
+      {
+        "text": "Dead space is perfusion without ventilation.",
+        "note": "No. That is shunting. Dead space is ventilation without perfusion."
+      },
+      {
+        "text": "The examples are lung fibrosis and acute respiratory distress syndrome.",
+        "note": "No. Those are diffusion examples. Dead-space examples are COAD and pulmonary embolism."
+      },
+      {
+        "text": "Dead space improves carbon-dioxide removal.",
+        "note": "No. It leads to carbon-dioxide retention."
+      }
+    ],
+    "answer": 0,
+    "page": "29"
+  },
+  {
+    "id": "med-026",
+    "topic": "Carbon dioxide transfer",
+    "scene": "A student expects every shunt to trap carbon dioxide as badly as it blocks oxygen.",
+    "ask": "What does the page say about carbon dioxide crossing the alveolus?",
+    "choices": [
+      {
+        "text": "Carbon dioxide crosses poorly, so shunt hits carbon dioxide harder than oxygen.",
+        "note": "No. The page says carbon dioxide crosses readily and oxygenation is affected more."
+      },
+      {
+        "text": "Carbon dioxide crosses very readily, so shunt and diffusion problems hit oxygenation harder than carbon-dioxide elimination.",
+        "note": "Correct. That is why type I problems are mainly hypoxic rather than hypercapnic."
+      },
+      {
+        "text": "Diffusion abnormality stops carbon-dioxide removal and spares oxygen.",
+        "note": "No. Diffusion abnormality affects oxygenation more than carbon-dioxide elimination."
+      },
+      {
+        "text": "Shunt and diffusion change oxygen and carbon dioxide to the same degree.",
+        "note": "No. They affect oxygenation more than carbon-dioxide elimination."
+      }
+    ],
+    "answer": 1,
+    "page": "30"
+  },
+  {
+    "id": "med-027",
+    "topic": "Oxygenation threshold",
+    "scene": "Saturation is sliding through the 85 to 90 percent band while PaO2 is also falling.",
+    "ask": "What warning sits beside the oxygenation table?",
+    "choices": [
+      {
+        "text": "The critical band is SpO2 above 95 percent.",
+        "note": "No. The critical threshold named in the note is 85 to 90 percent."
+      },
+      {
+        "text": "Below that level SpO2 barely changes when PaO2 falls.",
+        "note": "No. A small fall in PaO2 produces a sharp fall in SpO2."
+      },
+      {
+        "text": "SpO2 of 85 to 90 percent is a critical threshold, and below this level a small fall in PaO2 produces a sharp fall in SpO2.",
+        "note": "Correct. That note is separate from the treatment rows, which still label 85 to 90 percent as the mild-hypoxaemia band."
+      },
+      {
+        "text": "The note says only PaCO2, not PaO2, drives the sharp fall.",
+        "note": "No. The note links the sharp fall in SpO2 to a small fall in PaO2."
+      }
+    ],
+    "answer": 2,
+    "page": "31"
+  },
+  {
+    "id": "med-028",
+    "topic": "Mild hypoxaemia",
+    "scene": "SpO2 is under 90 percent but still inside 85 to 90 percent, and PaO2 is under 10 kPa.",
+    "ask": "Which treatment row fits?",
+    "choices": [
+      {
+        "text": "Severe hypoxaemia, treated only with IPPV.",
+        "note": "No. Severe is SpO2 under 60 percent. This band is mild hypoxaemia."
+      },
+      {
+        "text": "Acceptable gas, so no oxygen treatment.",
+        "note": "No. No treatment is the row above 90 percent and PaO2 above 10 kPa."
+      },
+      {
+        "text": "Mild hypoxaemia is treated with nasal oxygen at 6 L/min as the table dose.",
+        "note": "No. The table says nasal cannula 2 to 4 L/min or a simple mask at 4 L/min. The 6 L/min figure is on the earlier saturation page, not this row."
+      },
+      {
+        "text": "Mild hypoxaemia: nasal cannula at 2 to 4 L/min or a simple mask at 4 L/min.",
+        "note": "Correct. The matching gas line is PaO2 under 10 kPa, under about 80 mmHg. This row is not the IPPV row."
+      }
+    ],
+    "answer": 3,
+    "page": "31"
+  },
+  {
+    "id": "med-029",
+    "topic": "Moderate and severe hypoxaemia",
+    "scene": "One saturation is under 85 percent and another is under 60 percent.",
+    "ask": "How does the table separate moderate and severe hypoxaemia?",
+    "choices": [
+      {
+        "text": "Under 85 percent, PaO2 under 8 kPa or under 60 mmHg, is moderate and is treated with oxygen with or without IPPV; under 60 percent, PaO2 under 4 kPa or under 30 mmHg, is severe and is treated with IPPV.",
+        "note": "Correct. Moderate is not left on a simple mask alone, and severe is not a no-treatment row."
+      },
+      {
+        "text": "Under 85 percent is still mild and needs no oxygen.",
+        "note": "No. Mild is the 85 to 90 percent band. Under 85 percent is moderate."
+      },
+      {
+        "text": "Severe hypoxaemia starts under 90 percent and uses only a simple mask at 4 L/min.",
+        "note": "No. Under 90 percent down to 85 is mild. Severe is under 60 percent and uses IPPV."
+      },
+      {
+        "text": "Moderate forbids IPPV, and severe is managed with no ventilator.",
+        "note": "No. Moderate is oxygen with or without IPPV, and severe is IPPV."
+      }
+    ],
+    "answer": 0,
+    "page": "31"
+  },
+  {
+    "id": "med-030",
+    "topic": "Acceptable oxygenation",
+    "scene": "SpO2 is above 90 percent and PaO2 is above 10 kPa.",
+    "ask": "What does the top treatment row say?",
+    "choices": [
+      {
+        "text": "Any saturation under 95 percent is severe hypoxaemia.",
+        "note": "No. Severe is under 60 percent. The header reference of 95 to 100 percent is not the severe line."
+      },
+      {
+        "text": "That reading is acceptable and needs no oxygen treatment on this table.",
+        "note": "Correct. The header also prints a reference SpO2 of 95 to 100 percent and PaO2 of 10.7 to 13.3 kPa, or 80 to 100 mmHg, but the no-treatment decision row is above 90 percent and above 10 kPa, about 80 mmHg."
+      },
+      {
+        "text": "Above 90 percent is mild hypoxaemia and needs IPPV.",
+        "note": "No. Above 90 percent is the acceptable, no-treatment row."
+      },
+      {
+        "text": "No-treatment status requires saturation under 60 percent.",
+        "note": "No. Under 60 percent is severe hypoxaemia treated with IPPV."
+      }
+    ],
+    "answer": 1,
+    "page": "31"
+  },
+  {
+    "id": "med-031",
+    "topic": "ABG acceptable range",
+    "scene": "The doctor wants the acceptable arterial-blood-gas box, not the later six-step cuts.",
+    "ask": "Which set is the acceptable range on the ABG page?",
+    "choices": [
+      {
+        "text": "pH 7.35 to 7.45 is the acceptable box on this page.",
+        "note": "No. 7.35 and 7.45 are the six-step acidosis and alkalosis cuts, not this acceptable box."
+      },
+      {
+        "text": "PaCO2 is 22 to 28 mmHg and bicarbonate is 38 to 42 milliequivalents per litre.",
+        "note": "No. Those two ranges are swapped. Bicarbonate is 22 to 28 and PaCO2 is 38 to 42."
+      },
+      {
+        "text": "pH 7.38 to 7.42, bicarbonate 22 to 28 milliequivalents per litre, PaO2 75 to 100 mmHg, PaCO2 38 to 42 mmHg, and saturation 94 to 100 percent.",
+        "note": "Correct. The test measures PaO2, PaCO2, pH, oxyhaemoglobin saturation, and bicarbonate."
+      },
+      {
+        "text": "PaO2 is 38 to 42 mmHg and saturation is 88 to 92 percent.",
+        "note": "No. PaO2 is 75 to 100 mmHg and saturation is 94 to 100 percent. 88 to 92 percent is the COPD target on an earlier page."
+      }
+    ],
+    "answer": 2,
+    "page": "32"
+  },
+  {
+    "id": "med-032",
+    "topic": "ABG six-step pH",
+    "scene": "One nurse uses the acceptable pH box and another uses step 1 of the six-step method.",
+    "ask": "How do those two printed pH rules differ?",
+    "choices": [
+      {
+        "text": "Both pages use 7.38 and 7.42 as the acidosis and alkalosis cuts.",
+        "note": "No. Only the acceptable box uses 7.38 to 7.42. Step 1 uses under 7.35 and over 7.45."
+      },
+      {
+        "text": "Step 1 calls any pH under 7.42 acidosis.",
+        "note": "No. Step 1 acidosis is pH under 7.35."
+      },
+      {
+        "text": "Step 1 calls alkalosis as soon as pH is above 7.38.",
+        "note": "No. Step 1 alkalosis is pH above 7.45."
+      },
+      {
+        "text": "The acceptable box is 7.38 to 7.42, but step 1 calls acidosis only when pH is under 7.35 and alkalosis only when pH is over 7.45.",
+        "note": "Correct. A pH below 7.38 but not below 7.35 sits outside the acceptable box and is still not labelled acidosis by step 1. Do not treat the two cuts as the same."
+      }
+    ],
+    "answer": 3,
+    "page": "32-33"
+  },
+  {
+    "id": "med-033",
+    "topic": "ABG steps 2 and 3",
+    "scene": "The gas shows a large rise in carbon dioxide, a higher bicarbonate, and a base excess that is only mildly off.",
+    "ask": "How do steps 2 and 3 read that respiratory pattern?",
+    "choices": [
+      {
+        "text": "A marked rise in pCO2 is the primary cause and a rise in HCO3 is renal compensation; respiratory base excess is about 0 plus or minus 6, while metabolic acidosis is a very negative base excess and metabolic alkalosis a very positive one.",
+        "note": "Correct. A negative base excess means acid has accumulated, and a positive base excess means alkali has accumulated."
+      },
+      {
+        "text": "The primary cause of respiratory acidosis in the worked example is a low pCO2.",
+        "note": "No. The example shows a marked rise in pCO2 as the primary cause."
+      },
+      {
+        "text": "A very negative base excess is the printed pattern for metabolic alkalosis.",
+        "note": "No. Metabolic alkalosis has a very positive base excess; metabolic acidosis has a very negative one."
+      },
+      {
+        "text": "Renal compensation in the respiratory-acidosis example is a fall in HCO3.",
+        "note": "No. Compensation in that example is a rise in HCO3."
+      }
+    ],
+    "answer": 0,
+    "page": "33"
+  },
+  {
+    "id": "med-034",
+    "topic": "ABG steps 4 to 6",
+    "scene": "The pH and the bicarbonate are done and the student is about to stop.",
+    "ask": "What do steps 4, 5, and 6 add?",
+    "choices": [
+      {
+        "text": "Step 4 ignores oxygenation and only names the drug chart.",
+        "note": "No. Step 4 checks pO2 and SpO2 for the arterial oxygenation status."
+      },
+      {
+        "text": "Step 4 reads a low pO2 as hypoxaemia and a high pCO2 as hypercapnia from the oxygenation check; step 5 matches the gas to the history and the clinical signs; step 6 makes the diagnosis.",
+        "note": "Correct. The approach does not stop after the base excess."
+      },
+      {
+        "text": "The method ends at step 3.",
+        "note": "No. Steps 4, 5, and 6 are printed."
+      },
+      {
+        "text": "A low pO2 is called hypercapnia.",
+        "note": "No. A low pO2 is hypoxaemia; a high pCO2 is hypercapnia."
+      }
+    ],
+    "answer": 1,
+    "page": "33"
+  },
+  {
+    "id": "med-035",
+    "topic": "Respiratory acidosis",
+    "scene": "A patient with COPD has a respiratory acidosis linked to hypoventilation.",
+    "ask": "Which pattern and treatment match that row?",
+    "choices": [
+      {
+        "text": "Decrease ventilation and give Diamox.",
+        "note": "No. Decreasing ventilation is the respiratory-alkalosis treatment, and Diamox is for metabolic alkalosis."
+      },
+      {
+        "text": "The primary change is a low CO2.",
+        "note": "No. In respiratory acidosis the primary change is a marked rise in CO2."
+      },
+      {
+        "text": "pH is low or normal, CO2 is markedly up as the primary change, and HCO3 is up as compensation; give low-dose oxygen for COPD and increase ventilation for hypoventilation.",
+        "note": "Correct. The examples named are COPD and hypoventilation. High-concentration oxygen is not the printed treatment."
+      },
+      {
+        "text": "HCO3 is the primary fall and CO2 only compensates.",
+        "note": "No. That pattern is metabolic acidosis, not respiratory acidosis."
+      }
+    ],
+    "answer": 2,
+    "page": "35"
+  },
+  {
+    "id": "med-036",
+    "topic": "Metabolic acidosis",
+    "scene": "The row in front of the team lists DKA, chronic renal failure, and diarrhoea.",
+    "ask": "What pattern and treatment are printed for metabolic acidosis?",
+    "choices": [
+      {
+        "text": "The examples are anxiety and hyperventilation.",
+        "note": "No. Those examples belong to respiratory alkalosis."
+      },
+      {
+        "text": "The primary change is a high HCO3.",
+        "note": "No. The primary change is a marked fall in HCO3."
+      },
+      {
+        "text": "Treatment is low-dose oxygen and Diamox.",
+        "note": "No. Low-dose oxygen is for COPD respiratory acidosis, and Diamox is for metabolic alkalosis."
+      },
+      {
+        "text": "pH is low, CO2 falls as compensation, and HCO3 falls markedly as the primary cause; treat a high potassium in DKA and give bicarbonate as needed.",
+        "note": "Correct. The cause is treated, and bicarbonate is as needed, not the COPD oxygen line."
+      }
+    ],
+    "answer": 3,
+    "page": "35"
+  },
+  {
+    "id": "med-037",
+    "topic": "Respiratory alkalosis",
+    "scene": "An anxious patient is hyperventilating and the gas fits respiratory alkalosis.",
+    "ask": "What does that row tell you to do?",
+    "choices": [
+      {
+        "text": "Decrease ventilation; pH is high or normal, CO2 is markedly down as the primary cause, and HCO3 is down as compensation.",
+        "note": "Correct. The examples are anxiety and hyperventilation."
+      },
+      {
+        "text": "Increase ventilation and give low-dose oxygen.",
+        "note": "No. Increasing ventilation is the hypoventilation treatment inside respiratory acidosis."
+      },
+      {
+        "text": "The primary change is a high CO2.",
+        "note": "No. The primary change is a marked fall in CO2."
+      },
+      {
+        "text": "Give bicarbonate first because HCO3 is the primary fall.",
+        "note": "No. The HCO3 fall is compensation. Bicarbonate as needed is the metabolic-acidosis line."
+      }
+    ],
+    "answer": 0,
+    "page": "35"
+  },
+  {
+    "id": "med-038",
+    "topic": "Metabolic alkalosis",
+    "scene": "A patient on diuretics has been vomiting and the gas shows metabolic alkalosis.",
+    "ask": "What treatment is printed for that row?",
+    "choices": [
+      {
+        "text": "Diamox is printed to keep bicarbonate in during acidosis.",
+        "note": "No. Diamox is considered so that more bicarbonate is excreted in metabolic alkalosis."
+      },
+      {
+        "text": "Check sodium and chloride and replace them as needed, and consider Diamox to increase bicarbonate excretion; pH is high, CO2 rises as compensation, and HCO3 is markedly up as the primary cause.",
+        "note": "Correct. The examples are vomiting, other gastrointestinal loss, and diuretics."
+      },
+      {
+        "text": "The examples are DKA, chronic renal failure, and diarrhoea.",
+        "note": "No. Those are the metabolic-acidosis examples."
+      },
+      {
+        "text": "Treat a high potassium and do not replace chloride.",
+        "note": "No. Treating high potassium is the DKA line. This row says check sodium and chloride and replace as needed."
+      }
+    ],
+    "answer": 1,
+    "page": "35"
+  },
+  {
+    "id": "med-039",
+    "topic": "Respiratory drug groups",
+    "scene": "The student lists the usual respiratory medicines before the drug round.",
+    "ask": "Which three groups open that section, and why is the steroid there?",
+    "choices": [
+      {
+        "text": "Thrombolytics, antiplatelets, and nitrates.",
+        "note": "No. Those drugs appear in the heart and stroke sections, not as the three usual respiratory groups."
+      },
+      {
+        "text": "Corticosteroids are listed to increase mucosal oedema.",
+        "note": "No. They are noted for reducing mucosal oedema."
+      },
+      {
+        "text": "Bronchodilators, anticholinergic agents, and corticosteroids, with the corticosteroid noted for reducing mucosal oedema.",
+        "note": "Correct. Doses come on the following pages, not on this title slide."
+      },
+      {
+        "text": "Theophylline replaces all three groups on the opening page.",
+        "note": "No. Theophylline is a later page. The opening three are bronchodilators, anticholinergics, and corticosteroids."
+      }
+    ],
+    "answer": 2,
+    "page": "36"
+  },
+  {
+    "id": "med-040",
+    "topic": "Beta-2 inhalers",
+    "scene": "Ventolin is prescribed for wheeze and the student asks what the page claims it can do.",
+    "ask": "What is printed for Ventolin and Combivent?",
+    "choices": [
+      {
+        "text": "The puff range is once a week.",
+        "note": "No. It is 2 to 4 puffs from QID to Q4H."
+      },
+      {
+        "text": "They are credited with lowering exacerbation rate and mortality.",
+        "note": "No. The page says they have no benefit on reducing exacerbation or mortality. A lower exacerbation rate is linked to corticosteroids."
+      },
+      {
+        "text": "The side effects are bradycardia and a high potassium only.",
+        "note": "No. The printed side effects are tachycardia, tremor, low potassium, and hyperglycaemia."
+      },
+      {
+        "text": "They are beta-2 stimulants that relax bronchial smooth muscle, given as 2 to 4 puffs from QID to Q4H; side effects include tachycardia, tremor, low potassium, and hyperglycaemia, and they do not reduce exacerbations or mortality.",
+        "note": "Correct. Salbutamol examples on the page are Ventolin and Bricanyl. Combivent shares the same puff range."
+      }
+    ],
+    "answer": 3,
+    "page": "37"
+  },
+  {
+    "id": "med-041",
+    "topic": "Bricanyl doses",
+    "scene": "The chart shows Bricanyl both as a durule and as a subcutaneous order.",
+    "ask": "Which doses are printed?",
+    "choices": [
+      {
+        "text": "Bricanyl durule 5 to 7.5 mg twice daily, and Bricanyl 0.5 mg subcutaneously Q8H as needed.",
+        "note": "Correct. Bricanyl is listed with Ventolin under the beta-2 examples."
+      },
+      {
+        "text": "The durule is 0.5 mg and the subcutaneous dose is 5 to 7.5 mg.",
+        "note": "No. Those two doses are swapped."
+      },
+      {
+        "text": "Both forms are 2 to 4 puffs from QID to Q4H.",
+        "note": "No. That puff range is Ventolin, Combivent, and Atrovent, not the Bricanyl durule or injection."
+      },
+      {
+        "text": "Bricanyl is listed only as an anticholinergic.",
+        "note": "No. It sits with the beta-2 stimulants."
+      }
+    ],
+    "answer": 0,
+    "page": "37"
+  },
+  {
+    "id": "med-042",
+    "topic": "Atrovent",
+    "scene": "Atrovent has just been given and the nurse asks when this page says it acts.",
+    "ask": "What does the anticholinergic page print?",
+    "choices": [
+      {
+        "text": "It acts in 20 seconds and is given once daily.",
+        "note": "No. It takes 20 minutes to act and the puff frequency is QID to Q4H."
+      },
+      {
+        "text": "Ipratropium, as Atrovent, 2 to 4 puffs from QID to Q4H, taking 20 minutes to act, and inhibiting vagally mediated reflexes; it can be mixed with a beta-2 stimulant as Combivent.",
+        "note": "Correct. This 20-minute onset is the anticholinergic page, not the later multi-use inhaler line."
+      },
+      {
+        "text": "It cannot be mixed with a beta-2 stimulant.",
+        "note": "No. The page says it can be mixed with a beta-2 stimulant as Combivent."
+      },
+      {
+        "text": "It is the steroid that reduces oedema of the small airways.",
+        "note": "No. That action belongs to the corticosteroid. Atrovent inhibits vagally mediated reflexes."
+      }
+    ],
+    "answer": 1,
+    "page": "38"
+  },
+  {
+    "id": "med-043",
+    "topic": "Theophylline",
+    "scene": "Nuelin SR is on the regular chart and aminophylline is written in normal saline.",
+    "ask": "Which theophylline statement matches the page?",
+    "choices": [
+      {
+        "text": "Aminophylline is the twice-daily tablet and Nuelin SR is the saline infusion.",
+        "note": "No. Nuelin SR is 100 to 200 mg BD. Aminophylline is 250 to 375 mg in normal saline from Q12H to Q8H."
+      },
+      {
+        "text": "Theophyllines give significant relief in the acute attack.",
+        "note": "No. The page says there is no significant relief in the acute stage."
+      },
+      {
+        "text": "Nuelin SR 100 to 200 mg twice daily, and aminophylline 250 to 375 mg in normal saline from Q12H to Q8H; side effects include palpitation, tremor, headache, and muscle cramps, with no significant relief in the acute stage.",
+        "note": "Correct. The page says there are more side effects than with the simpler bronchodilators."
+      },
+      {
+        "text": "The only side effect named is a low potassium.",
+        "note": "No. Low potassium is a beta-2 side effect. Theophylline side effects here are palpitation, tremor, headache, and muscle cramps."
+      }
+    ],
+    "answer": 2,
+    "page": "39"
+  },
+  {
+    "id": "med-044",
+    "topic": "Corticosteroid doses",
+    "scene": "Intravenous hydrocortisone is due and a steroid inhaler is also prescribed.",
+    "ask": "Which corticosteroid instructions are printed?",
+    "choices": [
+      {
+        "text": "Hydrocortisone is 250 micrograms inhaled, and the inhaler is 100 mg IV.",
+        "note": "No. Those doses are swapped."
+      },
+      {
+        "text": "Mouth washing is forbidden after the steroid inhaler.",
+        "note": "No. The page says perform a mouth wash after the steroid inhaler."
+      },
+      {
+        "text": "This page says steroids do not change the exacerbation rate.",
+        "note": "No. They are associated with a lower exacerbation rate. No benefit on exacerbations is the beta-2 line."
+      },
+      {
+        "text": "Hydrocortisone 100 mg IV Q6H or Q8H, and Becloforte or Becotide 250 micrograms, 2 to 4 puffs from BD to QID; they lessen inflammation and oedema of small airways, the mouth is washed after the steroid inhaler, and they are linked with a lower exacerbation rate.",
+        "note": "Correct. The examples named are hydrocortisone and beclomethasone dipropionate, by aerosol or by vein."
+      }
+    ],
+    "answer": 3,
+    "page": "40"
+  },
+  {
+    "id": "med-045",
+    "topic": "Exacerbation contrast",
+    "scene": "The student thinks every respiratory drug on these pages reduces exacerbations.",
+    "ask": "Which comparison is actually printed?",
+    "choices": [
+      {
+        "text": "Beta-2 stimulants have no benefit on reducing exacerbation or mortality, whereas corticosteroids are associated with a lower exacerbation rate.",
+        "note": "Correct. Theophylline is not the drug credited with that lower exacerbation rate; it has no significant acute relief."
+      },
+      {
+        "text": "Both beta-2 stimulants and corticosteroids are said to lower mortality.",
+        "note": "No. Beta-2 stimulants have no benefit on mortality, and the steroid line is about exacerbations, not a mortality claim."
+      },
+      {
+        "text": "Steroids have no effect on exacerbations, and beta-2 drugs reduce mortality.",
+        "note": "No. That reverses the two pages."
+      },
+      {
+        "text": "Theophylline is the drug named for a lower exacerbation rate.",
+        "note": "No. The lower exacerbation rate is linked to the corticosteroid."
+      }
+    ],
+    "answer": 0,
+    "page": "37-40"
+  },
+  {
+    "id": "med-046",
+    "topic": "Metered-dose inhaler",
+    "scene": "A patient is using a metered-dose inhaler for the first time.",
+    "ask": "Which steps match the inhaler page?",
+    "choices": [
+      {
+        "text": "Inhale as fast as possible and do not hold the breath.",
+        "note": "No. The inhale is slow and deep over 3 to 5 seconds, then the breath is held about 10 seconds."
+      },
+      {
+        "text": "Hold it upright and shake it, tilt the head slightly back and breathe out, stay about two finger-widths from the open mouth or seal the lips on the mouthpiece, press and inhale slowly over 3 to 5 seconds, hold the breath about 10 seconds, wait about 30 seconds between puffs, and rinse after an inhaled steroid such as QVAR, Flovent, or Asmanex.",
+        "note": "Correct. Breathe normally after the breath-hold, and replace the cap when finished."
+      },
+      {
+        "text": "Wait about 30 minutes between puffs and skip the rinse after a steroid.",
+        "note": "No. The wait is about 30 seconds, and the mouth is rinsed after an inhaled steroid."
+      },
+      {
+        "text": "Keep the inhaler horizontal, do not shake it, and swallow the spray.",
+        "note": "No. Hold it upright, shake it, and inhale it; do not treat it as a swallowed dose."
+      }
+    ],
+    "answer": 1,
+    "page": "41"
+  },
+  {
+    "id": "med-047",
+    "topic": "Inhaler order",
+    "scene": "Ventolin, Atrovent, and Beclofort are all due together.",
+    "ask": "In what order does the multi-use page place them?",
+    "choices": [
+      {
+        "text": "Beclofort first, because the steroid is the immediate reliever.",
+        "note": "No. Ventolin is first for immediate relief. Beclofort is last."
+      },
+      {
+        "text": "Atrovent acts at once and lasts about 15 minutes.",
+        "note": "No. This page says it starts after about 15 minutes and lasts 6 to 8 hours."
+      },
+      {
+        "text": "Ventolin first, the short-acting drug for immediate relief; then Atrovent, which starts in about 15 minutes and lasts 6 to 8 hours; then Beclofort, the steroid inhaler.",
+        "note": "Correct. On this page Atrovent inhibits tightening of muscle around the large airways. The 15-minute onset is this multi-use page, not the 20-minute line on the anticholinergic page."
+      },
+      {
+        "text": "Ventolin last, because it is described as the steroid.",
+        "note": "No. Ventolin is the first, short-acting bronchodilator. The steroid is Beclofort."
+      }
+    ],
+    "answer": 2,
+    "page": "42"
+  },
+  {
+    "id": "med-048",
+    "topic": "Heart-failure definition",
+    "scene": "A patient is told the heart cannot meet the body's metabolic needs.",
+    "ask": "How is heart failure defined?",
+    "choices": [
+      {
+        "text": "Failure of the lungs to remove carbon dioxide.",
+        "note": "No. That is a respiratory-failure idea. This definition is about the heart's pump and filling."
+      },
+      {
+        "text": "A sudden bleed into the brain.",
+        "note": "No. That is haemorrhagic stroke, not heart failure."
+      },
+      {
+        "text": "Normal filling and ejection with failure limited to a valve that the page does not require.",
+        "note": "No. The definition requires impaired ventricular filling or ejection."
+      },
+      {
+        "text": "A state in which the heart cannot pump enough blood for metabolic needs after any structural or functional impairment of ventricular filling or ejection.",
+        "note": "Correct. The page also calls this congestive heart failure. It is not defined as a lung or brain event."
+      }
+    ],
+    "answer": 3,
+    "page": "45"
+  },
+  {
+    "id": "med-049",
+    "topic": "When the heart fails",
+    "scene": "The student asks when this page says the heart actually fails.",
+    "ask": "Which volume statement is printed?",
+    "choices": [
+      {
+        "text": "With intrinsic disease or a structural problem it cannot handle a normal blood volume, or, without disease, it cannot tolerate a sudden expansion in blood volume.",
+        "note": "Correct. Failure also follows systolic or diastolic change in the left ventricle. Named causes include chronic hypertension, coronary artery disease, and valvular disease. It is progressive and chronic, managed by major lifestyle change and adjunct medicines to improve quality of life."
+      },
+      {
+        "text": "It fails only when blood volume falls below normal.",
+        "note": "No. With disease it cannot handle a normal volume; without disease it cannot tolerate a sudden expansion."
+      },
+      {
+        "text": "A sudden expansion of blood volume is well tolerated if there is no heart disease.",
+        "note": "No. The page says that even without disease a sudden expansion may not be tolerated."
+      },
+      {
+        "text": "The named causes are pneumonia, lung fibrosis, and brainstem injury.",
+        "note": "No. Those are respiratory-failure examples. Heart-failure causes named here include chronic hypertension, coronary disease, and valvular disease."
+      }
+    ],
+    "answer": 0,
+    "page": "45"
+  },
+  {
+    "id": "med-050",
+    "topic": "Heart-failure syndrome",
+    "scene": "A relative calls heart failure one disease with one set of signs.",
+    "ask": "What does the next heart-failure page correct?",
+    "choices": [
+      {
+        "text": "The page calls heart failure a single disease with one symptom set.",
+        "note": "No. It says heart failure is not a disease itself, and the two sides differ."
+      },
+      {
+        "text": "Heart failure is not a disease itself; it is a syndrome of volume overload, inadequate tissue perfusion, and poor exercise tolerance, and left-sided and right-sided failure do not look the same.",
+        "note": "Correct. Signs and symptoms are defined by which ventricle is affected."
+      },
+      {
+        "text": "Poor exercise tolerance is excluded from the syndrome.",
+        "note": "No. Poor exercise tolerance is one of the three features named."
+      },
+      {
+        "text": "Volume overload is replaced on this page by a high oxygen saturation.",
+        "note": "No. Volume overload is part of the syndrome."
+      }
+    ],
+    "answer": 1,
+    "page": "46"
+  },
+  {
+    "id": "med-051",
+    "topic": "Pump failure",
+    "scene": "The student is explaining why both the lungs and the systemic veins are congested.",
+    "ask": "What follows pump failure, and which side is usually first?",
+    "choices": [
+      {
+        "text": "Congestion comes first and hypoperfusion does not occur.",
+        "note": "No. Hypoperfusion of tissues comes first, then pulmonary and systemic venous congestion."
+      },
+      {
+        "text": "The right side is usually affected first.",
+        "note": "No. The left side is usually affected first."
+      },
+      {
+        "text": "Pump failure causes tissue hypoperfusion, then pulmonary and systemic venous congestion; the left side is usually affected first, though the right side or both sides can fail.",
+        "note": "Correct. The page does not list a separate symptom catalogue for each side beyond saying the sets differ."
+      },
+      {
+        "text": "Both sides fail together in every case.",
+        "note": "No. Either side or both can fail, and the left is usually first."
+      }
+    ],
+    "answer": 2,
+    "page": "46"
+  },
+  {
+    "id": "med-052",
+    "topic": "Coronary artery disease",
+    "scene": "A patient asks which heart problem is the most common.",
+    "ask": "What does the coronary page state?",
+    "choices": [
+      {
+        "text": "Valvular disease is named as the most common type of heart disease.",
+        "note": "No. Valvular disease is a cause of heart failure. Coronary artery disease is the most common heart disease here."
+      },
+      {
+        "text": "Atherosclerosis is said to spare the coronary arteries.",
+        "note": "No. Atherosclerosis is the principal cause, inside the coronary artery walls."
+      },
+      {
+        "text": "The page says coronary disease cannot be prevented or treated in most people.",
+        "note": "No. It says lifestyle changes, medicines, and or procedures can prevent or treat it in most people."
+      },
+      {
+        "text": "Coronary artery disease is the most common type of heart disease, atherosclerosis is its principal cause, and lifestyle changes, medicines, or procedures can prevent or treat it in most people.",
+        "note": "Correct. Atherosclerotic change is in the walls of the coronary arteries."
+      }
+    ],
+    "answer": 3,
+    "page": "47"
+  },
+  {
+    "id": "med-053",
+    "topic": "Angina",
+    "scene": "The notes say angina while the patient describes chest pain.",
+    "ask": "What does angina mean here, and when is there ischaemia?",
+    "choices": [
+      {
+        "text": "Angina pectoris literally means strangling of the chest, the pain of myocardial ischaemia, which occurs when oxygen demand exceeds supply.",
+        "note": "Correct. The page uses the spelling ischemia. Plaque and atherosclerosis can leave the muscle short of blood and oxygen."
+      },
+      {
+        "text": "Angina means a brain clot and is unrelated to myocardial oxygen.",
+        "note": "No. It is chest pain from myocardial ischaemia."
+      },
+      {
+        "text": "Ischaemia occurs when oxygen supply exceeds demand.",
+        "note": "No. Ischaemia occurs if demand exceeds supply."
+      },
+      {
+        "text": "Angina is defined as pain from a pulmonary embolus.",
+        "note": "No. Pulmonary embolism is a dead-space example, not the definition of angina."
+      }
+    ],
+    "answer": 0,
+    "page": "48"
+  },
+  {
+    "id": "med-054",
+    "topic": "Coronary narrowing",
+    "scene": "The teaching round turns to plaque and clot inside a coronary artery.",
+    "ask": "What end result does this page describe?",
+    "choices": [
+      {
+        "text": "Plaque widens the artery and increases oxygen supply.",
+        "note": "No. Plaque and thrombus narrow the artery."
+      },
+      {
+        "text": "Thrombus and further plaque narrow the coronary arteries, causing ischaemia and death of myocardial tissue.",
+        "note": "Correct. The muscle can be deprived of blood and oxygen because of plaque and atherosclerosis."
+      },
+      {
+        "text": "Thrombus is said to protect myocardial tissue from death.",
+        "note": "No. Narrowing causes ischaemia and death of myocardial tissue."
+      },
+      {
+        "text": "Narrowing causes ischaemia only when oxygen supply exceeds demand.",
+        "note": "No. Ischaemia is when demand exceeds supply."
+      }
+    ],
+    "answer": 1,
+    "page": "48"
+  },
+  {
+    "id": "med-055",
+    "topic": "Myocardial infarction",
+    "scene": "The team uses the words heart attack at the bedside.",
+    "ask": "How is myocardial infarction described?",
+    "choices": [
+      {
+        "text": "The major cause is brainstem injury.",
+        "note": "No. The major cause of a heart attack here is coronary artery disease."
+      },
+      {
+        "text": "Infarction means a mismatch that cannot cause cardiac death.",
+        "note": "No. If supply and demand stay out of balance it can cause infarction, described as cardiac death."
+      },
+      {
+        "text": "It is commonly called a heart attack; the major cause is coronary artery disease, and cardiac death can follow when myocardial oxygen supply and demand are out of balance.",
+        "note": "Correct. Myocardial ischaemia is inadequate perfusion from a partial or complete blockage of blood and oxygen. As cells lose oxygen, ischaemia sets in."
+      },
+      {
+        "text": "Ischaemia is extra oxygen delivery through a fully open artery.",
+        "note": "No. Ischaemia is inadequate perfusion from a partial or complete blockage."
+      }
+    ],
+    "answer": 2,
+    "page": "49"
+  },
+  {
+    "id": "med-056",
+    "topic": "Infarction pain and other causes",
+    "scene": "Chest pressure is spreading to the jaw, and the history includes a coronary spasm.",
+    "ask": "Which other causes and which typical symptom are printed?",
+    "choices": [
+      {
+        "text": "The only other cause listed is a high blood glucose.",
+        "note": "No. The other causes are vasospasm, blood clots, electrolyte imbalance, and coronary trauma."
+      },
+      {
+        "text": "The pain stays in the chest and does not move to the jaw or arm.",
+        "note": "No. It may radiate to the neck, jaw, shoulder, or arm."
+      },
+      {
+        "text": "The most common symptom is a sudden wry mouth.",
+        "note": "No. A wry mouth is a stroke sign. Here the most common symptom is chest pressure or discomfort."
+      },
+      {
+        "text": "Other causes include vasospasm, blood clots, electrolyte imbalance, and trauma to the coronary arteries; the most common symptom of a prolonged lack of oxygen is chest pressure or discomfort, which may spread to the neck, jaw, shoulder, or arm.",
+        "note": "Correct. Vasospasm is a sudden constriction or narrowing of a coronary artery. Tests, laboratory results, and ECG changes may show heart damage."
+      }
+    ],
+    "answer": 3,
+    "page": "50"
+  },
+  {
+    "id": "med-057",
+    "topic": "Pathological Q wave",
+    "scene": "The ECG shows a deep negative wave at the start of the QRS.",
+    "ask": "When is a Q wave called pathological?",
+    "choices": [
+      {
+        "text": "The Q wave is the first negative wave away from the baseline, and a Q wave greater than 25 percent of the height of the QRS indicates myocardial infarction.",
+        "note": "Correct. Reviewing the ECG for that Q wave is part of the diagnostic procedure page."
+      },
+      {
+        "text": "A pathological Q wave is any positive wave after the T wave.",
+        "note": "No. The Q wave is the first negative wave away from the baseline."
+      },
+      {
+        "text": "The cutoff is a Q wave greater than 75 percent of the QRS.",
+        "note": "No. The printed cutoff is greater than 25 percent of the QRS height."
+      },
+      {
+        "text": "Pathological Q waves are said to exclude infarction.",
+        "note": "No. They indicate myocardial infarction."
+      }
+    ],
+    "answer": 0,
+    "page": "52"
+  },
+  {
+    "id": "med-058",
+    "topic": "Cardiac troponin",
+    "scene": "The doctor asks when troponin rises, peaks, and stays up after myocardial damage.",
+    "ask": "How are cardiac troponins described?",
+    "choices": [
+      {
+        "text": "They peak at 4 to 9 hours and are gone by 12 hours.",
+        "note": "No. 4 to 9 hours is when they are most elevated. The peak is after 12 to 24 hours."
+      },
+      {
+        "text": "Troponin I or troponin T is the primary blood test and is extremely sensitive and specific for myocardial ischaemia; levels are most elevated 4 to 9 hours after damage, peak after 12 to 24 hours, and may stay elevated for 1 to 2 weeks.",
+        "note": "Correct. The page says ischaemia here; the biomarkers are for suspected acute myocardial infarction."
+      },
+      {
+        "text": "They stay elevated for 1 to 2 hours only.",
+        "note": "No. They may remain elevated for 1 to 2 weeks."
+      },
+      {
+        "text": "Troponin is a late non-specific test and is not the primary blood test.",
+        "note": "No. Cardiac troponins are the primary blood test and are extremely sensitive and specific."
+      }
+    ],
+    "answer": 1,
+    "page": "52"
+  },
+  {
+    "id": "med-059",
+    "topic": "Echocardiogram timing",
+    "scene": "An echocardiogram is being booked on the day after an infarction.",
+    "ask": "When does this page advise the echo studies?",
+    "choices": [
+      {
+        "text": "The first echo waits until three months, and no early study is advised.",
+        "note": "No. The first echo is in the first 24 to 48 hours. The second is within the first three months."
+      },
+      {
+        "text": "Echo is advised only once troponin has been elevated for 1 to 2 weeks.",
+        "note": "No. The first study is advised in the first 24 to 48 hours."
+      },
+      {
+        "text": "An echo is advised in the first 24 to 48 hours, and a second echo in the first three months sets a baseline after the infarction.",
+        "note": "Correct. Echo is called an essential tool in diagnosing acute myocardial infarction. This three-month echo baseline is not the stroke rehabilitation golden period."
+      },
+      {
+        "text": "A second echo is said to have no baseline role.",
+        "note": "No. The second echo establishes a post-infarction baseline."
+      }
+    ],
+    "answer": 2,
+    "page": "52"
+  },
+  {
+    "id": "med-060",
+    "topic": "Pardee waves",
+    "scene": "The ECG caption is used on the teaching round.",
+    "ask": "Where does the page place Pardee waves of acute infarction?",
+    "choices": [
+      {
+        "text": "Only in lead I, with no reciprocal change.",
+        "note": "No. They are in II, III, and aVF, with reciprocal anterolateral changes."
+      },
+      {
+        "text": "In II, III, and aVF as a normal finding in every tracing.",
+        "note": "No. They are presented as indicating acute infarction, not as normal."
+      },
+      {
+        "text": "In the anterolateral leads as the primary infarct pattern, with reciprocal change in II, III, and aVF.",
+        "note": "No. That swaps the primary leads and the reciprocal leads."
+      },
+      {
+        "text": "In the inferior leads II, III, and aVF, with reciprocal changes in the anterolateral leads.",
+        "note": "Correct. The caption says those Pardee waves indicate acute myocardial infarction."
+      }
+    ],
+    "answer": 3,
+    "page": "53"
+  },
+  {
+    "id": "med-061",
+    "topic": "Clot medicines in infarction",
+    "scene": "A blood-thinning medicine is due during an acute infarction.",
+    "ask": "How are the clot medicines distinguished?",
+    "choices": [
+      {
+        "text": "Anticoagulants prolong the time a clot takes to form, antiplatelets such as aspirin stop platelets sticking together, and thrombolytics or fibrinolytics are the clot busters; the sooner a thrombolytic is given, the less heart damage and the higher the chance of survival.",
+        "note": "Correct. Blood-thinning agents are given cautiously as ordered. By limiting clot growth they lower the risk of infarction and of blocked arteries and veins."
+      },
+      {
+        "text": "Thrombolytics stop platelets sticking and do not dissolve clot.",
+        "note": "No. Antiplatelets stop platelets sticking. Thrombolytics and fibrinolytics dissolve clot."
+      },
+      {
+        "text": "Delaying the thrombolytic does not change damage or survival on this page.",
+        "note": "No. Sooner treatment means less damage and a higher likelihood of survival."
+      },
+      {
+        "text": "Aspirin is classified as the clot buster.",
+        "note": "No. Aspirin is the typical antiplatelet. The clot busters are thrombolytics and fibrinolytics."
+      }
+    ],
+    "answer": 0,
+    "page": "54"
+  },
+  {
+    "id": "med-062",
+    "topic": "Anticoagulant and antiplatelet",
+    "scene": "A patient who has had a heart attack asks which blood thinners are which, and what side effect is most common.",
+    "ask": "Which names and side effect match the page?",
+    "choices": [
+      {
+        "text": "Warfarin is the antiplatelet and aspirin slows clot-making in the way heparin does.",
+        "note": "No. Heparin and warfarin are the anticoagulants. Aspirin and clopidogrel are the antiplatelets."
+      },
+      {
+        "text": "Heparin or warfarin, also called Coumadin, slow the making of clots; aspirin and clopidogrel stop platelets clumping and are taken mainly after a heart attack or stroke; bleeding is the most common side effect, with upset stomach, nausea, and diarrhoea also possible.",
+        "note": "Correct. Antiplatelets are not described as the drugs that slow the body's clot-making process."
+      },
+      {
+        "text": "Antiplatelets are used mainly for pneumonia, not after heart attack or stroke.",
+        "note": "No. They are mainly taken by people who have had a heart attack or stroke."
+      },
+      {
+        "text": "The most common side effect is a low glucose, and bleeding is not mentioned.",
+        "note": "No. Bleeding is the most common side effect. Upset stomach, nausea, and diarrhoea are also listed."
+      }
+    ],
+    "answer": 1,
+    "page": "56"
+  },
+  {
+    "id": "med-063",
+    "topic": "Morphine and nitroglycerin",
+    "scene": "Acute infarction pain continues and both morphine and nitroglycerin are discussed.",
+    "ask": "What does this page say those two drugs do?",
+    "choices": [
+      {
+        "text": "Morphine raises heart rate and venous return and increases oxygen need.",
+        "note": "No. It lowers blood pressure, heart rate, and venous return, and that lessens oxygen need."
+      },
+      {
+        "text": "Nitroglycerin is last-line and constricts the coronary arteries.",
+        "note": "No. It remains first-line and causes vasodilation through nitric oxide."
+      },
+      {
+        "text": "Intravenous morphine, the analgesic used most often, lowers blood pressure, heart rate, and venous return and may activate local histamine-mediated processes, which lessens myocardial oxygen need; nitroglycerin stays first-line, makes nitric oxide, dilates vessels, increases myocardial blood flow, and is used mainly to relieve chest pain.",
+        "note": "Correct. No dose of either drug is printed on this page, so none is added here."
+      },
+      {
+        "text": "Morphine is described as the clot buster.",
+        "note": "No. Clot busters are thrombolytics. Morphine is the pain medicine used most often."
+      }
+    ],
+    "answer": 2,
+    "page": "57"
+  },
+  {
+    "id": "med-064",
+    "topic": "Glyceryl trinitrate class",
+    "scene": "The patient asks what kind of medicine the under-the-tongue tablet is.",
+    "ask": "How is glyceryl trinitrate classified?",
+    "choices": [
+      {
+        "text": "It is a long-acting antibiotic used to watch a fever pattern.",
+        "note": "No. It is a short-acting nitrate for angina."
+      },
+      {
+        "text": "Nitrates constrict vessels so the heart pumps against a higher pressure.",
+        "note": "No. They dilate vessels and make pumping easier."
+      },
+      {
+        "text": "The most common form on this page is an intravenous clot buster.",
+        "note": "No. The most common form named is the sublingual tablet."
+      },
+      {
+        "text": "Nitrates are anti-anginal drugs that dilate vessels so the heart can more easily supply the body and the heart muscle; glyceryl trinitrate is a short-acting nitrate for an angina attack, and the sublingual tablet is the most common form.",
+        "note": "Correct. The Chinese teaching line calls that sublingual tablet the under-tongue pill and says it is used when angina starts."
+      }
+    ],
+    "answer": 3,
+    "page": "59"
+  },
+  {
+    "id": "med-065",
+    "topic": "Taking glyceryl trinitrate",
+    "scene": "Angina has just started and a sublingual glyceryl trinitrate tablet is due.",
+    "ask": "How should that tablet be taken?",
+    "choices": [
+      {
+        "text": "Sit down first to lessen dizziness or headache, place one tablet under the tongue until it dissolves, use a sip of water if the mouth is dry, and do not swallow or chew it; if it is swallowed, place another tablet under the tongue until it dissolves.",
+        "note": "Correct. Use it as soon as symptoms appear."
+      },
+      {
+        "text": "Chew or swallow the tablet so it works faster.",
+        "note": "No. Do not swallow or chew it. If it is swallowed by mistake, use another tablet under the tongue."
+      },
+      {
+        "text": "Stay standing, because sitting makes dizziness worse.",
+        "note": "No. Sit down before using it to lessen dizziness or headache."
+      },
+      {
+        "text": "A dry mouth means the tablet should be swallowed with a full cup of water.",
+        "note": "No. A sip of water may help it dissolve under the tongue. It is still not swallowed as the dose."
+      }
+    ],
+    "answer": 0,
+    "page": "59"
+  },
+  {
+    "id": "med-066",
+    "topic": "Repeating glyceryl trinitrate",
+    "scene": "The angina is still there five minutes after the first sublingual tablet.",
+    "ask": "How far does the page take repeat doses?",
+    "choices": [
+      {
+        "text": "Stop after one tablet whatever the pain does.",
+        "note": "No. A second tablet is used if pain remains at five minutes, and a third after another five minutes."
+      },
+      {
+        "text": "Use a second tablet, and if the pain is still there after another five minutes use a third; if the pain still persists, seek medical help immediately.",
+        "note": "Correct. The gaps printed are five minutes, then another five minutes, then immediate help. No further tablet is listed after the third."
+      },
+      {
+        "text": "The gap between tablets is 30 minutes.",
+        "note": "No. The printed gap is five minutes."
+      },
+      {
+        "text": "A fourth tablet is printed before any call for help.",
+        "note": "No. After the third tablet, if pain persists, seek medical help immediately."
+      }
+    ],
+    "answer": 1,
+    "page": "59"
+  },
+  {
+    "id": "med-067",
+    "topic": "Infarction supply and demand",
+    "scene": "The student uses ischaemia and infarction as if the page made them the same word.",
+    "ask": "How does the infarction page separate them?",
+    "choices": [
+      {
+        "text": "Ischaemia means cardiac death, and infarction means a reversible extra supply of oxygen.",
+        "note": "No. That reverses the page: infarction is the cardiac-death end of a supply-demand failure."
+      },
+      {
+        "text": "Only a complete blockage counts; a partial blockage is excluded.",
+        "note": "No. Ischaemia is inadequate perfusion from a partial or complete blockage."
+      },
+      {
+        "text": "Ischaemia is inadequate perfusion from a partial or complete block; if myocardial oxygen supply and demand stay out of balance, infarction, meaning cardiac death, can follow.",
+        "note": "Correct. In the emergency, as the cells lose oxygen, ischaemia, reduced blood flow, sets in. A partial blockage is included, not only a complete one."
+      },
+      {
+        "text": "Loss of oxygen does not lead to ischaemia.",
+        "note": "No. As the cells lose oxygen, ischaemia sets in."
+      }
+    ],
+    "answer": 2,
+    "page": "49"
+  },
+  {
+    "id": "med-068",
+    "topic": "Stroke types",
+    "scene": "A sudden deficit is called a stroke, and the scan question is clot versus bleed.",
+    "ask": "What two main types are named, and what can cause the bleed?",
+    "choices": [
+      {
+        "text": "Haemorrhagic stroke is the clot and ischaemic stroke is the burst artery.",
+        "note": "No. Those mechanisms are swapped."
+      },
+      {
+        "text": "The only cause of bleeding named here is low blood pressure.",
+        "note": "No. The causes named are aneurysm, high blood pressure, and trauma."
+      },
+      {
+        "text": "Stroke is defined as a block in a coronary artery.",
+        "note": "No. This page is brain blood flow, not the coronary artery."
+      },
+      {
+        "text": "Ischaemic stroke is a blockage, usually a clot; haemorrhagic stroke is sudden bleeding, as when an artery bursts, from an aneurysm, high blood pressure, or trauma.",
+        "note": "Correct. The page spelling is ischemic and hemorrhagic. A stroke here is blood flow to the brain being blocked, with bleeding as the second main type."
+      }
+    ],
+    "answer": 3,
+    "page": "61"
+  },
+  {
+    "id": "med-069",
+    "topic": "Transient ischaemic attack",
+    "scene": "Yesterday's weakness has fully gone and the note says TIA.",
+    "ask": "What is a TIA on this page?",
+    "choices": [
+      {
+        "text": "A mini-stroke: a blockage that clears before lasting damage, and a past TIA raises the chance of a later stroke.",
+        "note": "Correct. It is not the three-month rehabilitation period and it is not a completed bleed."
+      },
+      {
+        "text": "A bleed that always leaves lasting damage.",
+        "note": "No. A TIA resolves before lasting damage."
+      },
+      {
+        "text": "A history of TIA lowers the future stroke risk.",
+        "note": "No. A history of TIAs can increase the risk of a future stroke."
+      },
+      {
+        "text": "TIA means the first three months of rehabilitation.",
+        "note": "No. The first three months are the later golden recovery period, not the definition of a TIA."
+      }
+    ],
+    "answer": 0,
+    "page": "61"
+  },
+  {
+    "id": "med-070",
+    "topic": "Watching a stroke patient",
+    "scene": "Arm weakness is slightly worse than an hour ago.",
+    "ask": "Why must nurses keep watching, and what long-term burden is named?",
+    "choices": [
+      {
+        "text": "Symptoms stay fixed, so observation can wait until discharge.",
+        "note": "No. Symptoms can change rapidly and subtly."
+      },
+      {
+        "text": "Symptoms can change quickly and subtly, so prompt thinking and action are needed to stop decline; a severe stroke may leave the person needing full help to feed, bathe, and turn, and long deficits can bring depression for the person and the family.",
+        "note": "Correct. The page says stroke patients often need nursing monitoring for that reason."
+      },
+      {
+        "text": "Stroke never affects feeding, bathing, or turning.",
+        "note": "No. Severe stroke may require total care in feeding, bathing, and turning."
+      },
+      {
+        "text": "Depression is described only as a nitrate side effect.",
+        "note": "No. On this page long-term deficits can cause depression for the client and the family. Headache and dizziness are the nitrate cautions."
+      }
+    ],
+    "answer": 1,
+    "page": "61"
+  },
+  {
+    "id": "med-071",
+    "topic": "Stroke figures",
+    "scene": "A family asks how common and how deadly stroke is on the Hong Kong teaching slide.",
+    "ask": "Which figures are printed?",
+    "choices": [
+      {
+        "text": "Stroke is the fourth killer worldwide and the second cause of death in Hong Kong.",
+        "note": "No. Worldwide it is the second killer. In Hong Kong it is the fourth cause of death."
+      },
+      {
+        "text": "The lifetime figure is one person in forty, and a death every six minutes.",
+        "note": "No. The page says one in four in a lifetime, and one death about every six seconds."
+      },
+      {
+        "text": "Stroke is the world's second killer and the main cause of adult disability; about one person in four has one in a lifetime; about one person dies of stroke every six seconds; Hong Kong averages about 3,000 stroke deaths a year, the fourth leading cause of death.",
+        "note": "Correct. Recognising the signs matters because faster care means more treatment choices and a better chance of recovery."
+      },
+      {
+        "text": "Hong Kong averages 300 stroke deaths a year as the leading cause of death.",
+        "note": "No. The average is about 3,000 deaths a year, and it is the fourth cause, not the first."
+      }
+    ],
+    "answer": 2,
+    "page": "62"
+  },
+  {
+    "id": "med-072",
+    "topic": "Ischaemic and haemorrhagic burden",
+    "scene": "The family asks why brain cells die and whether bleeding stroke is rare among Chinese patients.",
+    "ask": "What does this page add?",
+    "choices": [
+      {
+        "text": "Haemorrhage is about three in a hundred Chinese strokes.",
+        "note": "No. The page says about three in ten."
+      },
+      {
+        "text": "Most Chinese strokes are haemorrhagic and ischaemic stroke is rare.",
+        "note": "No. Most strokes are still ischaemic, even though the bleeding share is higher than in Western patients."
+      },
+      {
+        "text": "About two thousand brain cells die each hour, and lasting effects are uncommon.",
+        "note": "No. Nearly two million brain cells die each minute, and more than half of patients have lasting effects."
+      },
+      {
+        "text": "Blocked supply starves brain cells of oxygen and nutrients; ischaemic stroke is the most common, but brain haemorrhage is about three in ten Chinese strokes, higher than in Western patients; nearly two million brain cells die each minute, and more than half of patients have lasting effects.",
+        "note": "Correct. Ischaemic stroke here is narrowing or thrombus in a brain or neck vessel. Haemorrhagic stroke is a burst vessel, with blood pressing on brain tissue. Lasting effects can limit movement or cognition, self-care, work, and daily life, and the burden also falls on carers and services."
+      }
+    ],
+    "answer": 3,
+    "page": "62"
+  },
+  {
+    "id": "med-073",
+    "topic": "Stroke warning signs",
+    "scene": "A visitor suddenly slurs, drools from a crooked mouth, and cannot see clearly.",
+    "ask": "What response and which signs are printed?",
+    "choices": [
+      {
+        "text": "Act FAST and call 9-9-9 at once. Signs include one-sided numbness of the face, arm, and leg, a sudden wry mouth with drooling, slurred speech or trouble understanding, a sudden severe headache, trouble seeing in one or both eyes, sudden trouble swallowing, and dizziness, loss of balance or coordination, or nausea and vomiting with no known cause.",
+        "note": "Correct. The page says to know the warning signs and act FAST. It does not spell the letters out in the text."
+      },
+      {
+        "text": "Call only if the signs have lasted three days.",
+        "note": "No. Call 9-9-9 immediately."
+      },
+      {
+        "text": "Headache, visual change, and swallowing trouble are left off the list.",
+        "note": "No. Sudden severe headache, trouble seeing, and sudden difficulty swallowing are all listed."
+      },
+      {
+        "text": "Signs are always on both sides, and speech is spared.",
+        "note": "No. Numbness is especially on one side, and sudden slurring or trouble understanding is listed."
+      }
+    ],
+    "answer": 0,
+    "page": "63-64"
+  },
+  {
+    "id": "med-074",
+    "topic": "Talk smile mnemonic",
+    "scene": "A student teaches the family the Chinese stroke mnemonic 談笑用兵.",
+    "ask": "What does each character stand for?",
+    "choices": [
+      {
+        "text": "談 means a severe headache and 笑 means trouble swallowing.",
+        "note": "No. 談 is unclear speech and 笑 is an asymmetric smile."
+      },
+      {
+        "text": "談 is sudden unclear speech, 笑 is an uneven smile, 用 is sudden weakness or numbness on one side, and 兵 means get medical help quickly.",
+        "note": "Correct. The page says signs depend on the brain area and are often sudden. This mnemonic is for those common signs."
+      },
+      {
+        "text": "兵 means wait three hours before seeking help.",
+        "note": "No. 兵 means seek medical care as soon as these signs appear."
+      },
+      {
+        "text": "The mnemonic is for angina tablets, not stroke.",
+        "note": "No. It is the stroke-sign mnemonic on the neurology page."
+      }
+    ],
+    "answer": 1,
+    "page": "65"
+  },
+  {
+    "id": "med-075",
+    "topic": "Range of stroke signs",
+    "scene": "A relative asks whether every stroke looks the same.",
+    "ask": "What range of signs does the page give?",
+    "choices": [
+      {
+        "text": "Signs are the same whichever brain area is hit.",
+        "note": "No. Signs depend on the area affected."
+      },
+      {
+        "text": "Paralysis of all four limbs and coma are the usual mild signs.",
+        "note": "No. They are the severe end. The most common signs are unclear speech and one-sided weakness or numbness."
+      },
+      {
+        "text": "Signs depend on the brain area and are often sudden; the most common are unclear speech and one-sided weakness or numbness of a limb or the face; others include sudden blurred vision, an unsteady gait, and dizziness; the severe end is paralysis of all four limbs and coma.",
+        "note": "Correct. That range sits beside the 談笑用兵 mnemonic."
+      },
+      {
+        "text": "Blurred vision, unsteady gait, and dizziness do not occur.",
+        "note": "No. They are listed among the other signs."
+      }
+    ],
+    "answer": 2,
+    "page": "65"
+  },
+  {
+    "id": "med-076",
+    "topic": "Golden three hours",
+    "scene": "Symptoms are still inside three hours and the family has not yet reached hospital.",
+    "ask": "Why does the page call those three hours critical?",
+    "choices": [
+      {
+        "text": "The three hours are the rehabilitation golden period after the stroke has settled.",
+        "note": "No. Rehabilitation's golden period is the first three months. These three hours are for emergency treatment."
+      },
+      {
+        "text": "The clot-dissolving injection is useful only after 24 hours.",
+        "note": "No. It is described within three hours of onset."
+      },
+      {
+        "text": "Most strokes on this page are a burst vessel rather than a clot.",
+        "note": "No. This page says most are a brain attack in which a clot blocks flow."
+      },
+      {
+        "text": "Treatment within three hours of onset can reduce disability; most of these strokes are a brain attack from a clot, and a clot-dissolving injection within three hours can reopen the vessel, rescue cells before they are damaged, and limit the stroke.",
+        "note": "Correct. This three-hour treatment window is not the three-month rehabilitation period."
+      }
+    ],
+    "answer": 3,
+    "page": "67"
+  },
+  {
+    "id": "med-077",
+    "topic": "Emergency stroke steps",
+    "scene": "Someone shows stroke signs in the corridor and no doctor is beside them yet.",
+    "ask": "Which order matches the four emergency steps?",
+    "choices": [
+      {
+        "text": "Check the mouth and remove any blockage, lay the person on the side on a flat surface and keep them warm, press the Easylink alarm at once if there is one, then get immediate medical treatment.",
+        "note": "Correct. Acute stroke unit care is printed just after these steps as proven to save lives and reduce disability."
+      },
+      {
+        "text": "Give a drink first, sit the person upright, and delay any alarm.",
+        "note": "No. The mouth is cleared of obstruction, the person is laid on the side, and the alarm is pressed at once if available."
+      },
+      {
+        "text": "Lay the person on the back with the neck flexed before looking in the mouth.",
+        "note": "No. The mouth is checked first, then the person is laid on the side on a flat surface and kept warm."
+      },
+      {
+        "text": "Easylink replaces medical treatment and is used only the next day.",
+        "note": "No. The alarm is the third step if available, and immediate medical treatment is still the fourth step."
+      }
+    ],
+    "answer": 0,
+    "page": "68"
+  },
+  {
+    "id": "med-078",
+    "topic": "Acute stroke unit",
+    "scene": "The family asks whether an acute stroke unit changes the outcome.",
+    "ask": "What has that care been shown to do?",
+    "choices": [
+      {
+        "text": "It shortens physiotherapy only, and does not affect survival.",
+        "note": "No. It has been proven to save lives and reduce disability."
+      },
+      {
+        "text": "Save lives and reduce disability for patients with acute stroke.",
+        "note": "Correct. The line follows the four first-aid steps and applies to acute stroke patients."
+      },
+      {
+        "text": "It increases disability while it lowers clot risk.",
+        "note": "No. It reduces disability. It is not described as increasing it."
+      },
+      {
+        "text": "It has no effect on death or disability.",
+        "note": "No. The page says it saves lives and reduces disability."
+      }
+    ],
+    "answer": 1,
+    "page": "68"
+  },
+  {
+    "id": "med-079",
+    "topic": "Alteplase window",
+    "scene": "An ischaemic stroke is still inside three hours and alteplase is being considered.",
+    "ask": "What limits does the page put on that drug?",
+    "choices": [
+      {
+        "text": "It suits every stroke and can be given any time in the first three days.",
+        "note": "No. It is not suitable for every patient, and the window for maximal effect is three hours from onset."
+      },
+      {
+        "text": "Alteplase is printed as the drug that stops bleeding damage.",
+        "note": "No. The haemorrhagic page says no known drug stops that damage. Alteplase is for the ischaemic clot."
+      },
+      {
+        "text": "rtPA, also named alteplase, is the most promising way to break up the clot, but it does not suit every patient and it must be given within three hours of onset for the greatest effect.",
+        "note": "Correct. It is an emergency treatment to unclog a blocked vessel or artery. It is not described as a drug for a haemorrhagic stroke."
+      },
+      {
+        "text": "The page says the drug has no role in a blocked vessel.",
+        "note": "No. It is described as an effective emergency treatment to unclog a blocked vessel or artery."
+      }
+    ],
+    "answer": 2,
+    "page": "69"
+  },
+  {
+    "id": "med-080",
+    "topic": "Other ischaemic-stroke drugs",
+    "scene": "The patient cannot have rtPA and the team discusses other medicines for ischaemic stroke.",
+    "ask": "What other drug groups does this page name?",
+    "choices": [
+      {
+        "text": "Mannitol and glycerol as the clot-dissolving pair.",
+        "note": "No. Mannitol and glycerol are for brain swelling in haemorrhagic stroke, not the other ischaemic-stroke drugs on this page."
+      },
+      {
+        "text": "Only high-flow oxygen and Panadol.",
+        "note": "No. Those are not the other ischaemic-stroke treatments named here."
+      },
+      {
+        "text": "Diamox, to increase bicarbonate excretion.",
+        "note": "No. Diamox belongs to metabolic alkalosis, not this ischaemic-stroke page."
+      },
+      {
+        "text": "Antiplatelet drugs or anticoagulant drugs.",
+        "note": "Correct. Those are the other treatment named beside the clot-dissolving injection."
+      }
+    ],
+    "answer": 3,
+    "page": "69"
+  },
+  {
+    "id": "med-081",
+    "topic": "Haemorrhagic damage",
+    "scene": "A bleed is confirmed and the family asks for a drug that will undo the brain damage.",
+    "ask": "What does the haemorrhagic-stroke page say about stopping that damage?",
+    "choices": [
+      {
+        "text": "There are no known drugs that stop the damage a haemorrhagic stroke has done to the brain.",
+        "note": "Correct. Care turns to blood pressure, swelling, and selected surgery, not to a damage-reversing drug."
+      },
+      {
+        "text": "rtPA is the drug that stops haemorrhagic damage.",
+        "note": "No. rtPA is the ischaemic clot-dissolving drug. This page says no known drug stops the haemorrhagic damage."
+      },
+      {
+        "text": "Aspirin is printed as the agent that reverses the bleed.",
+        "note": "No. Aspirin is an antiplatelet in the heart section. It is not a drug that stops haemorrhagic brain damage."
+      },
+      {
+        "text": "Glyceryl trinitrate is named to halt growth of the haematoma.",
+        "note": "No. Glyceryl trinitrate is the angina nitrate. Haematoma expansion is approached here by controlling blood pressure."
+      }
+    ],
+    "answer": 0,
+    "page": "70"
+  },
+  {
+    "id": "med-082",
+    "topic": "Blood pressure and swelling",
+    "scene": "The scan shows a haematoma and the brain is swollen.",
+    "ask": "Why are blood pressure, mannitol, and glycerol mentioned?",
+    "choices": [
+      {
+        "text": "Mannitol and glycerol are given to every patient whatever the swelling.",
+        "note": "No. Their use is based solely on the severity of the swelling."
+      },
+      {
+        "text": "Blood pressure is controlled to reduce expansion of the haematoma; mannitol and glycerol are used according to how severe the swelling is, in order to lower intracranial pressure.",
+        "note": "Correct. They are not given as drugs that undo the damage already done."
+      },
+      {
+        "text": "Blood pressure is raised so the haematoma can expand.",
+        "note": "No. Pressure is controlled in order to reduce expansion of the haematoma."
+      },
+      {
+        "text": "These drugs dissolve the clot inside the three-hour window.",
+        "note": "No. The three-hour clot-dissolving drug is for ischaemic stroke. Mannitol and glycerol lower intracranial pressure."
+      }
+    ],
+    "answer": 1,
+    "page": "70"
+  },
+  {
+    "id": "med-083",
+    "topic": "Surgery for brain bleeding",
+    "scene": "The doctors are discussing an operation for the bleed.",
+    "ask": "When is surgery considered, and what limit is printed?",
+    "choices": [
+      {
+        "text": "Surgery is the routine way to remove disability after every small bleed.",
+        "note": "No. It is not effective in reducing disability and is usually for life-threatening complications."
+      },
+      {
+        "text": "Size and location do not affect the decision.",
+        "note": "No. Surgical treatment is determined from the size and location of the bleeding and from complications."
+      },
+      {
+        "text": "It depends on the size and place of the bleeding and on complications; it is usually for life-threatening complications and it is not effective in reducing disability.",
+        "note": "Correct. It does not replace the statement that no drug stops the damage already done."
+      },
+      {
+        "text": "Surgery is described as highly effective against disability and replaces blood-pressure control.",
+        "note": "No. It is not effective in reducing disability, and blood-pressure control is a separate measure."
+      }
+    ],
+    "answer": 2,
+    "page": "70"
+  },
+  {
+    "id": "med-084",
+    "topic": "Golden recovery period",
+    "scene": "Therapy has started during the first three months after the stroke.",
+    "ask": "What is that golden period for?",
+    "choices": [
+      {
+        "text": "The golden period is the first three hours, and exercise after that cannot help.",
+        "note": "No. The first three hours are the emergency treatment window. Rehabilitation's golden period is the first three months."
+      },
+      {
+        "text": "Rehabilitation is useful only after the first year.",
+        "note": "No. The golden period is the first three months."
+      },
+      {
+        "text": "Exercise inside three months is said to increase disability.",
+        "note": "No. Proactive exercise in that period minimises physical disability."
+      },
+      {
+        "text": "The first three months after onset are the golden period for rehabilitation; active therapeutic exercise can lessen physical disability and may help some people return to an independent life.",
+        "note": "Correct. This is not the three-hour window for a clot-dissolving injection."
+      }
+    ],
+    "answer": 3,
+    "page": "71"
+  },
+  {
+    "id": "med-085",
+    "topic": "Stroke rehabilitation therapies",
+    "scene": "Physiotherapy, occupational therapy, and speech therapy are all written on the plan.",
+    "ask": "What is each one for?",
+    "choices": [
+      {
+        "text": "Physiotherapy uses equipment such as elastic bands to restore muscle, or works on mobility such as crutches if power does not fully return; occupational therapy uses activity and equipment for daily life and a return to work; speech therapy trains communication and language.",
+        "note": "Correct. All three sit inside the golden rehabilitation period page."
+      },
+      {
+        "text": "Speech therapy restores muscle with elastic bands, and physiotherapy is only for language.",
+        "note": "No. Elastic bands and mobility, including crutches, are physiotherapy. Language is speech therapy."
+      },
+      {
+        "text": "Occupational therapy is limited to giving a clot-dissolving drug.",
+        "note": "No. Occupational therapy teaches use of activity and equipment for daily life and work."
+      },
+      {
+        "text": "Crutches are forbidden and elastic bands are not mentioned.",
+        "note": "No. Elastic resistance bands are named, and crutches are an example if muscle function cannot be fully restored."
+      }
+    ],
+    "answer": 0,
+    "page": "71"
+  },
+  {
+    "id": "med-086",
+    "topic": "Chronic renal failure stage",
+    "scene": "A patient is told the kidney problem now needs permanent dialysis.",
+    "ask": "When has chronic kidney disease become chronic renal failure?",
+    "choices": [
+      {
+        "text": "It is stage one, before any loss of function.",
+        "note": "No. It is the fifth and final stage."
+      },
+      {
+        "text": "When the damage needs renal replacement therapy on a permanent basis, which is the fifth and final stage of chronic kidney disease.",
+        "note": "Correct. Nephrology is the branch of medicine concerned with the kidneys. Chronic renal failure is the end of a gradual, progressive loss of kidney function."
+      },
+      {
+        "text": "Permanent replacement therapy means the patient is still in an early stage.",
+        "note": "No. Needing permanent renal replacement is what moves the patient into this final stage."
+      },
+      {
+        "text": "Nephrology is defined as the branch concerned with the coronary arteries.",
+        "note": "No. Nephrology is concerned with the kidneys."
+      }
+    ],
+    "answer": 1,
+    "page": "73"
+  },
+  {
+    "id": "med-087",
+    "topic": "What failing kidneys cannot do",
+    "scene": "Waste is building up and the acid-base balance is drifting.",
+    "ask": "What does renal failure mean on this page?",
+    "choices": [
+      {
+        "text": "Waste removal stays normal and only red-cell production fails.",
+        "note": "No. The definition is failure to remove metabolic wastes or to perform regulatory functions. Anaemia is a later blood-result finding, not this definition."
+      },
+      {
+        "text": "Protein waste is cleared from the blood more effectively as the kidneys fail.",
+        "note": "No. Substances normally eliminated in urine accumulate."
+      },
+      {
+        "text": "The kidneys cannot remove the body's metabolic wastes or perform their regulatory functions, so substances normally lost in urine accumulate and disturb endocrine and metabolic function plus fluid, electrolyte, and acid-base balance.",
+        "note": "Correct. That accumulation is from impaired renal excretion."
+      },
+      {
+        "text": "Acid-base balance is said to be unaffected.",
+        "note": "No. Acid-base disturbance is included."
+      }
+    ],
+    "answer": 2,
+    "page": "73"
+  },
+  {
+    "id": "med-088",
+    "topic": "Uraemia and progression",
+    "scene": "One patient loses a lot of protein in the urine and also has high blood pressure.",
+    "ask": "How are uraemia and faster progression described?",
+    "choices": [
+      {
+        "text": "Uraemia affects only the kidney and spares every other system.",
+        "note": "No. Uraemia adversely affects every system in the body."
+      },
+      {
+        "text": "Heavy protein loss and high blood pressure slow the disease.",
+        "note": "No. Progression tends to be more rapid when those are present than when they are not."
+      },
+      {
+        "text": "End products of protein metabolism fall in the blood as function declines.",
+        "note": "No. They accumulate in the blood."
+      },
+      {
+        "text": "Renal failure is a systemic disease and a final common pathway of many kidney and urinary-tract diseases; end products of protein metabolism build up, uraemia harms every system, and the disease moves faster when a lot of protein is excreted or the blood pressure is high.",
+        "note": "Correct. Those end products are normally excreted in urine."
+      }
+    ],
+    "answer": 3,
+    "page": "74"
+  },
+  {
+    "id": "med-089",
+    "topic": "Causes of kidney disease",
+    "scene": "The student is labelling the cause diagram in the renal chapter.",
+    "ask": "Which causes are named?",
+    "choices": [
+      {
+        "text": "Diabetes, kidney inflammation, hypertension, polycystic disease, blocked urine drainage tubes, and medicine.",
+        "note": "Correct. Those are the labels on the cause page. No stroke or inhaler list is added."
+      },
+      {
+        "text": "Only angina, asthma, and stroke.",
+        "note": "No. Those are not the cause labels. The labels are diabetes, kidney inflammation, hypertension, polycystic disease, blocked drainage tubes, and medicine."
+      },
+      {
+        "text": "Diabetes and hypertension are left off the diagram.",
+        "note": "No. Both are named."
+      },
+      {
+        "text": "Blocked urine drainage tubes are listed as a treatment, not a cause.",
+        "note": "No. They are one of the cause labels."
+      }
+    ],
+    "answer": 0,
+    "page": "75"
+  },
+  {
+    "id": "med-090",
+    "topic": "BUN and creatinine",
+    "scene": "Creatinine is 12 mg/dL and the BUN is above 25 mg/dL.",
+    "ask": "How does the blood-result page read those figures?",
+    "choices": [
+      {
+        "text": "A BUN above 25 mg/dL suggests end-stage disease, and creatinine of 12 mg/dL is only an early-damage line.",
+        "note": "No. Creatinine of 12 mg/dL suggests end-stage renal disease. BUN above 25 mg/dL indicates renal damage."
+      },
+      {
+        "text": "BUN and creatinine are elevated, usually in proportion; a creatinine of 12 mg/dL suggests end-stage renal disease, and a BUN above 25 mg/dL indicates renal damage.",
+        "note": "Correct. Do not swap which number suggests end-stage disease."
+      },
+      {
+        "text": "Both results are described as below the reference box.",
+        "note": "No. They are described as elevated."
+      },
+      {
+        "text": "Creatinine of 12 mg/dL is the printed trigger to start Diamox.",
+        "note": "No. Diamox is a metabolic-alkalosis option. This creatinine figure suggests end-stage renal disease."
+      }
+    ],
+    "answer": 1,
+    "page": "77"
+  },
+  {
+    "id": "med-091",
+    "topic": "Renal anaemia",
+    "scene": "Haemoglobin is under 7 to 8 g/dL and the red cells are short-lived.",
+    "ask": "Why is the blood count abnormal in this section?",
+    "choices": [
+      {
+        "text": "Haemoglobin is usually above that range because erythropoietin rises.",
+        "note": "No. Haemoglobin is decreased, usually to less than 7 to 8 g/dL, and erythropoietin is deficient."
+      },
+      {
+        "text": "Red cells live longer in azotaemia.",
+        "note": "No. Red-cell life span is decreased because of erythropoietin deficiency and azotaemia."
+      },
+      {
+        "text": "Haemoglobin falls because of anaemia, usually to less than 7 to 8 g/dL, and red-cell life is shorter because of erythropoietin deficiency and azotaemia.",
+        "note": "Correct. The page lists this under the complete blood count and the red-cell lines."
+      },
+      {
+        "text": "Anaemia is not linked to the blood count on this page.",
+        "note": "No. The complete blood count line is haemoglobin decreased because of anaemia."
+      }
+    ],
+    "answer": 2,
+    "page": "77"
+  },
+  {
+    "id": "med-092",
+    "topic": "Renal blood-gas acidosis",
+    "scene": "The renal gas shows a very low pH and the student reaches for the six-step cut of 7.35.",
+    "ask": "What acidosis figures does the renal blood-result page print?",
+    "choices": [
+      {
+        "text": "The renal page uses pH above 7.45 as its acidosis line.",
+        "note": "No. Above 7.45 is the six-step alkalosis cut. This page describes a decreased pH and metabolic acidosis under 7.2."
+      },
+      {
+        "text": "Bicarbonate and PCO2 are increased.",
+        "note": "No. Both bicarbonate and PCO2 are decreased."
+      },
+      {
+        "text": "The cause is too much renal excretion of hydrogen.",
+        "note": "No. The cause is loss of the renal ability to excrete hydrogen and ammonia or protein-breakdown end products."
+      },
+      {
+        "text": "pH is decreased, and metabolic acidosis with pH less than 7.2 occurs because the kidney can no longer excrete hydrogen and ammonia or the end products of protein breakdown; bicarbonate and PCO2 are decreased.",
+        "note": "Correct. This less-than-7.2 line is the renal page. It is not the acceptable box of 7.38 to 7.42 and not the six-step acidosis cut of under 7.35."
+      }
+    ],
+    "answer": 3,
+    "page": "77"
+  },
+  {
+    "id": "med-093",
+    "topic": "Potassium and sodium",
+    "scene": "Potassium is high in end-stage disease and the ECG has not yet changed.",
+    "ask": "What does this page say about potassium and sodium?",
+    "choices": [
+      {
+        "text": "Potassium rises from retention, a shift with acidosis, or release from red-cell breakdown; in end-stage disease ECG changes may not appear until potassium is 6.5 mEq or higher, and potassium can fall with potassium-wasting diuretics or during dialysis. Sodium may be low if the kidney wastes sodium, or it may be normal.",
+        "note": "Correct. A falling potassium on dialysis is printed as possible. It is not an automatic further rise."
+      },
+      {
+        "text": "ECG changes are said to start as soon as potassium is only slightly raised, well below 6.5 mEq.",
+        "note": "No. In end-stage disease ECG changes may not occur until potassium is 6.5 mEq or higher."
+      },
+      {
+        "text": "Dialysis and potassium-wasting diuretics raise potassium further.",
+        "note": "No. Potassium may be decreased in those two situations."
+      },
+      {
+        "text": "Sodium is always high because the kidney cannot waste sodium.",
+        "note": "No. Sodium may be low if the kidney wastes sodium, or it may be normal."
+      }
+    ],
+    "answer": 0,
+    "page": "77"
+  },
+  {
+    "id": "med-094",
+    "topic": "Two end-stage options",
+    "scene": "The family asks what treatment remains once the kidneys are at end stage.",
+    "ask": "How many options does the page allow, and which is used most?",
+    "choices": [
+      {
+        "text": "Three equal options: a salt-free diet alone, a clot-dissolving drug, and oxygen.",
+        "note": "No. The page says there are only two treatment options, and the first is dialysis."
+      },
+      {
+        "text": "Only two. Dialysis is the first and most widely used, because the chief problem is buildup of waste, and dialysis filters that waste outside the body.",
+        "note": "Correct. A kidney transplant is the other option and is discussed as generally better but less practical. It is not the most widely used one."
+      },
+      {
+        "text": "Transplant is the most widely used first option.",
+        "note": "No. Dialysis is the most widely employed option. Transplant is considered better but less practical."
+      },
+      {
+        "text": "Waste buildup is not a concern at end stage.",
+        "note": "No. The chief concern is the buildup of waste."
+      }
+    ],
+    "answer": 1,
+    "page": "78"
+  },
+  {
+    "id": "med-095",
+    "topic": "Haemodialysis",
+    "scene": "The patient is booked for the common machine treatment.",
+    "ask": "How is haemodialysis described?",
+    "choices": [
+      {
+        "text": "Fluid stays in the abdomen overnight and the blood never enters a machine.",
+        "note": "No. That pattern is closer to peritoneal dialysis. Haemodialysis pulls blood into a machine and returns it."
+      },
+      {
+        "text": "The machine adds waste before the blood returns.",
+        "note": "No. The machine filters waste out."
+      },
+      {
+        "text": "Blood is pulled into a machine that filters out the waste, and the cleaned blood is pumped back; it is practical but intensive.",
+        "note": "Correct. It is the most common form of dialysis on this page. It is not fluid left to dwell in the abdomen."
+      },
+      {
+        "text": "It is described as a cure for the underlying kidney disease.",
+        "note": "No. This page calls it a practical but intensive filter. The cure claim is denied on the peritoneal-dialysis page for that method too."
+      }
+    ],
+    "answer": 2,
+    "page": "78"
+  },
+  {
+    "id": "med-096",
+    "topic": "Kidney transplant limits",
+    "scene": "A relative offers a kidney and asks why transplant is not automatic.",
+    "ask": "Why is transplant called better yet less practical?",
+    "choices": [
+      {
+        "text": "The supply of kidneys is higher than demand, so compatibility does not matter.",
+        "note": "No. Demand is much higher than supply, and immunological compatibility is required."
+      },
+      {
+        "text": "Transplant is considered a worse solution than dialysis.",
+        "note": "No. It is generally considered a better solution, but it lacks practicality."
+      },
+      {
+        "text": "Any patient can receive a kidney whatever the age or other disease.",
+        "note": "No. Age and underlying conditions can make a patient ineligible."
+      },
+      {
+        "text": "It is generally a better solution than intensive dialysis, but demand is much higher than supply, the donor and recipient must be immunologically compatible, and age or other conditions can make a patient ineligible.",
+        "note": "Correct. The donation process also has general eligibility requirements."
+      }
+    ],
+    "answer": 3,
+    "page": "79"
+  },
+  {
+    "id": "med-097",
+    "topic": "Peritoneal dialysis purpose",
+    "scene": "Home peritoneal dialysis is planned, and the patient hopes it will heal the kidney disease.",
+    "ask": "What can peritoneal dialysis do, and what can it not do?",
+    "choices": [
+      {
+        "text": "It does not cure or treat the underlying kidney disease; it is done at home to replace as many functions of the failing kidneys as possible, mainly by removing extra fluid and waste from the blood.",
+        "note": "Correct. It is for people whose kidneys are no longer working effectively."
+      },
+      {
+        "text": "It cures the disease, so exchanges can stop after a short course.",
+        "note": "No. It does not cure or treat the underlying disease."
+      },
+      {
+        "text": "It is done only in an operating theatre and does not remove fluid.",
+        "note": "No. It is performed at home and primarily removes excess fluid and waste."
+      },
+      {
+        "text": "It replaces heart pumping rather than kidney function.",
+        "note": "No. It is intended to replace as many functions of the failing kidneys as possible."
+      }
+    ],
+    "answer": 0,
+    "page": "80"
+  },
+  {
+    "id": "med-098",
+    "topic": "CAPD pattern",
+    "scene": "The patient asks whether a machine is required for every daytime exchange.",
+    "ask": "How is continuous ambulatory peritoneal dialysis set out?",
+    "choices": [
+      {
+        "text": "Usually one exchange a week, with the person kept in bed on a machine all day.",
+        "note": "No. It is usually three daytime exchanges, no machine is needed, and the person can walk about."
+      },
+      {
+        "text": "Usually three exchanges during the day plus an overnight dwell; a machine is not needed, the person can walk about while fluid is in the abdomen, dialysate is infused at bedtime, and it is drained on waking.",
+        "note": "Correct. A cycler is only an occasional night-time addition, not the usual daytime method."
+      },
+      {
+        "text": "Dialysate is drained at bedtime and infused only on waking, with no overnight dwell.",
+        "note": "No. It is infused at bedtime and drained on waking, which is the overnight dwell."
+      },
+      {
+        "text": "Daytime dwells are forbidden and only night exchanges are used.",
+        "note": "No. The usual pattern is multiple daytime exchanges, usually three, plus the overnight dwell."
+      }
+    ],
+    "answer": 1,
+    "page": "81"
+  },
+  {
+    "id": "med-099",
+    "topic": "Cycler at night",
+    "scene": "The patient on continuous ambulatory dialysis is told a machine may sometimes be used at night.",
+    "ask": "When does the page say a cycler is used?",
+    "choices": [
+      {
+        "text": "A cycler is required for every daytime exchange while the person walks.",
+        "note": "No. Daytime CAPD does not need a machine. The cycler is an occasional exchange during sleep."
+      },
+      {
+        "text": "The cycler means the morning drain is never done.",
+        "note": "No. The usual CAPD drain is on waking. The cycler is an extra occasional night exchange."
+      },
+      {
+        "text": "Occasionally a cycler does one or more exchanges while the person is sleeping.",
+        "note": "Correct. That occasional cycler does not turn the usual daytime method into a machine-dependent walk."
+      },
+      {
+        "text": "Cycler use is described as the cure for polycystic kidney disease.",
+        "note": "No. Polycystic disease is a cause label. The cycler does not cure it, and peritoneal dialysis does not cure the underlying disease."
+      }
+    ],
+    "answer": 2,
+    "page": "81"
+  },
+  {
+    "id": "med-100",
+    "topic": "Peritoneal dialysis examples",
+    "scene": "The folder shows three peritoneal-dialysis examples side by side.",
+    "ask": "Which names match the three examples?",
+    "choices": [
+      {
+        "text": "Example 3 is the Ultra bag and example 1 is hospital haemodialysis.",
+        "note": "No. The Ultra bag is example 1. Example 3 is automated peritoneal dialysis, not the haemodialysis machine."
+      },
+      {
+        "text": "Stay safe is the name of automated peritoneal dialysis, and APD is absent.",
+        "note": "No. Stay safe is example 2. Automated peritoneal dialysis is example 3."
+      },
+      {
+        "text": "All three examples are glyceryl trinitrate tablets.",
+        "note": "No. Glyceryl trinitrate is the angina nitrate. These three examples are peritoneal dialysis systems."
+      },
+      {
+        "text": "Example 1 is the Ultra bag, example 2 is stay safe, and example 3 is automated peritoneal dialysis.",
+        "note": "Correct. Automated peritoneal dialysis is the APD example. It is not a fourth end-stage option beside dialysis and transplant; it is one peritoneal method."
+      }
+    ],
+    "answer": 3,
+    "page": "82-86"
+  }
+]

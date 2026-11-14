@@ -1,0 +1,11 @@
+Worked Example: Satisfaction Scores
+Patient Satisfaction Survey
+A hospital measures patient satisfaction scores.The
+samplemean is72out of100;the95%Cl is68to76.
+Clinical Interpretation:
+The95%Clis68to76.Inrepeatedsamples,intervalsbuilt thiswaywould
+capture thetruemeanof thepopulation thissamplerepresents about95%of
+the time.This sample'sbest estimate is72:valuesbelow68orabove76are
+relativelyincompatiblewiththesedata.
+"We are95%confident”is shorthand;it isnotaprobability statement about this
+oneinterval. （Gardner&Altman,1986;Montori,2004;Greenland et al,2016;Hazra,2017)

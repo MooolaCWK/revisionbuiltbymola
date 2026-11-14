@@ -1,0 +1,16 @@
+The Regression Equation
+Y = a + b, Age + b BMl + b3 Smoker + ε
+Smoker=1if current smoker,0 otherwise.
+b is the gap versus an otherwise similar non-smoker.
+a is predicted Ywhen Age=0,BMl =0,Smoker= 0-not a real patient.
+a:THE INTERCEPT
+Y:THE OUTCOME PredictedYwhenall
+Medical cost to X=O(nota patient).
+predict.
+（Bzovskyetal.,2022;Schneideretal.,2010;Skrepnek,2005)
+
+X:PREDICTOR
+b:COEFFICIENT Patient
+Estimatedassociated characteristic.
+change,holding
+othersfixed.

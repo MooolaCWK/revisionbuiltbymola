@@ -1,0 +1,11 @@
+Registration, headcount and FTE are different
+
+Measure	What it tells us
+Register entries	Registration or enrolment status; not necessarily current employment
+Active headcount	Number of people actually working in the defined setting
+Full-time equivalent (FTE)	Labour relative to a full-time workload
+Example	0.5 → 0.5	1.0 FTE
+Two nurses each working 0.5 of full-time hours = 1.0 FTE
+
+Funded posts, vacancies, headcount and available nurse-hours answer different questions.
+(Nursing Council of Hong Kong, 2026)

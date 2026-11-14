@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Health economy">
+  <rect width="32" height="32" rx="7" fill="#1a2e2c"/>
+  <rect x="6.5" y="5.5" width="19" height="21" rx="2.2" fill="#f3eee4"/>
+  <path d="M6.5 9.2h19V7.7a2.2 2.2 0 0 0-2.2-2.2H8.7A2.2 2.2 0 0 0 6.5 7.7v1.5z" fill="#0e6b66"/>
+  <rect x="10" y="14.2" width="12" height="1.7" rx="0.85" fill="#b85c38"/>
+  <rect x="10" y="18.2" width="8" height="1.7" rx="0.85" fill="#1a2e2c" opacity="0.45"/>
+</svg>

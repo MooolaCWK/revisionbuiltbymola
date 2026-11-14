@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Case Rounds",
+      "hasCanvas": false,
+      "bodyTextLen": 1670,
+      "bodyTextHash": "799c2bb4189cb47ca03ea31f267d4de3429fa8965da6f97bdafced0e72b8ff72",
+      "bodyTextPrefix": "NUR503 · YEAR 5 Case Rounds NUR501 · Head to toe Practice only. ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/home-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Case Rounds",
+      "hasCanvas": false,
+      "bodyTextLen": 1640,
+      "bodyTextHash": "5b8b6bc136ead91492591da27cd488898a789d610dc233c6d90435001a59d118",
+      "bodyTextPrefix": "NUR503 · YEAR 5 Case Rounds NUR501 · Head to toe 27 OCTOBER 2026",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/home-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/home-built.json"
+}

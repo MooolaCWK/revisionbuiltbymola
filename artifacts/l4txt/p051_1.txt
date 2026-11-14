@@ -1,0 +1,22 @@
+01 / SUPPLY, DEMAND AND EQUILIBRIUM
+A binding price ceiling creates excess demand
+
+Ceiling: HK$60    Equilibrium price without the ceiling: HK$120
+
+01
+A price ceiling is a legal maximum price; this one is below equilibrium.
+
+02
+At P = 60:
+Qd = 500 − 120 = 380;
+Qs = −100 + 180 = 80.
+
+03
+Shortage = Qd − Qs = 380 − 80 = 300 consultations/month.
+
+04
+Waiting, eligibility rules or another allocation mechanism may result.
+
+A ceiling at or above the equilibrium price is non-binding in this basic model.
+
+(Mankiw, 2024)

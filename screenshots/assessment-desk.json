@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/assessment",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Head to toe · NUR501",
+      "hasCanvas": false,
+      "bodyTextLen": 5915,
+      "bodyTextHash": "48c863633e67263e18e550ca674295aaee0a29b72cb64e4f8fab59e544bd64e4",
+      "bodyTextPrefix": "NUR501 · YEAR 5 Head to toe Back to Case Rounds Practice from th",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/assessment-desk.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Head to toe · NUR501",
+      "hasCanvas": false,
+      "bodyTextLen": 5862,
+      "bodyTextHash": "035ccbfc31fb739246dc56cf945d0a0a27244ed65e594560ab6e3588d7e9387e",
+      "bodyTextPrefix": "NUR501 · YEAR 5 Head to toe Back to Case Rounds Clinical simulat",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/assessment-desk-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/assessment-desk.json"
+}

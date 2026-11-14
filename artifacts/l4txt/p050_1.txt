@@ -1,0 +1,16 @@
+01 / SUPPLY, DEMAND AND EQUILIBRIUM
+Solving equilibrium: a worked example
+
+Qd = 500 – 2P and Qs = –100 + 3P
+
+01 Set Qd = Qs: 500 – 2P = –100 + 3P
+
+02 Collect terms: 600 = 5P, so P* = HK$120
+
+03 Substitute: Q* = 500 – 2(120) = 260 visits/month
+
+04 Check supply: –100 + 3(120) = 260 visits/month
+
+Both schedules must give the same quantity at equilibrium.
+
+[Mankiw, 2024]

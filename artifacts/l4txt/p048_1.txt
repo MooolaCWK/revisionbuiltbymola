@@ -1,0 +1,6 @@
+STEP 05: ALGEBRAIC REDUCTION
+Canceling Opposing Terms
+
+ab + ad - ab + bc
+
+Positive ab and negative ab sum to zero.

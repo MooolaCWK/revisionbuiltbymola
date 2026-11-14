@@ -1,0 +1,32 @@
+The unemployment rate uses the labour force
+
+Unemployment rate = U / (E + U) × 100
+
+E: employed:
+People in
+employment.
+
+U: unemployed:
+Normally without
+work, available and
+seeking work;
+official definitions
+include exceptions.
+
+Labour force = employed + unemployed.
+It is not the whole population.
+
+Worked example:
+E = 3.8 million;
+U = 0.2 million.
+
+Worked example:
+E = 3.8 million;
+U = 0.2 million.
+Rate = 0.2 / 4.0 × 100
+= 5%.
+
+Looking for work
+Looking for work
+
+(Census and Statistics Department, 2025)

@@ -1,0 +1,25 @@
+Interpreting Regression Coefficients
+Thecoefficientb·Hypotheticalillustration
+Inthisfittedequation,bisthedifferenceinpredictedoutcomefora 1-unitdifferenceinthatpredictor,holdingtheothersfixed.
+It is not automatically a causal effect.
+290
+Age BMI
+b=250 b=350
+Each extrayearof age Each1-pointdifference
++HK$250inpredicted is associatedwith inBMlisassociated
+annual charges, with+HK$350in
+charges,holding age predictedannual
+smoking fixed. holdingBMI and
+andsmokingfixed.
+(Bzovskyetal.,2022;Schneideretal.,2010;Skrepnek,2005)
+
+Smoker
+b=23,000
+age and BMI has Asmokerofthesame
+predicted charges
+HK$23,000higher.
+Adjustedassociation
+notthecausaleffectof
+starting to smoke.
+Smoker=1if current
+smoker,else 0.

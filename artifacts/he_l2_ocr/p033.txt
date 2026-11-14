@@ -1,0 +1,13 @@
+The Correlation Coefficient (r)
+ris unitless,from -1 to +1.Use Irl-r=-0.8 is as strong as +0.8.Cutoffs
+are rules of thumb only（roughly Irl<0.3weak,0.3-0.7moderate,>0.7 strong).
+Weak Irl ~ 0.2 Strong Irl ~ 0.8
+r<0.3 r>0.7
+Looselinear Tight linear
+association association
+
+Perfect 丨rl =1
+r=1.0
+Almostnever seen
+in real clinical data
+(Bewicketal.,2003;Guyattet al.,1995;Hazra&Gogtay,2016)

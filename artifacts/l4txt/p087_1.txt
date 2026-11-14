@@ -1,0 +1,27 @@
+Monopsony
+
+Wage
+$20
+19
+18
+17
+16
+15
+14
+13
+12
+11
+
+7  8  9  10
+Q Labor
+
+S
+D
+
+Analysis
+A monopsony has a
+DOWNWARD
+sloping demand curve
+and an
+UPWARD
+supply curve

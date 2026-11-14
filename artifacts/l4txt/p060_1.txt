@@ -1,0 +1,34 @@
+02 / PRICE ELASTICITY
+A straight demand line has changing elasticity
+
+D
+Price (HK$ per consultation)
+200
+125
+50
+0
+
+0
+100
+250
+400
+Consultations per month
+D
+
+4
+1
+0.25
+
+Same linear equation
+Q = 500 - 2P. The slope stays constant.
+
+Different proportions
+For this line, point |PED| = 2P/Q.
+At P = 200, Q = 100, |PED| = 4.
+
+Key distinction
+A 45-degree appearance does not establish unit elasticity.
+
+Slope compares unit changes; elasticity compares percentage changes.
+
+(Mankiw, 2024)

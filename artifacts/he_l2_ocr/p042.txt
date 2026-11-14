@@ -1,0 +1,25 @@
+Worked Example: Predicted Hospital Cost
+Hypothetical predicted annual charge
+MrsA·age60,BMI28,non-smokerillustrationonly
+Baseline (a) HKS2,500
+Age 60xHK$250 +HK$15,000
+BMI28×HKS350 +HKS9,800
+Smoker HKSO
+Total expected cost HKS27,300
+（Bzovskyetal.,2022;Zhouetal.,2023;Tannietal.,2020;Skrepnek,2005)
+
+What the HK$23,000 is-and isnot
+In thisfittedequation,a smokerof thesame age
+andBMI haspredicted chargesHK$23,000higher.
+That is an adjusted association.
+It isnot thecausal effectofMrsAstarting to
+smoke,and it isnot the saving from a cessation
+programme(ex-smokers#never-smokers;
+programmes have costs;benefits accrue over years).
+Whethercessationisworthfundingisaseparate
+causal and economicquestion:does quitting
+actuallycutcostsbyenough,andatwhat
+programmecost?
+Note:+Hk$23,000peryearis largeformany
+Hong Kong costing contexts-treat the figure as
+hypothetical.

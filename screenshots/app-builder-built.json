@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Health economy",
+      "hasCanvas": false,
+      "bodyTextLen": 1681,
+      "bodyTextHash": "ace5dceb6c138e32550d641b65979747541473a0417fb4a318ae0e722c47bc4f",
+      "bodyTextPrefix": "NUR503 · YEAR 5 Health economy Pre RN revision Practice only. No",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Health economy",
+      "hasCanvas": false,
+      "bodyTextLen": 1651,
+      "bodyTextHash": "1535a03f33ed2fbf893afdc586ab31fdb035945a179892a36cb63ff5baa6ded5",
+      "bodyTextPrefix": "NUR503 · YEAR 5 Health economy Pre RN revision 27 OCTOBER 2026 ·",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}

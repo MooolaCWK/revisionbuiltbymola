@@ -1,0 +1,13 @@
+What p = 0.001 does not mean
+THE BIG MISCONCEPTION
+Students often hearp = 0.001 as:
+"there is onlya 0.1% chance the
+coin isfair."
+That iswrong.
+
+To compute thep-valueyou already
+pretended the coin was 100%fair.
+Thep-value cannotbe theprobability the
+coin is fair-that assumption was the
+starting line.It only says how poorly the
+real tosses match that pretend scenario.

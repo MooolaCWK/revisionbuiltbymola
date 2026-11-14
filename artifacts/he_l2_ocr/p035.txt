@@ -1,0 +1,7 @@
+iSlope asMarginal Change
+The slope(b) is the estimated average associated change in Yfora 1-unit difference inX-not an exact rate of change.
+y=a+bx+E
+TheInsight
+Running example:b=+250.Eachextra year of age is associated with HK$250 higher predicted charges.Intercepta=Hk$2.500is predictedYat age0
+-notarealpatient;centre age(age-5o) if youwantausableintercept.
+(Bewicketal.,2003:Follandetal.,2024:Tannietal.,2020)

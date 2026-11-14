@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/assessment",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Pre RN revision",
+      "hasCanvas": false,
+      "bodyTextLen": 6867,
+      "bodyTextHash": "e662bc9ed1950c7ec002426a614719316449eeb5cbf34be2b629fa2c8fc46edd",
+      "bodyTextPrefix": "YEAR 5 · BEFORE REGISTRATION Pre RN revision Back to Health econ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/lab-desk.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Pre RN revision",
+      "hasCanvas": false,
+      "bodyTextLen": 6821,
+      "bodyTextHash": "06986a3606abdeb2ff8f7dd08945db00b8010c001ee3994e799f8bb2d9bf40a2",
+      "bodyTextPrefix": "YEAR 5 · BEFORE REGISTRATION Pre RN revision Back to Health econ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/lab-desk-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/lab-desk.json"
+}

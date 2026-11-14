@@ -1,0 +1,19 @@
+02 / PRICE ELASTICITY
+A hypothetical nursing labour-supply calculation
+
+Labour-supply elasticity = % change in L ÷ % change in w
+
+01 L = nurses willing to work in the defined market; w = monthly wage.
+
+02 Wage: HK$30,000 to HK$36,000.
+Labour: 60,000 to 63,000 nurses.
+
+03 Midpoint changes: 3,000 / 61,500 = 4.88%;
+6,000 / 33,000 = 18.18%.
+
+04 Elasticity = 4.88 / 18.18 ≈ 0.268.
+Supply is inelastic in this example.
+
+Approximately: a 1% wage increase corresponds to a 0.268% increase in labour supplied.
+
+(Mankiw, 2024)

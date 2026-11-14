@@ -1,0 +1,12 @@
+02 / PRICE ELASTICITY
+Practice: a clinic increases its fee
+
+Measure | Before | After
+Fee per consultation | HK$400 | HK$500
+Consultations per week | 80 | 52
+
+Calculate midpoint PED. Is demand elastic or inelastic over this interval?
+
+Then compare weekly revenue before and after the fee change.
+
+(Mankiw, 2024)

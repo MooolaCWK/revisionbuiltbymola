@@ -1,0 +1,18 @@
+02 / PRICE ELASTICITY
+Midpoint PED: two percentage changes
+
+PED = [ (Q₂ - Q₁) / Q̄ ] ÷ [ (P₂ - P₁) / P̄ ]
+
+Average quantity
+Q̄ = (Q₁ + Q₂) / 2
+
+Average price
+P̄ = (P₁ + P₂) / 2
+
+Consistent method
+Use midpoint denominator for both changes.
+The ×100 factors cancel.
+
+Use midpoint elasticity for two-point calculations unless a question specifies otherwise.
+
+(Mankiw, 2024)

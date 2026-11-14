@@ -1,0 +1,18 @@
+Choosing a Regression Specification
+Match the model to the outcome type.Identification is a separate choice.
+Model Outcome
+Linear (OLS) Continuous
+Logistic Binary→probability
+Poisson/negativebinomial Counts
+Cox Time-to-event
+Designmodel.To estimate the effect of a policy threshold you need a design (RCT,RD,difference-in-
+differences).RD is not another kind of Y-and it usually still uses a linear or polynomial regression.
+Cost caveat:hospital charges are skewed.Raw-scale OLS on charges is often a poor fit.In practice,
+cost models often use a GLM(e.g.gamma with log link) rather than plain linear regression.
+（Bzovskyet al.,2022;Zhouetal.,2023;Tanniet al,2020;Skrepnek,2005)
+
+Example
+Charges (see cost caveat below)
+Probability of readmission
+Falls,infections
+Timetodeathorreadmission

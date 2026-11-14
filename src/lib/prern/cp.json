@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "cp-001",
+    "topic": "Attitude",
+    "scene": "It is your first morning and the team nurse has not handed you a task.",
+    "ask": "What attitude does this package expect before anyone pushes you?",
+    "choices": [
+      {
+        "text": "Start the work on your own initiative.",
+        "note": "Correct. The opening line is to do the work without waiting to be pushed, then report at a suitable time."
+      },
+      {
+        "text": "Wait at the station until someone assigns every step.",
+        "note": "Waiting to be pushed is the opposite of the printed attitude."
+      },
+      {
+        "text": "Take the drug keys and start the medicine round at once.",
+        "note": "Initiative does not mean starting medicines before you know the checks and the routine."
+      },
+      {
+        "text": "Leave the ward to look for your teacher before any bedside work.",
+        "note": "You still do the work, and you ask ward staff patiently rather than walking off."
+      }
+    ],
+    "answer": 0,
+    "page": "1"
+  },
+  {
+    "id": "cp-002",
+    "topic": "Attitude",
+    "scene": "A nurse asks the dose of a tablet you have not checked.",
+    "ask": "What should you say at once?",
+    "choices": [
+      {
+        "text": "Give the dose you remember from a lecture.",
+        "note": "Guessing is not allowed. Say you do not know at once."
+      },
+      {
+        "text": "Say that you do not know.",
+        "note": "Correct. If you do not know, say you do not know immediately. Do not guess."
+      },
+      {
+        "text": "Say you will check after the whole round is finished.",
+        "note": "The instruction is to speak at once, not after the round."
+      },
+      {
+        "text": "Copy the number written on the last student's scrap paper.",
+        "note": "An unchecked scrap note is not a reason to pretend you know."
+      }
+    ],
+    "answer": 1,
+    "page": "1"
+  },
+  {
+    "id": "cp-003",
+    "topic": "Attitude",
+    "scene": "You wrote the observation on the wrong bed and the nurse points it out.",
+    "ask": "How should you respond?",
+    "choices": [
+      {
+        "text": "Explain that the chart layout caused it, so it is not your fault.",
+        "note": "The package wants a plain apology, not a defence."
+      },
+      {
+        "text": "Stay quiet and change the chart when nobody is looking.",
+        "note": "Hiding the mistake is not the required attitude."
+      },
+      {
+        "text": "Say sorry plainly.",
+        "note": "Correct. If you are wrong, the attitude matters most: say sorry clearly, without arguing."
+      },
+      {
+        "text": "Answer back that another nurse told you to write it there.",
+        "note": "Answering back is specifically discouraged."
+      }
+    ],
+    "answer": 2,
+    "page": "1"
+  },
+  {
+    "id": "cp-004",
+    "topic": "Attitude",
+    "scene": "The nurse asks you to finish a long dressing and handover is in ten minutes.",
+    "ask": "What should you do if you cannot finish in time?",
+    "choices": [
+      {
+        "text": "Stay silent and leave the dressing half done.",
+        "note": "Silence is the failure the package warns against."
+      },
+      {
+        "text": "Skip handover so you can stay without telling anyone.",
+        "note": "You speak up. You do not disappear from the report."
+      },
+      {
+        "text": "Tell the nurse the request is unreasonable.",
+        "note": "Speaking up is not the same as answering back."
+      },
+      {
+        "text": "Speak up that you cannot finish it.",
+        "note": "Correct. If someone asks you to do something and you cannot get it done, you must say so."
+      }
+    ],
+    "answer": 3,
+    "page": "1"
+  },
+  {
+    "id": "cp-005",
+    "topic": "Attitude",
+    "scene": "Morning observations are due and you have just finished the round.",
+    "ask": "When should routine work be done, and what follows it?",
+    "choices": [
+      {
+        "text": "Do every routine only at the end of the shift, in one batch.",
+        "note": "The package says a suitable time, not a dump at the end."
+      },
+      {
+        "text": "Do the routine at a suitable time and give an appropriate report.",
+        "note": "Correct. The attitude line pairs on-time routine work with a proper report."
+      },
+      {
+        "text": "Finish the routine and wait to be asked before saying anything.",
+        "note": "An appropriate report is part of the instruction, not an optional extra."
+      },
+      {
+        "text": "Report only abnormal numbers and skip the routine time.",
+        "note": "Both the timing and the report are required."
+      }
+    ],
+    "answer": 1,
+    "page": "1"
+  },
+  {
+    "id": "cp-006",
+    "topic": "Attitude",
+    "scene": "You do not know where the sterile gloves are kept and the nurse looks busy.",
+    "ask": "How should you ask ward staff?",
+    "choices": [
+      {
+        "text": "Interrupt and correct the nurse if you dislike the tone.",
+        "note": "Answering back is forbidden even if you feel pushed."
+      },
+      {
+        "text": "Avoid asking so you do not look weak.",
+        "note": "Not asking is how you stay lost. Ask patiently."
+      },
+      {
+        "text": "Ask patiently, and do not answer back.",
+        "note": "Correct. The package says to ask ward staff patiently and not to talk back casually."
+      },
+      {
+        "text": "Ask once, and if the answer is short, argue for a fuller explanation.",
+        "note": "Patience is the instruction. Arguing is answering back."
+      }
+    ],
+    "answer": 2,
+    "page": "1"
+  },
+  {
+    "id": "cp-007",
+    "topic": "Arrival",
+    "scene": "You walk onto a new practicum ward and the clerk asks if you have settled contacts.",
+    "ask": "Which contact details must you settle?",
+    "choices": [
+      {
+        "text": "Only your clinical teacher's mobile. The ward number is optional.",
+        "note": "The ward telephone number is item 1, together with your contact."
+      },
+      {
+        "text": "The main switchboard only, and do not give your number.",
+        "note": "You both learn the ward number and leave your own contact."
+      },
+      {
+        "text": "The pharmacy extension, written on the patient whiteboard.",
+        "note": "The required exchange is the practicum ward phone and your contact."
+      },
+      {
+        "text": "The ward telephone number, and you leave your own contact number.",
+        "note": "Correct. Day-one questions start with the ward phone and leaving your number."
+      }
+    ],
+    "answer": 3,
+    "page": "1"
+  },
+  {
+    "id": "cp-008",
+    "topic": "Arrival",
+    "scene": "It is CP1 day duty and nobody has told you the arrival clock time.",
+    "ask": "What arrival example is printed, and whom do you confirm it with?",
+    "choices": [
+      {
+        "text": "07:45 at the front door of the CP ward, confirmed with your clinical teacher.",
+        "note": "Correct. For CP1, confirm the arrival time with the clinical teacher. The example is 07:45 at the front door."
+      },
+      {
+        "text": "08:30 at the nurses station, confirmed with the house officer.",
+        "note": "The printed CP1 example is 07:45 at the front door, with the clinical teacher."
+      },
+      {
+        "text": "07:00 in the changing room, confirmed with a health-care assistant.",
+        "note": "That time and person are not the printed example."
+      },
+      {
+        "text": "09:00 at the hospital gate, confirmed only with the ward clerk.",
+        "note": "The example is earlier, at the ward front door, and the teacher confirms CP1 arrival."
+      }
+    ],
+    "answer": 0,
+    "page": "1"
+  },
+  {
+    "id": "cp-009",
+    "topic": "Arrival",
+    "scene": "The roster shows A, P and N but not the clock-in rule.",
+    "ask": "Whom do you ask about the hours and the arrival rule for each shift?",
+    "choices": [
+      {
+        "text": "Only classmates from the last placement.",
+        "note": "The package names the ward manager or in-charge, not last term's students."
+      },
+      {
+        "text": "The patient you are allocated.",
+        "note": "Shift hours are confirmed with the manager or in-charge."
+      },
+      {
+        "text": "The ward manager or the in-charge.",
+        "note": "Correct. Confirm A, P and N working hours, especially arrival criteria, with the ward manager or the in-charge."
+      },
+      {
+        "text": "Nobody, because every hospital uses 07:00, 14:00 and 21:00.",
+        "note": "You must confirm the local arrival rule. It is not assumed."
+      }
+    ],
+    "answer": 2,
+    "page": "1"
+  },
+  {
+    "id": "cp-010",
+    "topic": "Arrival",
+    "scene": "The board says blood pressure and pulse are due at 11:00.",
+    "ask": "What earliest BP and pulse time is the printed example for that round?",
+    "choices": [
+      {
+        "text": "11:00, taken only when the round itself starts.",
+        "note": "10:00 is the printed earliest example, not 11:00."
+      },
+      {
+        "text": "10:30, the example given for H'stix.",
+        "note": "10:30 is the H'stix example. BP and pulse use 10:00."
+      },
+      {
+        "text": "09:00, so the charts are closed before breakfast.",
+        "note": "09:00 is not the printed example."
+      },
+      {
+        "text": "10:00.",
+        "note": "Correct. The example is to start BP and pulse at 10:00 for an 11:00 round."
+      }
+    ],
+    "answer": 3,
+    "page": "1"
+  },
+  {
+    "id": "cp-011",
+    "topic": "Arrival",
+    "scene": "H'stix is also listed at 11:00.",
+    "ask": "What earliest H'stix time is the printed example?",
+    "choices": [
+      {
+        "text": "10:30 for the 11:00 H'stix.",
+        "note": "Correct. The example separates H'stix at 10:30 from BP and pulse at 10:00."
+      },
+      {
+        "text": "10:00, the same example as BP and pulse.",
+        "note": "Do not swap the two examples. H'stix is 10:30."
+      },
+      {
+        "text": "11:00 only, never earlier.",
+        "note": "The package gives an earliest time before the posted round."
+      },
+      {
+        "text": "08:00 fasting for every patient regardless of the order.",
+        "note": "The printed example is 10:30 for 11:00 H'stix, not a blanket 08:00."
+      }
+    ],
+    "answer": 0,
+    "page": "1"
+  },
+  {
+    "id": "cp-012",
+    "topic": "Arrival",
+    "scene": "You need linen, then you open an observation chart you have not seen before.",
+    "ask": "What else must you locate and learn on day one?",
+    "choices": [
+      {
+        "text": "Only the pantry. Charts are the same in every hospital.",
+        "note": "The package says each hospital has its own charts and forms."
+      },
+      {
+        "text": "The treatment room, equipment room and linen room, and how this hospital's own charts are filled, because each hospital charts differently.",
+        "note": "Correct. Arrival questions include those three rooms and the local charting method."
+      },
+      {
+        "text": "The mortuary route. Charting is identical across hospitals.",
+        "note": "You learn treatment, equipment and linen rooms, and the local forms."
+      },
+      {
+        "text": "Only the computer password. Linen location does not matter.",
+        "note": "Room locations are an explicit day-one question."
+      }
+    ],
+    "answer": 1,
+    "page": "1"
+  },
+  {
+    "id": "cp-013",
+    "topic": "Essential skills",
+    "scene": "You are revising the acute-hospital list the night before the ward.",
+    "ask": "Which oxygen task is named on that essential list?",
+    "choices": [
+      {
+        "text": "How to set the pressures on a BIPAP machine.",
+        "note": "BIPAP appears later only as a reason for continuous tube feeding, not as this essential oxygen skill."
+      },
+      {
+        "text": "How to intubate the trachea.",
+        "note": "Intubation is not on the beginner essential list."
+      },
+      {
+        "text": "How to perform arterial blood gas sampling.",
+        "note": "ABG is mentioned later as a possible doctor order, not as this essential skill."
+      },
+      {
+        "text": "How to give a mask and a nasal cannula, and how to open and adjust a portable oxygen cylinder.",
+        "note": "Correct. Item 8 names mask, nasal cannula, and opening and adjusting the portable cylinder. BIPAP pressures are not on this list."
+      }
+    ],
+    "answer": 3,
+    "page": "1"
+  },
+  {
+    "id": "cp-014",
+    "topic": "Busy ward",
+    "scene": "The ward is so busy that nobody is free to coach you.",
+    "ask": "What is the first self-rescue step?",
+    "choices": [
+      {
+        "text": "Learn the routine times and do the bed treatment, vital signs and H'stix on time, with an on-time report.",
+        "note": "Correct. Staff can look after you only when they are free. Being on time with basics comes first."
+      },
+      {
+        "text": "Follow the doctor on the round before any observations are done.",
+        "note": "The first step is the routine, not leaving the observations."
+      },
+      {
+        "text": "Wait beside the station until a nurse offers to teach a procedure.",
+        "note": "Waiting does not match the self-rescue list."
+      },
+      {
+        "text": "Start unfamiliar dressings so you look occupied.",
+        "note": "Basics on time come before extra procedures."
+      }
+    ],
+    "answer": 0,
+    "page": "2"
+  },
+  {
+    "id": "cp-015",
+    "topic": "Busy ward",
+    "scene": "You help with lunch while the nurses are still in the drug round.",
+    "ask": "What must you do when you help with meals, water or medicines?",
+    "choices": [
+      {
+        "text": "Feed first and check the name on the cup after the meal.",
+        "note": "The check is before feeding, and you ask if you are unsure."
+      },
+      {
+        "text": "Chart intake and output, check drinking and urine, and make sure the medicine cup really belongs to that person before you give it.",
+        "note": "Correct. You ask clearly before feeding medicines. A cup is never assumed."
+      },
+      {
+        "text": "Chart intake only if the person finishes the whole tray.",
+        "note": "Intake, drinking and urine are all part of the reminder."
+      },
+      {
+        "text": "Skip the chart because students do not record intake.",
+        "note": "The package tells you to enter intake and output."
+      }
+    ],
+    "answer": 1,
+    "page": "2"
+  },
+  {
+    "id": "cp-016",
+    "topic": "Busy ward",
+    "scene": "Observations are finished and the nurses are not using the board.",
+    "ask": "What does the package tell you to do with that quiet gap?",
+    "choices": [
+      {
+        "text": "Leave the ward until the next vital-sign round.",
+        "note": "The gap is for learning, not for disappearing."
+      },
+      {
+        "text": "Rearrange every patient's medicines into new cups.",
+        "note": "You copy and learn the drugs. You do not repack doses on your own."
+      },
+      {
+        "text": "Look at the board or copy the common ward drugs, their uses, and the special points to tell patients.",
+        "note": "Correct. Quiet time is for learning the ward's common drugs and what patients must be told."
+      },
+      {
+        "text": "Phone the doctor about a stable result so you can practise the call.",
+        "note": "Listening to how nurses call is later. You do not make a social call to the doctor."
+      }
+    ],
+    "answer": 2,
+    "page": "2"
+  },
+  {
+    "id": "cp-017",
+    "topic": "Busy ward",
+    "scene": "You are standing near the desk while a nurse admits a patient and calls the doctor.",
+    "ask": "What are you meant to pick up from that?",
+    "choices": [
+      {
+        "text": "How the nurse calls the doctor, how a specimen is explained, and the set lines used when admitting.",
+        "note": "Correct. The list tells you to listen for the doctor call, specimen teaching, precautions, and the admission script."
+      },
+      {
+        "text": "Only the doctor's personal mobile, so you can call next time.",
+        "note": "You learn the method, not a private number to reuse alone."
+      },
+      {
+        "text": "Nothing, because listening is unprofessional.",
+        "note": "The package explicitly tells you to listen and learn those scripts."
+      },
+      {
+        "text": "The diagnosis only, not the specimen instructions.",
+        "note": "Specimen collection and its precautions are part of the point."
+      }
+    ],
+    "answer": 0,
+    "page": "2"
+  },
+  {
+    "id": "cp-018",
+    "topic": "Busy ward",
+    "scene": "You still have a short gap after the trolleys look untidy.",
+    "ask": "Which quiet-time job matches the list?",
+    "choices": [
+      {
+        "text": "Restock trolleys only if a nurse writes you a list first.",
+        "note": "The self-rescue list tells you to fill gaps, once you know where items are stored."
+      },
+      {
+        "text": "Restock the tube-feeding trolley and the meal trolley, refill H'stix alcohol pads, lancets and test strips, and know where stores are. For an operation or test, know the preparation, such as fasting or steroid cover.",
+        "note": "Correct. You also read patient leaflets so you can revise what to remind people about, and you learn the ward's cases and common operations."
+      },
+      {
+        "text": "Steroid cover is a doctor-only idea and is never a student reminder.",
+        "note": "Steroid cover is the printed example of preparation to explain."
+      },
+      {
+        "text": "Leaflets are for patients, so reading them wastes revision time.",
+        "note": "The package says leaflets help you revise and remind patients."
+      }
+    ],
+    "answer": 1,
+    "page": "2"
+  },
+  {
+    "id": "cp-019",
+    "topic": "Temperature",
+    "scene": "You are about to chart a tympanic temperature.",
+    "ask": "What normal range does this package print?",
+    "choices": [
+      {
+        "text": "36.5 to 37.5 degrees Celsius.",
+        "note": "The printed normal range is 36.0 to 37.6."
+      },
+      {
+        "text": "35.0 to 38.0 degrees Celsius.",
+        "note": "35.0 would already sit below the printed low cut."
+      },
+      {
+        "text": "36.0 to 37.6 degrees Celsius.",
+        "note": "Correct. Low temperature in the table starts at 35.9 or below. Do not swap in a different textbook range."
+      },
+      {
+        "text": "37.0 to 38.5 degrees Celsius.",
+        "note": "38.5 is in the fever bands, not the normal range."
+      }
+    ],
+    "answer": 2,
+    "page": "3"
+  },
+  {
+    "id": "cp-020",
+    "topic": "Temperature",
+    "scene": "The first ear reads 35.6 degrees Celsius.",
+    "ask": "After you recheck both ears, which result do you chart, and what may be used if blankets still fail?",
+    "choices": [
+      {
+        "text": "Chart the lower ear so the hypothermia is not hidden.",
+        "note": "For a low reading the package says chart the higher result that is within or nearest normal."
+      },
+      {
+        "text": "Apply a bare ice pad so the skin cools further.",
+        "note": "Ice is a fever measure, and even then it needs a cover. Low temperature gets blankets, not ice."
+      },
+      {
+        "text": "Start oxygen at 100 percent because every low temperature is hypoxia.",
+        "note": "Oxygen is not the printed low-temperature action."
+      },
+      {
+        "text": "Chart the higher result that is within, or nearest, the normal range. If blankets and bed rest still fail, a Bair Hugger may be used.",
+        "note": "Correct. A Bair Hugger is a forced warm-air system for hypothermia in surgical patients. Dizziness is reported at once, with bed rails plus BP and pulse, and temperature is rechecked in 15 to 30 minutes."
+      }
+    ],
+    "answer": 3,
+    "page": "3-4"
+  },
+  {
+    "id": "cp-021",
+    "topic": "Temperature",
+    "scene": "After rechecking both ears, one reading is normal and the other stays in the low-grade fever band.",
+    "ask": "What do you chart, and how is a low-grade fever reported if the person is not dizzy?",
+    "choices": [
+      {
+        "text": "Always chart the higher, hotter ear, using the low-temperature rule.",
+        "note": "The hotter-ear rule is for the low-temperature row, not this fever row."
+      },
+      {
+        "text": "Chart the result that is within the normal range, and report after the temperature routine rather than as an immediate dizziness call.",
+        "note": "Correct. Low grade is printed as 37.6 to 38.5. The team nurse raises checks to every 4 hours and tells the doctor on the round. An ice pad, if used, needs a cover such as the original cover, a paper towel or a pillowcase."
+      },
+      {
+        "text": "Phone the doctor yourself before telling the team nurse.",
+        "note": "You report to the team nurse. The doctor is informed by the team nurse."
+      },
+      {
+        "text": "Put a bare ice pack on the skin.",
+        "note": "The ice pad is optional and must have a cover."
+      }
+    ],
+    "answer": 1,
+    "page": "3"
+  },
+  {
+    "id": "cp-022",
+    "topic": "Temperature",
+    "scene": "A temperature stays at 39.0 degrees Celsius and the recheck blood pressure is low.",
+    "ask": "What does the high-fever pathway add?",
+    "choices": [
+      {
+        "text": "Treat 39 degrees as low grade and wait for the ward round with no extra observations.",
+        "note": "A reading of 39 sits on the high-fever pathway, and a low blood pressure is phoned through."
+      },
+      {
+        "text": "Include a stool culture as a required part of the printed septic workup.",
+        "note": "Stool culture is not in the printed list."
+      },
+      {
+        "text": "Measure blood pressure, pulse and oxygen saturation, tell the team nurse at once because the pressure is low, and expect the team nurse to phone the doctor. A septic workup may include blood culture, complete blood picture, liver and renal function, mid-stream or catheter urine culture, sputum culture and a chest X-ray.",
+        "note": "Correct. Panadol 500 mg every 4 hours as needed, oral or rectal, is an example only. The doctor may omit it to watch the fever pattern. Example antibiotics include Zinacef 750 mg every 8 hours and Augmentin 1.2 g every 8 hours."
+      },
+      {
+        "text": "Give Panadol even when the doctor wants the fever pattern left untreated.",
+        "note": "The package says Panadol may be withheld for that reason."
+      }
+    ],
+    "answer": 2,
+    "page": "3-4"
+  },
+  {
+    "id": "cp-023",
+    "topic": "Blood pressure",
+    "scene": "A systolic reading is under 90 mmHg.",
+    "ask": "Which recheck sequence matches this package?",
+    "choices": [
+      {
+        "text": "Use a systolic cut of under 100 mmHg, the medicine-round figure, as this observation table.",
+        "note": "Under 100 is the later drug-withhold example. This table uses systolic under 90."
+      },
+      {
+        "text": "Skip the second limb and have the person keep walking.",
+        "note": "Both limbs are rechecked, and a persistent low reading is taken on the bed."
+      },
+      {
+        "text": "Sit the person with the head far above the feet for the third attempt.",
+        "note": "The printed third position is feet higher than the head by 15 to 30 degrees."
+      },
+      {
+        "text": "Check there is no limb elevation and no clothing in the way, use the correct cuff, and recheck both limbs. If it is still low, measure on the bed. If it is still low, try a position with the feet 15 to 30 degrees higher than the head.",
+        "note": "Correct. Report after the blood-pressure routine unless the person is dizzy, in which case you report at once. Recheck BP and pulse in 15 to 30 minutes. The doctor may order a 12-lead ECG, bloods such as complete blood picture, liver and renal function, CK and troponin I, plus intravenous fluid or an inotrope, and bed rest."
+      }
+    ],
+    "answer": 3,
+    "page": "5"
+  },
+  {
+    "id": "cp-024",
+    "topic": "Blood pressure",
+    "scene": "A systolic reading stays above 160 mmHg and the person has a headache.",
+    "ask": "What do you do, and what pattern must you also watch?",
+    "choices": [
+      {
+        "text": "Stop the person talking, recheck both limbs with a correct cuff and no clothing in the way, report the headache at once, and watch for a sudden rise or a sudden fall.",
+        "note": "Correct. If there is no headache, report after the routine. Recheck in 15 to 30 minutes, stop exercise, and use bed rails. Monitoring may increase to every 4 hours or every hour. Antihypertensive treatment comes after investigation such as an ECG or blood tests."
+      },
+      {
+        "text": "Use 140 mmHg systolic as the printed high cut.",
+        "note": "The table's high cut is systolic above 160, not 140."
+      },
+      {
+        "text": "Report a headache only after the whole ward routine is finished.",
+        "note": "Headache is an immediate report."
+      },
+      {
+        "text": "Ignore a sudden drop if the first reading was high.",
+        "note": "The footnote says to observe any sudden increase and any sudden decrease."
+      }
+    ],
+    "answer": 0,
+    "page": "5"
+  },
+  {
+    "id": "cp-025",
+    "topic": "Oxygen saturation",
+    "scene": "The pulse oximeter reads under 90 percent.",
+    "ask": "What does this package tell you to do?",
+    "choices": [
+      {
+        "text": "Wait 20 to 30 minutes before any oxygen, and do not start it until it is prescribed.",
+        "note": "The printed interval is 20 to 30 seconds, and you do not wait for a prescription."
+      },
+      {
+        "text": "Chart the lower of the two limbs.",
+        "note": "Chart the highest of the bilateral readings."
+      },
+      {
+        "text": "Tell the team nurse at once. Recheck both limbs and chart the higher value, after making sure cold or poor circulation is not the cause. If it is still not normal within 20 to 30 seconds, start a nasal cannula at 2, then 4, then 6 litres per minute, and if that fails use a 50 percent or 100 percent mask. Do not wait for a doctor to prescribe the oxygen.",
+        "note": "Correct. A sputum sound is treated as possible sputum retention and the airway is cleared by nasopharyngeal suction. The team nurse tells the doctor after the person is stable, or once 100 percent oxygen is in use."
+      },
+      {
+        "text": "Start at 10 litres by nasal cannula as the first step.",
+        "note": "The cannula steps printed here are 2, 4 and 6 litres, then a mask."
+      }
+    ],
+    "answer": 2,
+    "page": "6"
+  },
+  {
+    "id": "cp-026",
+    "topic": "Oxygen saturation",
+    "scene": "Your patient has COPD and a classmate turns the oxygen up to chase a saturation of 99 percent.",
+    "ask": "What saturation does this package aim for in COPD, and why is extra oxygen dangerous?",
+    "choices": [
+      {
+        "text": "Aim for 96 to 100 percent, the same as a person without lung disease.",
+        "note": "The COPD aim printed here is 88 to 92 percent."
+      },
+      {
+        "text": "High oxygen is always safe because both brain sensors stay normal in COPD.",
+        "note": "The package says the carbon-dioxide sensor is deactivated in this chronic state."
+      },
+      {
+        "text": "Stop oxygen monitoring once the mask is on.",
+        "note": "The package calls for close monitoring."
+      },
+      {
+        "text": "Aim for 88 to 92 percent. Chronic high carbon dioxide turns off the brain's carbon-dioxide drive, so only a low oxygen level keeps the breathing rate up. Too much oxygen can slow breathing and worsen carbon-dioxide retention.",
+        "note": "Correct. The package puts it this way: give too much oxygen and the patient will not know how to breathe. Tell the doctor and an arterial blood gas may be ordered."
+      }
+    ],
+    "answer": 3,
+    "page": "6"
+  },
+  {
+    "id": "cp-027",
+    "topic": "Blood glucose",
+    "scene": "A conscious person's H'stix is under 4 mmol/L and there is no dizziness.",
+    "ask": "What feeding and reporting action matches the table?",
+    "choices": [
+      {
+        "text": "Give orange juice or milk, withhold anti-hyperglycaemic drugs as the doctor orders, report to the team nurse after the routine, and recheck 15 to 30 minutes after the juice, milk, meal or treatment.",
+        "note": "Correct. If the person is unconscious, an intravenous site is set up and D50 is given as prescribed, and the team nurse phones the doctor at once. Dizziness or unconsciousness is an immediate report even before the rest of the routine."
+      },
+      {
+        "text": "Give intravenous D50 to every conscious person under 4 mmol/L.",
+        "note": "D50 in this table is for the unconscious person, as prescribed."
+      },
+      {
+        "text": "Give glucagon, which this table names as the first treatment.",
+        "note": "Glucagon is not in the table. Conscious treatment is orange juice or milk."
+      },
+      {
+        "text": "Phone the doctor at once for every conscious reading under 4, before telling the team nurse.",
+        "note": "A conscious person without dizziness is reported after the routine, and the doctor is told on the round."
+      }
+    ],
+    "answer": 0,
+    "page": "7"
+  },
+  {
+    "id": "cp-028",
+    "topic": "Blood glucose",
+    "scene": "H'stix is over 16 mmol/L.",
+    "ask": "What does the package tell the team to do?",
+    "choices": [
+      {
+        "text": "Treat over 16 the same as under 4 and give orange juice.",
+        "note": "Juice is the conscious low-glucose action, not the high-glucose action."
+      },
+      {
+        "text": "Report after the routine unless the person is dizzy or unconscious, withhold the night snack, test urine for ketones as the hospital instructs, and expect the team nurse to phone the doctor at once. Insulin may be ordered and glucose checked every 4 hours. If diabetic ketoacidosis is a risk, a DKI drip may be ordered.",
+        "note": "Correct. Also ask what the person took. The easy memory range printed underneath is 4 to 8 mmol/L, which is not the same as the action cuts of under 4 and over 16."
+      },
+      {
+        "text": "Keep the night snack so calories are not lost.",
+        "note": "The night snack is withheld."
+      },
+      {
+        "text": "Wait for the ward round before the doctor is phoned.",
+        "note": "For a reading over 16 the team nurse phones the doctor immediately."
+      }
+    ],
+    "answer": 1,
+    "page": "7"
+  },
+  {
+    "id": "cp-029",
+    "topic": "Drug effects",
+    "scene": "A nurse asks what you would watch for after digoxin.",
+    "ask": "Which effects does this package list for digoxin?",
+    "choices": [
+      {
+        "text": "Orange urine and a rash.",
+        "note": "Orange urine is listed for phenazopyridine, not digoxin."
+      },
+      {
+        "text": "Mouth fungus and a hoarse voice.",
+        "note": "Those are listed for inhaled beclomethasone and budesonide."
+      },
+      {
+        "text": "A fast heart rate only, with no rhythm change.",
+        "note": "The printed digoxin effects are a slow rate and arrhythmia."
+      },
+      {
+        "text": "A slow heart rate and an irregular rhythm.",
+        "note": "Correct. Digoxin sits with the heart-failure and arrhythmia drugs. A slow rate is also why the later safety page sends you to the apical heart rate."
+      }
+    ],
+    "answer": 3,
+    "page": "8"
+  },
+  {
+    "id": "cp-030",
+    "topic": "Drug effects",
+    "scene": "You are warning an older adult about a large dose of senna.",
+    "ask": "Which serious effect of a large laxative dose is printed here?",
+    "choices": [
+      {
+        "text": "Intestinal obstruction, along with abdominal pain and diarrhoea from bisacodyl, lactulose or senna.",
+        "note": "Correct. Aspirin and clopidogrel, in the same table, are listed for stomach pain and bleeding, which is a different row."
+      },
+      {
+        "text": "Orange urine.",
+        "note": "Orange urine is the urinary-analgesic row."
+      },
+      {
+        "text": "A hoarse voice from the laxative itself.",
+        "note": "Hoarseness is the inhaled-steroid row."
+      },
+      {
+        "text": "A slow heart rate as the main laxative effect.",
+        "note": "A slow rate is the digoxin row."
+      }
+    ],
+    "answer": 0,
+    "page": "8"
+  },
+  {
+    "id": "cp-031",
+    "topic": "Drug effects",
+    "scene": "After budesonide inhalations the person says the voice is hoarse.",
+    "ask": "Which effect in this table fits, and which drug turns urine orange?",
+    "choices": [
+      {
+        "text": "Hoarseness is the main printed effect of senna, and orange urine is from digoxin.",
+        "note": "Those effects are swapped away from the printed rows."
+      },
+      {
+        "text": "Budesonide can cause a hoarse voice and fungus in the mouth or throat. Phenazopyridine can turn the urine orange.",
+        "note": "Correct. Beclomethasone is grouped with budesonide for the same local effects. Dry mouth and cough are also listed."
+      },
+      {
+        "text": "Fungus is listed for frusemide, and orange urine for lactulose.",
+        "note": "Frusemide is frequency and dizziness. Lactulose is a laxative."
+      },
+      {
+        "text": "Budesonide has no local mouth effect in this table.",
+        "note": "Mouth or throat fungus and hoarseness are printed for it."
+      }
+    ],
+    "answer": 1,
+    "page": "8"
+  },
+  {
+    "id": "cp-032",
+    "topic": "Essential drugs",
+    "scene": "You are using the 28-drug sheet before a medicine round.",
+    "ask": "Which drugs does that sheet put under observe laboratory result?",
+    "choices": [
+      {
+        "text": "Metformin, gliclazide and glibenclamide.",
+        "note": "Those are in the blood-glucose column."
+      },
+      {
+        "text": "Digoxin, amiodarone and metoprolol.",
+        "note": "Those are in the heart-rate column."
+      },
+      {
+        "text": "Aspirin, clopidogrel (Plavix), dipyridamole (Persantin) and warfarin.",
+        "note": "Correct. They are the laboratory column. They are not the glucose column."
+      },
+      {
+        "text": "Frusemide and spironolactone only, with no antiplatelet drug.",
+        "note": "The diuretics are grouped with blood-pressure observation."
+      }
+    ],
+    "answer": 2,
+    "page": "9"
+  },
+  {
+    "id": "cp-033",
+    "topic": "Essential drugs",
+    "scene": "The 28-drug sheet has a heart-rate column and a blood-pressure column.",
+    "ask": "Where are metoprolol and atenolol placed?",
+    "choices": [
+      {
+        "text": "Metoprolol is in the heart-rate column with amiodarone and digoxin. Atenolol is in the blood-pressure antihypertensive column, not the heart-rate column.",
+        "note": "Correct. Diuretics on the same blood-pressure side include frusemide, indapamide, Moduretic and spironolactone."
+      },
+      {
+        "text": "Both atenolol and metoprolol are only in the glucose column.",
+        "note": "Neither is a glucose drug on this sheet."
+      },
+      {
+        "text": "Atenolol is the heart-rate drug and metoprolol is only a diuretic.",
+        "note": "The sheet places atenolol with antihypertensives and metoprolol with heart rate."
+      },
+      {
+        "text": "Neither drug is on the 28-drug sheet.",
+        "note": "Both names are printed, in different columns."
+      }
+    ],
+    "answer": 0,
+    "page": "9"
+  },
+  {
+    "id": "cp-034",
+    "topic": "Essential drugs",
+    "scene": "You need to know which 28-drug names are watched with H'stix.",
+    "ask": "Which group is the blood-glucose column?",
+    "choices": [
+      {
+        "text": "Warfarin, aspirin and Plavix.",
+        "note": "Those are the laboratory column."
+      },
+      {
+        "text": "Acarbose (Glucobay), glibenclamide (Daonil), gliclazide (Diamicron), glipizide (Minidiab) and metformin (Glucophage).",
+        "note": "Correct. Warfarin is not in that column. It is under laboratory result."
+      },
+      {
+        "text": "Amiodarone, digoxin and metoprolol.",
+        "note": "Those are the heart-rate column."
+      },
+      {
+        "text": "Only frusemide and Lasix.",
+        "note": "Frusemide is a diuretic under blood-pressure observation."
+      }
+    ],
+    "answer": 1,
+    "page": "9"
+  },
+  {
+    "id": "cp-035",
+    "topic": "Common drugs",
+    "scene": "You are separating the syrup list from the antibiotic list.",
+    "ask": "Which pairing matches the printed columns?",
+    "choices": [
+      {
+        "text": "Flagyl and Ciproxin are syrups, and Dilantin is the antibiotic.",
+        "note": "That swaps the columns."
+      },
+      {
+        "text": "Levofloxacin is a syrup and Phensedyl is not listed.",
+        "note": "Levofloxacin is under antibiotics and Phensedyl is under syrups."
+      },
+      {
+        "text": "Dilantin, lactulose, Phensedyl and sodium valproate are among the syrups. Amoxil, Augmentin, Ciproxin, Flagyl and levofloxacin are the antibiotics.",
+        "note": "Correct. Enervon C and MES with ammonia and ipecacuanha are also on the syrup side."
+      },
+      {
+        "text": "There is no syrup column on the page.",
+        "note": "The page has antibiotics, syrups and common medications."
+      }
+    ],
+    "answer": 2,
+    "page": "10"
+  },
+  {
+    "id": "cp-036",
+    "topic": "Common drugs",
+    "scene": "A nurse names Softon, Lomotil and Resonium C as ordinary ward stock.",
+    "ask": "What does this package say those names are, and what effects does it give glycerin trinitrate?",
+    "choices": [
+      {
+        "text": "Softon is an antibiotic, and glycerin trinitrate has no printed side effects.",
+        "note": "Softon is with the common medications, and the anti-angina row lists headache, dizziness and flushing."
+      },
+      {
+        "text": "Lomotil is a syrup vitamin and is not on the common list.",
+        "note": "Lomotil is printed in the common-medication column."
+      },
+      {
+        "text": "Resonium C is an antibiotic on the Amoxil list.",
+        "note": "Resonium C is a common medication, not one of the five antibiotics."
+      },
+      {
+        "text": "Softon is docusate sodium 100 mg, and Lomotil and Resonium C are on the common-medication list. Glycerin trinitrate, with isosorbide mononitrite and dinitrate, is listed for headache, dizziness and facial flushing.",
+        "note": "Correct. Resonium is also the potassium-removing example on the later safety page, where the laboratory result must be checked."
+      }
+    ],
+    "answer": 3,
+    "page": "8-10"
+  },
+  {
+    "id": "cp-037",
+    "topic": "Medicine safety",
+    "scene": "You are about to give an antihypertensive and a diuretic, and the chart states no target pressure.",
+    "ask": "What extra check does this package add beyond the three checks and seven rights?",
+    "choices": [
+      {
+        "text": "Give the drugs whenever systolic pressure is above 90, with no pulse check.",
+        "note": "This page wants both pressure and pulse, and withholds under 100 systolic or under 60 pulse when no target is written."
+      },
+      {
+        "text": "Check identity first, then blood pressure and pulse. If systolic pressure is under 100 mmHg or the pulse is under 60 per minute, withhold the doses and tell the team nurse.",
+        "note": "Correct. If you are the team nurse, recheck the person and inform the doctor. This under-100 cut is the drug rule, not the observation table's under-90 cut."
+      },
+      {
+        "text": "Withhold only if systolic pressure is above 160.",
+        "note": "Above 160 is the observation high cut, not this withhold rule."
+      },
+      {
+        "text": "Look at the chart before you have confirmed the person's identity.",
+        "note": "The page says to confirm identity before reading the chart."
+      }
+    ],
+    "answer": 1,
+    "page": "11"
+  },
+  {
+    "id": "cp-038",
+    "topic": "Medicine safety",
+    "scene": "The due drug is digoxin.",
+    "ask": "What pulse check is printed for a cardiac drug, and what is added for digoxin?",
+    "choices": [
+      {
+        "text": "Give digoxin if the radial pulse is 52, because only blood pressure matters.",
+        "note": "Under 60 means withhold and tell the team nurse, and digoxin needs the apex."
+      },
+      {
+        "text": "Count the apex only when the pulse is above 100.",
+        "note": "The apical check is part of giving digoxin, and the withhold cut is under 60."
+      },
+      {
+        "text": "Withhold a cardiac drug and tell the team nurse if the pulse is under 60 per minute. For digoxin, listen to the apical heart rate with a stethoscope.",
+        "note": "Correct. A radial count alone does not meet the digoxin line."
+      },
+      {
+        "text": "Skip the pulse because the three checks already include it.",
+        "note": "This page says the three checks and seven rights still missed this pulse check."
+      }
+    ],
+    "answer": 2,
+    "page": "11"
+  },
+  {
+    "id": "cp-039",
+    "topic": "Medicine safety",
+    "scene": "A hypoglycaemic tablet is due.",
+    "ask": "What H'stix result means you withhold it?",
+    "choices": [
+      {
+        "text": "Under 8 mmol/L, the top of the easy memory range.",
+        "note": "The withhold cut printed here is under 4, not under 8."
+      },
+      {
+        "text": "Over 16 mmol/L only. A low reading is not a reason to withhold.",
+        "note": "Over 16 is the high-glucose pathway. This drug rule is the low reading."
+      },
+      {
+        "text": "Any reading under 10 mmol/L.",
+        "note": "10 is not the printed withhold cut."
+      },
+      {
+        "text": "Under 4 mmol/L, and you tell the team nurse.",
+        "note": "Correct. The same under-4 cut is the low-glucose action line. You do not give the tablet and hope the meal will catch up."
+      }
+    ],
+    "answer": 3,
+    "page": "11"
+  },
+  {
+    "id": "cp-040",
+    "topic": "Medicine safety",
+    "scene": "Slow-K, potassium chloride syrup and sodium chloride are due, and the laboratory slip is back.",
+    "ask": "When do you withhold them?",
+    "choices": [
+      {
+        "text": "Withhold if potassium is greater than 5.1 or sodium is greater than 145, and do not over-replace. If the drug is Resonium C or Resonium A, check the laboratory result first.",
+        "note": "Correct. The page tells you to read the renal-function potassium or sodium before supplementing."
+      },
+      {
+        "text": "Withhold potassium only if it is under 3.5, and ignore a high result.",
+        "note": "The printed withhold is a high potassium, greater than 5.1, not a low one."
+      },
+      {
+        "text": "Withhold sodium only when it is greater than 160.",
+        "note": "The printed sodium cut is greater than 145."
+      },
+      {
+        "text": "Give Slow-K without the laboratory result because it is a supplement.",
+        "note": "The supplement is the reason you must see the result."
+      }
+    ],
+    "answer": 0,
+    "page": "11"
+  },
+  {
+    "id": "cp-041",
+    "topic": "Medicine safety",
+    "scene": "Warfarin is prescribed daily and the dose is still in the trolley at noon.",
+    "ask": "Why is it given in the afternoon, and what range is the usual example?",
+    "choices": [
+      {
+        "text": "Give warfarin at 07:00 because the afternoon dose is always late.",
+        "note": "The page says it is given in the afternoon so the result can be checked."
+      },
+      {
+        "text": "The only acceptable INR range for every case is 3 to 4.",
+        "note": "The usual example printed is 1.5 to 2.5, and the case range must still be confirmed."
+      },
+      {
+        "text": "It waits for the laboratory INR. The usual keep range quoted is 1.5 to 2.5, but each case differs, so confirm with the team nurse or the board, and look for subcutaneous bleeding. If the INR is too high, withhold.",
+        "note": "Correct. Do not assume every person keeps the same range."
+      },
+      {
+        "text": "Subcutaneous bleeding is irrelevant to a warfarin round.",
+        "note": "The page tells you to look for it."
+      }
+    ],
+    "answer": 2,
+    "page": "11"
+  },
+  {
+    "id": "cp-042",
+    "topic": "Medicine safety",
+    "scene": "A person had lower-bowel surgery four days ago and Dulcolax suppositories are prescribed.",
+    "ask": "What is the per-rectal restriction?",
+    "choices": [
+      {
+        "text": "The ban lasts 24 hours only.",
+        "note": "The printed ban is seven days."
+      },
+      {
+        "text": "Suppositories are safe as soon as the person passes flatus.",
+        "note": "The restriction is the seven-day wound rule, not flatus."
+      },
+      {
+        "text": "Only oral Dulcolax is banned. Rectal doses are preferred after this surgery.",
+        "note": "The warning is about per-rectal drugs."
+      },
+      {
+        "text": "Do not give a per-rectal drug such as a Fleet enema or Dulcolax within seven days after per-rectal or lower-gastrointestinal surgery, or the wound may burst and cause peritonitis.",
+        "note": "Correct. Four days is still inside the seven days."
+      }
+    ],
+    "answer": 3,
+    "page": "11"
+  },
+  {
+    "id": "cp-043",
+    "topic": "Medicine safety",
+    "scene": "The sign says nil by mouth except medication, and the person is for theatre after fasting from midnight.",
+    "ask": "What do you do about insulin and oral diabetic drugs?",
+    "choices": [
+      {
+        "text": "Withhold subcutaneous insulin and all oral diabetic drugs yourself. A full nil-by-mouth order means oral drugs are not given and are changed to intravenous drugs. Fasting-from-midnight doses that are still allowed use 50 ml of water at 07:00, or the operation may be delayed or cancelled.",
+        "note": "Correct. Being allowed other oral medicines does not rescue the diabetic drugs, because the person is not eating."
+      },
+      {
+        "text": "Give the usual insulin because the sign allows medication.",
+        "note": "The page says you withhold insulin and oral diabetic drugs even on nil by mouth except medication."
+      },
+      {
+        "text": "Give oral tablets with a full glass of juice while fasting from midnight.",
+        "note": "The printed vehicle is 50 ml of water at 07:00, not juice."
+      },
+      {
+        "text": "Keep oral diabetic drugs and stop only the blood-pressure tablets.",
+        "note": "The diabetic drugs are the ones this point tells you to withhold."
+      }
+    ],
+    "answer": 0,
+    "page": "11"
+  },
+  {
+    "id": "cp-044",
+    "topic": "PPP bloods",
+    "scene": "You are preparing blood tests under please-prepare-patient.",
+    "ask": "Why do platelets, haemoglobin and INR matter here?",
+    "choices": [
+      {
+        "text": "Low platelets are useful because they reduce theatre bleeding.",
+        "note": "The page says platelets that are too low cannot stop bleeding."
+      },
+      {
+        "text": "Platelets that are too low may not stop bleeding in theatre. Haemoglobin that is too low may need transfusion beforehand. An abnormal INR means a bleeding tendency. Liver and renal tests cover sodium and potassium, and RG means random glucose.",
+        "note": "Correct. These are preparation results, not optional extras."
+      },
+      {
+        "text": "INR is checked only to adjust a diabetic dose.",
+        "note": "INR is printed for bleeding tendency."
+      },
+      {
+        "text": "Random glucose is not part of the blood-test list.",
+        "note": "RG, random glucose, is on the list."
+      }
+    ],
+    "answer": 1,
+    "page": "12"
+  },
+  {
+    "id": "cp-045",
+    "topic": "PPP medicines",
+    "scene": "Theatre is in three days and the person takes aspirin and Plavix.",
+    "ask": "Which withholding examples does the preparation page give?",
+    "choices": [
+      {
+        "text": "Stop aspirin for one hour and keep Plavix until the trolley leaves.",
+        "note": "Aspirin is at least three days and Plavix is one week."
+      },
+      {
+        "text": "Withhold only paracetamol. Antiplatelet drugs stay until induction.",
+        "note": "Aspirin and Plavix are named withholding examples."
+      },
+      {
+        "text": "Anti-hyperglycaemic drugs are continued through nil by mouth.",
+        "note": "They are withheld for a nil-by-mouth case."
+      },
+      {
+        "text": "Aspirin for at least three days, Plavix for one week, plus heparin, enoxaparin given IMI, warfarin, and anti-hyperglycaemic drugs when the person is nil by mouth.",
+        "note": "Correct. Enoxaparin is printed as IMI on this page."
+      }
+    ],
+    "answer": 3,
+    "page": "12"
+  },
+  {
+    "id": "cp-046",
+    "topic": "PPP preparation",
+    "scene": "You are ticking the rest of the please-prepare-patient list.",
+    "ask": "Which items belong on it?",
+    "choices": [
+      {
+        "text": "Weight and height in kilograms for anaesthetic doses, major consent by a medical officer and minor consent by a house officer, a urine stick for glucose and protein, mid-stream or catheter urine culture for a urology case, and U+RU plus an IPSS questionnaire for a prostate case.",
+        "note": "Correct. The list also includes an ECG and chest X-ray, site marking, clipping if required, a bath, fasting from midnight, and a nil-by-mouth sign."
+      },
+      {
+        "text": "Weight in pounds, because anaesthetic doses on this page use pounds.",
+        "note": "The page says the unit should be kilograms."
+      },
+      {
+        "text": "Minor consent signed by the medical officer and major consent by the student.",
+        "note": "Major consent is the medical officer and minor consent is the house officer."
+      },
+      {
+        "text": "Skip urine tests for a urology case.",
+        "note": "Urology cases need a culture sample, and prostate cases need U+RU and an IPSS questionnaire."
+      }
+    ],
+    "answer": 0,
+    "page": "12"
+  },
+  {
+    "id": "cp-047",
+    "topic": "Pre-operative check",
+    "scene": "You are checking the person before the porter arrives.",
+    "ask": "What identity and consent points does the pre-operative list require?",
+    "choices": [
+      {
+        "text": "A wristband is enough. The consent does not need the anaesthetist's signature.",
+        "note": "The anaesthetist, the surgeon and the patient are all named."
+      },
+      {
+        "text": "Check the name, Hong Kong identity number and bracelet, the time of the last food and drink, and a consent signed by the surgeon, the anaesthetist and the patient, including the diagnosis, the operation and the complications, with or without a fact sheet.",
+        "note": "Correct. Also check that the perioperative record and the theatre list match the person and the operation."
+      },
+      {
+        "text": "Last food and drink can be left blank if the sign says fasting from midnight.",
+        "note": "The time of the last food and drink is its own check."
+      },
+      {
+        "text": "The student's signature can replace the patient's signature.",
+        "note": "The patient's signature is required."
+      }
+    ],
+    "answer": 1,
+    "page": "13"
+  },
+  {
+    "id": "cp-048",
+    "topic": "Pre-operative script",
+    "scene": "You are asking the pre-operative history in the ward's own words.",
+    "ask": "Which cluster matches the printed questions?",
+    "choices": [
+      {
+        "text": "Ask about drug allergy only, and leave dentures, lenses and nail polish in place.",
+        "note": "Dentures are checked for removal, and lenses and nail polish come off."
+      },
+      {
+        "text": "Infectious status never changes the theatre order.",
+        "note": "Those infections may place the person last."
+      },
+      {
+        "text": "Ask about hepatitis, lung disease, heart disease, diabetes, blood pressure or an illness needing follow-up, using the sense of 有無肝炎、肺病、心藏病、糖尿、血壓或要覆診既病. Also ask food, drug or tape allergy, loose teeth or a denture and whether it comes out, local or general anaesthesia, contact lenses, and whether nail polish is off. MRSA, hepatitis B, CRE or VRE may mean this person goes last to theatre.",
+        "note": "Correct. Tape allergy is part of the allergy question, not an optional extra."
+      },
+      {
+        "text": "Skip heart disease and diabetes because theatre will ask again.",
+        "note": "They are in the printed past-history question."
+      }
+    ],
+    "answer": 2,
+    "page": "13"
+  },
+  {
+    "id": "cp-049",
+    "topic": "Pre-operative check",
+    "scene": "The anaesthetist has written drugs and fluids to go with the person.",
+    "ask": "Which preparation point matches the page?",
+    "choices": [
+      {
+        "text": "Blood pressure and other vital signs are checked. Indicated blood-pressure and heart drugs are given with 50 ml of water. Underwear comes off and the theatre gown goes on, ties at the back. Jewellery, including metal, rings, a watch and a necklace, goes to the property cupboard. The plan may be general, spinal, local or MAC anaesthesia, and blood results, the chest film and the ECG should at least have been seen by the house officer.",
+        "note": "Correct. Printed fluid examples include half-and-half solution every 8 hours, 1D1S every 6 hours, and D10 with 10 mmol of potassium chloride plus Actrapid 4 units every 8 hours. Make the bed for the return."
+      },
+      {
+        "text": "Give the morning cardiac drug with a large juice, not the 50 ml of water.",
+        "note": "The printed volume is 50 ml of water."
+      },
+      {
+        "text": "Leave rings and the watch on because metal is allowed in theatre.",
+        "note": "Metal, rings, watches and necklaces come off."
+      },
+      {
+        "text": "MAC is not an anaesthetic option on this page.",
+        "note": "GA, SA, LA or MAC are all named."
+      }
+    ],
+    "answer": 0,
+    "page": "13"
+  },
+  {
+    "id": "cp-050",
+    "topic": "Recovery",
+    "scene": "The porter is ready and you have not picked up the theatre equipment.",
+    "ask": "What do you bring before you go to theatre?",
+    "choices": [
+      {
+        "text": "Only the case notes. A recovery tray is packed by theatre.",
+        "note": "The ward brings the recovery tray."
+      },
+      {
+        "text": "The recovery tray, and any special item the theatre nurse asked for, such as an extra pillow.",
+        "note": "Correct. You bring it before you go, not after the person returns."
+      },
+      {
+        "text": "An extra pillow only if the person asks for comfort on the way.",
+        "note": "The extra pillow is the example of a special theatre request."
+      },
+      {
+        "text": "The meal tray, so the person can eat in recovery.",
+        "note": "Food is not the item. Post-operative intake has its own timing rules."
+      }
+    ],
+    "answer": 1,
+    "page": "14"
+  },
+  {
+    "id": "cp-051",
+    "topic": "Recovery",
+    "scene": "You meet the person in the recovery room.",
+    "ask": "What do you check before the ward accepts the return?",
+    "choices": [
+      {
+        "text": "Only the wound. Identity was checked before theatre, so recovery skips it.",
+        "note": "Name, identity number and bracelet are checked again in recovery."
+      },
+      {
+        "text": "Oxygen can be continued with no note of the litres or the stop time.",
+        "note": "You check the prescription in litres per minute and until when."
+      },
+      {
+        "text": "Name, identity number, bracelet, conscious level and vital signs; the operation done, the post-operative diagnosis and the final method, general, spinal or local; estimated blood loss and intra-operative complications; whether the wound is actively bleeding; oxygen in litres per minute and until when; drugs given and the time; any drain, catheter and intravenous fluid; and the surgeon's post-operative orders.",
+        "note": "Correct. Identity is checked again in recovery, not assumed from the theatre list alone."
+      },
+      {
+        "text": "Blood loss is a theatre secret and is not handed over.",
+        "note": "Estimated blood loss and complications are on the list."
+      }
+    ],
+    "answer": 2,
+    "page": "14"
+  },
+  {
+    "id": "cp-052",
+    "topic": "Post-operative intake",
+    "scene": "The recovery note says diet as tolerated after a general anaesthetic.",
+    "ask": "When may this person drink or eat?",
+    "choices": [
+      {
+        "text": "Six hours for every anaesthetic, including local.",
+        "note": "Local anaesthesia needs no wait on this page, and general anaesthesia with diet as tolerated is three hours."
+      },
+      {
+        "text": "One hour after general anaesthesia and three hours after spinal anaesthesia.",
+        "note": "The times are three hours for general anaesthesia and one and a half hours for spinal anaesthesia."
+      },
+      {
+        "text": "As soon as the person asks, with no team-nurse check.",
+        "note": "You confirm with the team nurse first."
+      },
+      {
+        "text": "Three hours after a general anaesthetic if diet as tolerated is prescribed, one and a half hours after spinal anaesthesia, and no wait is required after local anaesthesia. Confirm with the team nurse before any drink or food.",
+        "note": "Correct. Do not use a single six-hour rule for every anaesthetic."
+      }
+    ],
+    "answer": 3,
+    "page": "14"
+  },
+  {
+    "id": "cp-053",
+    "topic": "Return to ward",
+    "scene": "The person has just had a thyroidectomy and is back from recovery.",
+    "ask": "Which position and monitoring does the return list name for this operation?",
+    "choices": [
+      {
+        "text": "Lie the person flat with no saturation monitoring.",
+        "note": "The thyroidectomy example is propped up, with continuous saturation monitoring."
+      },
+      {
+        "text": "Continuous oxygen-saturation monitoring, a recovery tray or box, and propping up to 30 or 45 degrees unless another order says otherwise.",
+        "note": "Correct. Heavy oozing is reported to the team nurse. Mark the ooze on the outer dressing with a marker pen."
+      },
+      {
+        "text": "Prop up to 90 degrees and remove the recovery tray.",
+        "note": "The printed angles are 30 or 45 degrees, and the tray or box is set up."
+      },
+      {
+        "text": "Skip the position check because every operation uses the same posture.",
+        "note": "The page tells you to ensure the correct position, and gives thyroidectomy as the example."
+      }
+    ],
+    "answer": 1,
+    "page": "15"
+  },
+  {
+    "id": "cp-054",
+    "topic": "Return to ward",
+    "scene": "You are writing the return note and the family wants the watch back.",
+    "ask": "What does the return list say about property, and what must the note contain?",
+    "choices": [
+      {
+        "text": "Return valuables as soon as the trolley arrives, even if the person is still drowsy.",
+        "note": "Property waits until the person is fully conscious."
+      },
+      {
+        "text": "The note needs only the time back. Wound and pain can wait until night.",
+        "note": "Wound, pain, tubes and education are all in the documentation line."
+      },
+      {
+        "text": "Return property only when the person is fully conscious. Record the time back, the operation, general condition, vital signs, wound, pain level, intravenous fluid, any drain, nasogastric tube and catheter, and the education given.",
+        "note": "Correct. Also keep the drip secured, give prescribed oxygen, secure drain and catheter, teach PCA if there is one, check hypothermia care, hand over to the case nurse or in-charge, chart intake and output, and empty the bedside bag or drain first if that was ordered."
+      },
+      {
+        "text": "Take down the intravenous fluid on arrival so the person can move.",
+        "note": "The drip is to be continuous and secured."
+      }
+    ],
+    "answer": 2,
+    "page": "15"
+  },
+  {
+    "id": "cp-055",
+    "topic": "Intravenous rate",
+    "scene": "You are about to count a gravity drip.",
+    "ask": "What drop factor does this package print?",
+    "choices": [
+      {
+        "text": "15 drops per ml, the other common giving-set figure.",
+        "note": "This page prints 20, not 15."
+      },
+      {
+        "text": "60 drops per ml, a micro-drip figure.",
+        "note": "60 is not the printed factor."
+      },
+      {
+        "text": "10 drops per ml.",
+        "note": "The printed factor is 20."
+      },
+      {
+        "text": "20 drops per ml.",
+        "note": "Correct. The heading is drop factor equals drops per ml, and the value is 20. The table is built from that figure."
+      }
+    ],
+    "answer": 3,
+    "page": "16"
+  },
+  {
+    "id": "cp-056",
+    "topic": "Intravenous rate",
+    "scene": "A 500 ml bag is to run over 8 hours and the drop factor is 20.",
+    "ask": "Which rate matches the printed table?",
+    "choices": [
+      {
+        "text": "About 21 drops per minute, and about 2 drops in 5 seconds.",
+        "note": "Correct. The table prints 20.83 to 21 drops per minute and 1.74 to 2 drops in 5 seconds. That is volume times 20, divided by hours times 60."
+      },
+      {
+        "text": "About 42 drops per minute, which is the 4-hour line.",
+        "note": "500 ml over 4 hours is about 42 drops per minute. Over 8 hours it is about 21."
+      },
+      {
+        "text": "About 83 drops per minute.",
+        "note": "That is the 2-hour line for 500 ml."
+      },
+      {
+        "text": "About 7 drops per minute.",
+        "note": "That is the 24-hour line, not the 8-hour line."
+      }
+    ],
+    "answer": 0,
+    "page": "16"
+  },
+  {
+    "id": "cp-057",
+    "topic": "Intravenous rate",
+    "scene": "The order changes to 500 ml over 1 hour, then someone asks about a 24-hour rate.",
+    "ask": "Which pair matches the table?",
+    "choices": [
+      {
+        "text": "Over 1 hour, about 67 drops per minute.",
+        "note": "The 1-hour figure is about 167, not 67."
+      },
+      {
+        "text": "Over 24 hours, about 21 drops per minute.",
+        "note": "21 per minute is the 8-hour line."
+      },
+      {
+        "text": "Over 1 hour, about 167 drops per minute, about 14 drops in 5 seconds. Over 24 hours, about 7 drops per minute.",
+        "note": "Correct. The 1-hour line is 166.66 to 167 per minute and 13.88 to 14 in 5 seconds. The 24-hour line is 6.94 to 7 per minute."
+      },
+      {
+        "text": "Both orders run at 14 drops per minute.",
+        "note": "14 in 5 seconds belongs to the 1-hour line, not to both orders."
+      }
+    ],
+    "answer": 2,
+    "page": "16"
+  },
+  {
+    "id": "cp-058",
+    "topic": "Wound dressing",
+    "scene": "You are asked for the seven items to see a wound.",
+    "ask": "Which set is the printed seven?",
+    "choices": [
+      {
+        "text": "Gloves, a stitch cutter, plain gauze, micropore, a scalpel, saline 10 ml and a small plaster.",
+        "note": "A stitch cutter and a scalpel are not in the seven."
+      },
+      {
+        "text": "A full dressing set, betadine, hydrogen peroxide, a trolley, scissors, an alcohol pad and a foam dressing.",
+        "note": "Those belong to the longer simple-materials list, not the seven see-wound items."
+      },
+      {
+        "text": "Gloves, plain gauze and micropore only. Saline and the Tegaderm ruler are optional.",
+        "note": "Saline 10 ml and the large Tegaderm are two of the seven."
+      },
+      {
+        "text": "Gloves, a plastic bag, plain gauze, micropore, a dressing applicator, single-use normal saline 10 ml, and a large Tegaderm used as a ruler.",
+        "note": "Correct. The large Tegaderm is for measuring, not a substitute for the saline."
+      }
+    ],
+    "answer": 3,
+    "page": "17"
+  },
+  {
+    "id": "cp-059",
+    "topic": "Wound dressing",
+    "scene": "You are choosing a primary dressing and a solution from the simple-materials list.",
+    "ask": "Which names are on that list?",
+    "choices": [
+      {
+        "text": "Primary examples include Jelonet, Mesalt, Duoderm, Aquacel Ag and Kaltostat. Solutions named are normal saline, Betadine, Hibitane and hydrogen peroxide.",
+        "note": "Correct. Secondary dressings include gauze, combined gauze and foam. Tape includes micropore, Tegaderm, a bandage and Omnifix."
+      },
+      {
+        "text": "Primary dressings on this list are only dry gauze. Jelonet and Kaltostat are not named.",
+        "note": "Jelonet, Mesalt, Duoderm, Aquacel Ag and Kaltostat are all named as primary dressings."
+      },
+      {
+        "text": "The only solution allowed is antibiotic powder.",
+        "note": "The solutions printed are saline, Betadine, Hibitane and hydrogen peroxide."
+      },
+      {
+        "text": "Hydrogen peroxide is banned on this list.",
+        "note": "Hydrogen peroxide is one of the four named solutions."
+      }
+    ],
+    "answer": 0,
+    "page": "17"
+  },
+  {
+    "id": "cp-060",
+    "topic": "Wound note",
+    "scene": "You are copying the style of the sample wound notes.",
+    "ask": "Which pair matches the samples?",
+    "choices": [
+      {
+        "text": "Both wounds are recorded as 10 cm deep with heavy pus.",
+        "note": "The samples are small, with mild serous or mild haemoserous discharge."
+      },
+      {
+        "text": "Normal saline to the left hip, 3 cm by 1 cm, mild serous discharge. Aqueous Hibitane to the coccyx, 3 by 1.5 by 0.5 cm, mild haemoserous discharge. In both, the surrounding skin is intact.",
+        "note": "Correct. Both samples say the person tolerated the dressing and understood simple wound teaching."
+      },
+      {
+        "text": "The hip wound is Hibitane and the coccyx wound is left undescribed.",
+        "note": "The hip sample is normal saline and the coccyx sample is aqueous Hibitane."
+      },
+      {
+        "text": "Surrounding skin is recorded as broken in both samples.",
+        "note": "Both samples say the surrounding skin is intact."
+      }
+    ],
+    "answer": 1,
+    "page": "42"
+  },
+  {
+    "id": "cp-061",
+    "topic": "Oral medicines",
+    "scene": "You are setting up the medicine trolley before an administration exam.",
+    "ask": "What does the preparation list include?",
+    "choices": [
+      {
+        "text": "A locked trolley, cold water only, and no memo paper.",
+        "note": "The locks are already open, the water is warm, and memo paper is on the list."
+      },
+      {
+        "text": "Syrup cups are left in the treatment room until the end.",
+        "note": "Medicine cups and syrup cups are placed on the trolley."
+      },
+      {
+        "text": "The drug book is not used on this trolley.",
+        "note": "The drug book is item 8."
+      },
+      {
+        "text": "One trolley with all the locks already open, tissue, warm water, enough drugs, medicine cups and syrup cups on the trolley top, memo paper for items to report, an alcohol swab for hand hygiene, the drug book, and a small tray.",
+        "note": "Correct. The cups are taken out before you start reading the sheets."
+      }
+    ],
+    "answer": 3,
+    "page": "18"
+  },
+  {
+    "id": "cp-062",
+    "topic": "Oral medicines",
+    "scene": "The exam uses IPMOE and you are told to scan in a Z pattern.",
+    "ask": "What do you read first?",
+    "choices": [
+      {
+        "text": "The person's name, identity number and allergy history.",
+        "note": "Correct. You then read from the first drug. Doses to be given are mostly arranged at the front."
+      },
+      {
+        "text": "The last drug on the list, then the allergy only if the person asks.",
+        "note": "Allergy is read at the start, with the name and identity number."
+      },
+      {
+        "text": "Only the bed number, because the name is on the door.",
+        "note": "Name, identity and allergy come first."
+      },
+      {
+        "text": "The pharmacy price of each item.",
+        "note": "Price is not part of the Z-pattern reading."
+      }
+    ],
+    "answer": 0,
+    "page": "18"
+  },
+  {
+    "id": "cp-063",
+    "topic": "Oral medicines",
+    "scene": "One drug is already signed off, and you had marked pain, cough and itch to ask about.",
+    "ask": "Which reading rule matches the package?",
+    "choices": [
+      {
+        "text": "As-needed questions count as one of the three checks, so you can skip a signed-off drug completely.",
+        "note": "Those questions are explicitly not part of the three checks, and a signed-off line is still read."
+      },
+      {
+        "text": "Pain, cough, itch and other as-needed items are marked to ask and are not counted inside the three checks. A drug already signed off, or not yet due, is still read for the name, the doctor's signature not yet signed off, the route, the frequency and the dosage, and you state that it is not yet time, already signed off, or a local application that is not given now.",
+        "note": "Correct. You do not skip a signed-off line in silence."
+      },
+      {
+        "text": "Give a not-yet-due drug if the cup looks empty.",
+        "note": "Not yet due means it is not given on this pass."
+      },
+      {
+        "text": "Local-application ointment is poured into the oral cup.",
+        "note": "The reading line says LA is not given on that oral pass, and it is reported later if still not given."
+      }
+    ],
+    "answer": 1,
+    "page": "18-19"
+  },
+  {
+    "id": "cp-064",
+    "topic": "Syrup check",
+    "scene": "The next item is a bottle of syrup.",
+    "ask": "How do the three checks handle the syrup?",
+    "choices": [
+      {
+        "text": "Shake the bottle after you have signed the sheet, and read the level from above.",
+        "note": "You shake before pouring, and both later checks are at eye level."
+      },
+      {
+        "text": "Eye level is only the third check. The second check is a glance from above.",
+        "note": "Both the second and the third checks are at eye level."
+      },
+      {
+        "text": "First check the name, the dose and the expiry, matching identity if the bottle has one. On the second check, shake the bottle, pour the amount, and read it at eye level. On the third check, read the level at eye level again.",
+        "note": "Correct. Eye level is used twice, not once."
+      },
+      {
+        "text": "Syrup is never shaken, because shaking changes the dose.",
+        "note": "The second check starts by shaking the bottle."
+      }
+    ],
+    "answer": 2,
+    "page": "19"
+  },
+  {
+    "id": "cp-065",
+    "topic": "Oral medicines",
+    "scene": "You have a top-up bottle of tablets and a powder sachet.",
+    "ask": "Which check matches the tips?",
+    "choices": [
+      {
+        "text": "A top-up bottle has no person identity to match, so you check the name, how many tablets the dose needs, and the expiry. The second check holds the tablet in the cap or a spoon. A powder sachet is not thrown away before the third check. A bagged dose must match the person, and the top-up date must be within one week.",
+        "note": "Correct. Foil expiry is checked on a bagged dose at the second check."
+      },
+      {
+        "text": "Throw the powder sachet away as soon as you pour, then do the third check from memory.",
+        "note": "The third check keeps the sachet."
+      },
+      {
+        "text": "A top-up bottle is checked against the bed number printed on the bottle.",
+        "note": "The tip says a top-up bottle has no person identity on it."
+      },
+      {
+        "text": "Tablets may be tipped from the bottle straight into the cup with no second look.",
+        "note": "The second check holds the tablet in the cap or a spoon."
+      }
+    ],
+    "answer": 0,
+    "page": "18-19"
+  },
+  {
+    "id": "cp-066",
+    "topic": "Oral medicines",
+    "scene": "The cups are full and one person says they will take medicines only after lunch.",
+    "ask": "What does the package require before you finish?",
+    "choices": [
+      {
+        "text": "Throw the packets away before the team nurse looks, to keep the trolley tidy.",
+        "note": "The packets stay until that joint check."
+      },
+      {
+        "text": "Keep the packets until the team nurse checks every cup with you, on a blue tray or a kidney dish. Do not recite a pile of side effects to the person. If someone will take medicines only after food, you must see those doses taken before you go off duty, or you fail. Report items such as Dulcolax not given and how many days the bowels have not opened, and local ointment not yet given.",
+        "note": "Correct. Side effects are asked separately so the person is not frightened off the dose."
+      },
+      {
+        "text": "Tell the person every side effect on the page before each swallow.",
+        "note": "A pile of side effects is specifically discouraged."
+      },
+      {
+        "text": "An after-food dose can be left unverified when your shift ends.",
+        "note": "If it is not seen to be taken before you go off duty, the package says you fail."
+      }
+    ],
+    "answer": 1,
+    "page": "19"
+  },
+  {
+    "id": "cp-067",
+    "topic": "Catheterisation once",
+    "scene": "You are collecting equipment for a once-only catheter specimen.",
+    "ask": "Which catheter does the package name?",
+    "choices": [
+      {
+        "text": "A Fr 16 silicone tube, the nasogastric aspiration size.",
+        "note": "Fr 16 on the nasogastric pages is for aspiration, not this catheterisation."
+      },
+      {
+        "text": "A Fr 20 three-way catheter.",
+        "note": "Fr 20 or above, three-way, is the bladder-irrigation catheter."
+      },
+      {
+        "text": "A Fr 10 Nelaton single-use catheter, black, with a round tip, plus a sterile specimen container.",
+        "note": "Correct. This is not the Fr 12 or 14 balloon catheter used for a change."
+      },
+      {
+        "text": "Any Foley that is already open on the trolley.",
+        "note": "The once-only catheter is specified as Fr 10 Nelaton, black, round tip."
+      }
+    ],
+    "answer": 2,
+    "page": "20"
+  },
+  {
+    "id": "cp-068",
+    "topic": "Catheterisation once",
+    "scene": "You are about to clean and label a once-only catheterisation.",
+    "ask": "Which antiseptic and identity step match the page?",
+    "choices": [
+      {
+        "text": "Tisept is chlorhexidine 0.5 percent with no cetrimide, and you scan only at the end.",
+        "note": "The printed Tisept strength is 0.015 percent chlorhexidine plus 0.15 percent cetrimide, and the scan comes first."
+      },
+      {
+        "text": "Unisept is the same mixture as Tisept.",
+        "note": "Unisept is chlorhexidine gluconate 0.05 percent."
+      },
+      {
+        "text": "Identity is confirmed by asking the room number only.",
+        "note": "The once-only page uses the 2D scan of the bracelet and the worksheet."
+      },
+      {
+        "text": "Tisept is chlorhexidine gluconate 0.015 percent plus cetrimide 0.15 percent, or Unisept is chlorhexidine gluconate 0.05 percent. Scan the bracelet and then the worksheet with the 2D scanner, and confirm the label, before you start.",
+        "note": "Correct. Yellow forceps lift the catheter. Blue forceps take the swabs."
+      }
+    ],
+    "answer": 3,
+    "page": "20"
+  },
+  {
+    "id": "cp-069",
+    "topic": "Catheterisation once",
+    "scene": "The Nelaton catheter is in, but no urine appears.",
+    "ask": "What does the procedure tell you to try, and which compartment holds the urine?",
+    "choices": [
+      {
+        "text": "Inflate a balloon and wait one hour.",
+        "note": "The once-only Nelaton steps do not use a balloon. They use a syringe if urine does not come."
+      },
+      {
+        "text": "Keep the large compartment for urine. Aspirate with the syringe, because jelly may block the lumen or the person may have little urine. If the catheter went in too far, pull it back a little.",
+        "note": "Correct. Ordinary gloves are used to retract the foreskin or to part the labia with two pieces of gauze. Sterile gloves go on before the final clean and the insertion."
+      },
+      {
+        "text": "Use the small compartment as the urine well.",
+        "note": "The large compartment is kept for urine. Solution goes in the small compartment."
+      },
+      {
+        "text": "Remove the catheter at once and send an empty bottle.",
+        "note": "The page gives a syringe aspiration and a small withdrawal before you give up."
+      }
+    ],
+    "answer": 1,
+    "page": "20"
+  },
+  {
+    "id": "cp-070",
+    "topic": "Catheter change",
+    "scene": "The order is to change an indwelling catheter, not to take a once-only specimen.",
+    "ask": "Which equipment and first actions match?",
+    "choices": [
+      {
+        "text": "A black Fr 10 Nelaton and a specimen bottle, with no balloon test.",
+        "note": "That is the once-only set. A change uses Fr 12 or 14 and a balloon that is tested."
+      },
+      {
+        "text": "Remove the old catheter with sterile gloves and do not look at whether it is intact.",
+        "note": "Latex gloves are used to remove it, and you check that it is intact."
+      },
+      {
+        "text": "Water for injection 10 ml, two 10 ml syringes, a Fr 12 or 14 catheter, a bedside bag and hanger, micropore and latex gloves. Confirm the person on the bed card, remove the old catheter with latex gloves, check that it is intact, empty the old bag and note the urine, and hang the new bag.",
+        "note": "Correct. Test the new balloon by filling it and drawing the water back out before you insert."
+      },
+      {
+        "text": "Leave the new bag on the trolley until the end.",
+        "note": "The new bedside bag is hung before you start the clean steps."
+      }
+    ],
+    "answer": 2,
+    "page": "21"
+  },
+  {
+    "id": "cp-071",
+    "topic": "Catheter change",
+    "scene": "Urine has just appeared through the new catheter.",
+    "ask": "What do you do next, and what does the sample note record?",
+    "choices": [
+      {
+        "text": "Inflate the balloon at the first drop of urine, with no further insertion.",
+        "note": "The page says insert another 2 to 5 cm, then inflate at once."
+      },
+      {
+        "text": "Tape the catheter to the abdomen and record 200 ml as the sample amount.",
+        "note": "The tape is on the side of the thigh, and the sample amount is about 20 ml."
+      },
+      {
+        "text": "The sample note says understanding was excellent and no holder was used.",
+        "note": "Understanding is doubtful in the sample, and a limb holder is applied."
+      },
+      {
+        "text": "Advance another 2 to 5 cm, inflate the balloon at once, connect the bedside bag, and tape the catheter to the side of the thigh with micropore. The sample note records an old Fr 14 removed intact, a new Fr 14, about 20 ml of urine, micropore, fair tolerance, education the person may not have understood, and a limb holder so the catheter is not pulled out.",
+        "note": "Correct. Inflating before that extra 2 to 5 cm is not the printed sequence."
+      }
+    ],
+    "answer": 3,
+    "page": "21-42"
+  },
+  {
+    "id": "cp-072",
+    "topic": "Nasogastric aims",
+    "scene": "A doctor has prescribed a nasogastric tube and you are explaining why it is being passed.",
+    "ask": "Which aims does the insertion chapter give?",
+    "choices": [
+      {
+        "text": "Enteral feeding and medicines, a gastric specimen for the laboratory, decompression or drainage of gastric content, and lavage in poisoning. It is an invasive procedure and needs a doctor's order for the type and the indication.",
+        "note": "Correct. You also check two identifiers, past history, vital signs, nasal surgery, a deviated septum or facial trauma, and you choose the nostril with the better airflow."
+      },
+      {
+        "text": "The only aim is lavage. Feeding through the tube is not listed.",
+        "note": "Feeding and medicines are the first uses named."
+      },
+      {
+        "text": "A tube may be passed for comfort with no prescription.",
+        "note": "A doctor's order is required."
+      },
+      {
+        "text": "The tube is for intravenous fluid.",
+        "note": "It is an enteral and gastric tube, not an intravenous line."
+      }
+    ],
+    "answer": 0,
+    "page": "22"
+  },
+  {
+    "id": "cp-073",
+    "topic": "Nasogastric tube",
+    "scene": "You are picking the tube size and the change interval.",
+    "ask": "Which pair matches the preparation list?",
+    "choices": [
+      {
+        "text": "Fr 10 for feeding and Fr 20 for aspiration, both changed daily.",
+        "note": "Those sizes are not the nasogastric sizes. Daily change is not printed."
+      },
+      {
+        "text": "Silicone is changed every 7 days and PVC is left for 30 days.",
+        "note": "That swaps the two intervals."
+      },
+      {
+        "text": "Usually Fr 12 or Fr 14 for feeding, and Fr 16 for aspiration. PVC is changed in 7 to 14 days. Silicone is changed at 30 days. pH paper is part of the equipment.",
+        "note": "Correct. The list also includes a 60 ml syringe, a spigot, water-soluble lubricant, a stethoscope and micropore."
+      },
+      {
+        "text": "pH paper is left off the trolley because the stethoscope replaces it.",
+        "note": "pH paper is listed. The stethoscope is for the optional test, not a replacement."
+      }
+    ],
+    "answer": 2,
+    "page": "22"
+  },
+  {
+    "id": "cp-074",
+    "topic": "Nasogastric insertion",
+    "scene": "The English steps say the person cannot sit and must lie flat.",
+    "ask": "Which position, measurement and lubrication match those English steps?",
+    "choices": [
+      {
+        "text": "Use the head-down 15 to 30 degree position as the English instruction for a person who must lie flat.",
+        "note": "Head-down is the Chinese description. The English steps say reverse Trendelenburg."
+      },
+      {
+        "text": "Lay the tube on the skin while you measure, and use oil on the first 20 cm.",
+        "note": "The English measurement does not touch the tube to the skin, and the lubricant length there is about 5 to 10 cm of water-soluble jelly."
+      },
+      {
+        "text": "Leave the far end open so gastric fluid can drain during insertion.",
+        "note": "A spigot is added so gastric content does not drain out once the tube is in."
+      },
+      {
+        "text": "If the person can sit, use high Fowler or an upright position. If the person must lie flat, use reverse Trendelenburg. Measure nose tip to the earlobe nearer that nostril, then to the xiphoid, without laying the tube on the skin. Lubricate about 5 to 10 cm, and spigot the far end before you insert.",
+        "note": "Correct. The Chinese tips separately describe a head-down slope of about 15 to 30 degrees, or a right-side lie, when the person cannot sit. Do not copy that head-down line into the English steps."
+      }
+    ],
+    "answer": 3,
+    "page": "23-24"
+  },
+  {
+    "id": "cp-075",
+    "topic": "Nasogastric insertion",
+    "scene": "The tube has passed the nasopharynx and the person starts to cough violently.",
+    "ask": "What do the English steps tell you to do?",
+    "choices": [
+      {
+        "text": "Pull the tube out at once if coughing is violent or there is respiratory distress. After the nasopharynx, ask the person to flex the head toward the chest. If the tube will not advance and choking continues, look in the mouth for a coil.",
+        "note": "Correct. A gag at the nasopharynx can mean you stop, withdraw a little, and let the person rest before trying again."
+      },
+      {
+        "text": "Keep advancing while the person coughs, so the tube does not lose ground.",
+        "note": "Violent cough or respiratory distress means withdraw at once."
+      },
+      {
+        "text": "Extend the neck fully after the nasopharynx to open the trachea.",
+        "note": "The head is flexed toward the chest to close the glottis."
+      },
+      {
+        "text": "A coil in the mouth is ignored if the mark on the tube has been reached.",
+        "note": "You inspect the mouth for coiling when the tube will not advance with swallowing."
+      }
+    ],
+    "answer": 0,
+    "page": "24"
+  },
+  {
+    "id": "cp-076",
+    "topic": "Nasogastric check",
+    "scene": "The English insertion pages tell you how to decide the tube is in the stomach.",
+    "ask": "Which statement matches those pages?",
+    "choices": [
+      {
+        "text": "The whoosh is the required test, and pH is only a classroom option.",
+        "note": "The whoosh is labelled optional. pH of 5.5 or less is the bedside indication."
+      },
+      {
+        "text": "Inject up to 10 to 30 ml of air, aspirate, and treat a gastric pH of 5.5 or less as a good indication, noting colour and amount. A whoosh over the epigastrium with a quick 10 ml of air is marked optional. A chest X-ray, as prescribed, is the golden-standard check on these insertion pages.",
+        "note": "Correct. You look in the mouth for a coil before you trust the aspirate, then spigot the tube again. Secure it with at least two pieces of micropore on the bridge of the nose."
+      },
+      {
+        "text": "A pH of 7 or above confirms the stomach.",
+        "note": "The printed gastric pH is 5.5 or less, not 7 or above."
+      },
+      {
+        "text": "If you hear a whoosh, the X-ray is cancelled as unnecessary.",
+        "note": "The X-ray, as prescribed, is still called the golden standard on the insertion pages."
+      }
+    ],
+    "answer": 1,
+    "page": "25-26"
+  },
+  {
+    "id": "cp-077",
+    "topic": "Nasogastric check",
+    "scene": "You are following the Chinese insertion tips at the bedside.",
+    "ask": "Which tests do those tips treat as the main check, and which are optional?",
+    "choices": [
+      {
+        "text": "Bubbles in the water bowl mean the tube is safely in the stomach.",
+        "note": "Bubbles are the optional sign of tracheal placement, and the tube is repassed."
+      },
+      {
+        "text": "Always discard the aspirate, including clear gastric fluid.",
+        "note": "Clear aspirate goes back by gravity. Blood is the exception."
+      },
+      {
+        "text": "Listening at the ear is the required golden standard in the Chinese tips.",
+        "note": "It is marked optional. The main bedside test is the aspirate and the pH."
+      },
+      {
+        "text": "Inject 5 to 10 ml, aspirate, and a pH of 5.5 or below means the site is right. Unless the aspirate contains blood, let it flow back by gravity to spare electrolytes. The water-bubble test, listening at the ear, and the gurgle with 10 to 20 ml of air are marked optional, and air that was injected for the gurgle is drawn back out.",
+        "note": "Correct. No bubbles in the water is the optional sign of a right site. Bubbles suggest the trachea. Hearing no breath sound at the ear, or the person being able to hum and speak, is also only optional."
+      }
+    ],
+    "answer": 3,
+    "page": "30"
+  },
+  {
+    "id": "cp-078",
+    "topic": "Nasogastric insertion",
+    "scene": "The Chinese tips give a length and a lubricant warning.",
+    "ask": "Which rule matches those tips?",
+    "choices": [
+      {
+        "text": "An average adult length is about 45 to 55 cm, or take the nose-ear-xiphoid length, subtract 50 cm, divide by 2, then add 50 cm. Lubricate about 15 to 20 cm with water-soluble jelly, never oil. If the specimen is for cytology, use water or saline instead of jelly. After a gastrectomy the doctor passes the tube.",
+        "note": "Correct. Oil is forbidden because it does not dissolve and can injure the airway if the tube is in the trachea."
+      },
+      {
+        "text": "Oil-based jelly is preferred, and the student passes the tube after a gastrectomy.",
+        "note": "Oil is forbidden, and the doctor passes the tube after gastrectomy so the suture line is not torn."
+      },
+      {
+        "text": "The only adult length is 75 cm, lubricated for 2 cm with water.",
+        "note": "75 cm appears in a later sample mark. The Chinese length guide is about 45 to 55 cm, or the NEX formula, with about 15 to 20 cm lubricated."
+      },
+      {
+        "text": "Cytology specimens should be heavily coated in jelly.",
+        "note": "Jelly can spoil a cytology sample, so water or saline is used."
+      }
+    ],
+    "answer": 0,
+    "page": "29"
+  },
+  {
+    "id": "cp-079",
+    "topic": "Nasogastric X-ray",
+    "scene": "Someone says a chest film makes nasogastric placement foolproof.",
+    "ask": "What safety warning does the package print?",
+    "choices": [
+      {
+        "text": "The package says misread films have never caused death, so any film is enough.",
+        "note": "It prints 12 deaths inside the 45 misread-film events."
+      },
+      {
+        "text": "The usual test is still to aspirate and check the pH, and to X-ray if you still doubt. From 2005 in England and Wales the package cites 21 deaths and 79 serious incidents from tubes placed in the lung. Of those 100 events, 45, including 12 deaths, came from misread films. In March 2011 the National Patient Safety Agency issued guidance on reading those films safely. A check that nobody follows carefully is only decoration.",
+        "note": "Correct. Do not treat the film as safe just because it was taken."
+      },
+      {
+        "text": "Auscultation replaced X-ray after 2011.",
+        "note": "The warning is about reading the film safely, not about dropping the pH-then-X-ray sequence."
+      },
+      {
+        "text": "There were 45 deaths, all from pH paper, and no film errors.",
+        "note": "The 45 events are the misread films, and the deaths inside that group are 12. Overall deaths cited are 21."
+      }
+    ],
+    "answer": 1,
+    "page": "30-31"
+  },
+  {
+    "id": "cp-080",
+    "topic": "Nasogastric note",
+    "scene": "You are modelling the progress-note sample dated 22 September 2020 at 10:00.",
+    "ask": "Which record matches that sample?",
+    "choices": [
+      {
+        "text": "An Fr 16 tube to 75 cm, with pH 7.5 and no X-ray mentioned.",
+        "note": "The progress sample is Fr 12, 55 cm, pH 4.5, pending chest X-ray."
+      },
+      {
+        "text": "The pH was 4.5, so the sample says the X-ray was cancelled.",
+        "note": "The sample still says confirmation by chest X-ray is pending."
+      },
+      {
+        "text": "An Fr 12 tube was passed through the nostril to 55 cm. 10 ml of yellowish gastric fluid was aspirated and the pH was 4.5. The person tolerated it. Chest X-ray confirmation was still pending. The note is signed by nursing student Chan Mui Mui and RN Chan Tai Mui.",
+        "note": "Correct. A pH of 4.5 fits the 5.5-or-less bedside indication, and the sample still waits for the film."
+      },
+      {
+        "text": "20 ml of green fluid, pH 8, signed by the doctor only.",
+        "note": "The sample is 10 ml yellowish, pH 4.5, signed by the student and the nurse."
+      }
+    ],
+    "answer": 2,
+    "page": "27"
+  },
+  {
+    "id": "cp-081",
+    "topic": "Nasogastric note",
+    "scene": "A later sample describes a tube change rather than a first insertion.",
+    "ask": "Which details match that sample?",
+    "choices": [
+      {
+        "text": "The old Fr 16 tube was removed and was intact. The new Fr 16 tube was marked 3.5, which the note equates to 75 cm. 10 ml of undigested milk was aspirated, pH 4.5. Tolerance was poor, with mild aggression, and mild nasal bleeding stopped after 3 minutes. Teaching was given but understanding was doubtful.",
+        "note": "Correct. Do not swap this sample with the Fr 12 progress note."
+      },
+      {
+        "text": "A new Fr 12 tube at 55 cm, tolerated well, with no bleeding.",
+        "note": "That is the other sample. This one is Fr 16, mark 3.5 (75 cm), tolerated poorly, with brief bleeding."
+      },
+      {
+        "text": "pH 6.5 and bleeding that continued for an hour.",
+        "note": "The pH is 4.5 and the bleeding stopped after 3 minutes."
+      },
+      {
+        "text": "The old tube was not inspected.",
+        "note": "The sample says the old tube was removed and found intact."
+      }
+    ],
+    "answer": 0,
+    "page": "42"
+  },
+  {
+    "id": "cp-082",
+    "topic": "Nasogastric residual",
+    "scene": "Before a feed you aspirate the stomach.",
+    "ask": "Which residual rule is printed on the feeding pages?",
+    "choices": [
+      {
+        "text": "Under 200 ml, discard it. Over 200 ml, give double the feed.",
+        "note": "The printed continue cut is under 250 ml, and the residual is put back, not discarded."
+      },
+      {
+        "text": "Under 250 ml, put the residual back and follow the feed prescription. Over 250 ml, or more than half of the previous feed on two consecutive feeds, tell the doctor. Over 500 ml, withhold the feed and tell the responsible staff.",
+        "note": "Correct. Putting back a residual under 250 ml is to avoid losing nutrients and electrolytes. Do not replace 250 with another cut."
+      },
+      {
+        "text": "Any residual over 250 ml means withhold at once, and 500 ml is still safe to feed.",
+        "note": "Over 250 ml means tell the doctor. Over 500 ml is the withhold line."
+      },
+      {
+        "text": "Put back a 520 ml residual and give the full feed.",
+        "note": "Over 500 ml means withhold the feed and inform the responsible staff."
+      }
+    ],
+    "answer": 1,
+    "page": "34-35"
+  },
+  {
+    "id": "cp-083",
+    "topic": "Nasogastric feeding",
+    "scene": "The pH is acceptable and you are about to start the milk.",
+    "ask": "Which feeding sequence matches these pages?",
+    "choices": [
+      {
+        "text": "Give the milk first and the medicines last, with no water flush.",
+        "note": "Medicines come before the milk, after a 10 ml flush."
+      },
+      {
+        "text": "A pH of 6.5 is the feeding-page golden standard.",
+        "note": "The feeding pages say 5.5 or less."
+      },
+      {
+        "text": "On the feeding pages a gastric pH of 5.5 or less is called a golden standard of placement. Flush 10 ml of water, give liquid or dissolved medicines before the milk, and finish an intermittent feed in about 30 to 60 minutes. Afterwards flush 50 or 100 ml of water as prescribed. Keep the person upright, or at least at 30 degrees, for 30 minutes. A continuous feed is checked, including the residual, every 4 hours, and the tube is flushed with 30 ml of water every 4 hours as prescribed.",
+        "note": "Correct. Absent bowel sounds alone do not forbid a feed, but pain, distension or tenderness must be reported. Formula is at room temperature, shaken, and in date, and the tubing is primed."
+      },
+      {
+        "text": "Lie the person flat for the 30 minutes after the feed.",
+        "note": "The position is high Fowler or at least 30 degrees for 30 minutes."
+      }
+    ],
+    "answer": 2,
+    "page": "33-36"
+  },
+  {
+    "id": "cp-084",
+    "topic": "Nasogastric feeding",
+    "scene": "One person is on BIPAP and another is breathing very fast.",
+    "ask": "Why does the package choose a feeding pump for some people?",
+    "choices": [
+      {
+        "text": "BIPAP is a reason to give one large bolus, because the lungs protect the airway.",
+        "note": "The package says inflated lungs increase aspiration risk, so the feed is continuous."
+      },
+      {
+        "text": "Intermittent feeding is banned for everyone.",
+        "note": "Intermittent feeding is described as the more suitable, generally recommended pattern."
+      },
+      {
+        "text": "Respiratory distress is a reason to speed the bolus up.",
+        "note": "Distress is a reason to keep the person nil by mouth."
+      },
+      {
+        "text": "Continuous feeding, for example 50 ml across 20 hours, is used with BIPAP or a ventilator because the inflated lungs push a full stomach down and raise vomiting and aspiration. Intermittent feeding, for example 250 ml five times, is generally preferred so the gut can rest. A person in respiratory distress is kept nil by mouth. Stop a feed if breathing distress, nausea or vomiting appears.",
+        "note": "Correct. Easy vomiting is another reason for a pump, so the stomach is not suddenly full."
+      }
+    ],
+    "answer": 3,
+    "page": "36-39"
+  },
+  {
+    "id": "cp-085",
+    "topic": "Nasogastric feeding",
+    "scene": "You were to give 250 ml and you aspirate 125 ml of undigested milk. Classmates each pick a different action.",
+    "ask": "What does this critical-thinking section conclude?",
+    "choices": [
+      {
+        "text": "The section says you must always discard the 125 ml.",
+        "note": "Discarding is only one of the five reasoned options."
+      },
+      {
+        "text": "It does not crown one action. Refeed and skip a feed, discard and give a new 250 ml, mix 125 ml old with 125 ml new, add a full new 250 ml, or refeed and give the new 250 ml an hour later, each has a printed pro and con. Once you are registered you may use any of them if you know the reason. Adding the full new 250 ml on top of the old 125 ml risks a distended stomach and aspiration.",
+        "note": "Correct. This discussion does not erase the under-250, over-250 and over-500 rules on the feeding steps. Those cuts are a separate printed instruction."
+      },
+      {
+        "text": "The section says students must add 250 ml of new milk to the 125 ml.",
+        "note": "That option is listed with the con of a larger volume and aspiration risk. It is not mandated."
+      },
+      {
+        "text": "The section says every option is unsafe, so you never feed again that day.",
+        "note": "It says a registered nurse may use any option if the rationale is known."
+      }
+    ],
+    "answer": 1,
+    "page": "39-40"
+  },
+  {
+    "id": "cp-086",
+    "topic": "Oxygen therapy",
+    "scene": "The prescription reads 2 litres by nasal cannula, and a classmate suggests 10 litres by the same cannula.",
+    "ask": "What flow rule and flowmeter check does the oxygen page print?",
+    "choices": [
+      {
+        "text": "A nasal cannula is the device for 10 to 15 litres.",
+        "note": "Above the 1 to 6 litre cannula range, the page sends you to a face mask."
+      },
+      {
+        "text": "Read the top of the ball as the true flow.",
+        "note": "The middle of the ball is the true position."
+      },
+      {
+        "text": "A nasal cannula is for 1 to 6 litres per minute, or about 24 to 44 percent, because the anatomical dead space fills. Other flow rates go by face mask. The true reading is the middle of the ball. Point the prongs downward. An example order is 2 litres by cannula or 50 percent by face mask.",
+        "note": "Correct. Confirm the person and the prescription, including the bracelet, before you start."
+      },
+      {
+        "text": "Point the prongs upward toward the eyes.",
+        "note": "The prongs curve downward."
+      }
+    ],
+    "answer": 2,
+    "page": "43"
+  },
+  {
+    "id": "cp-087",
+    "topic": "Oxygen therapy",
+    "scene": "The cannula is on and the person asks if they may turn it up.",
+    "ask": "What safety teaching and follow-up does the page require?",
+    "choices": [
+      {
+        "text": "Self-adjustment is allowed if the person feels short of breath.",
+        "note": "No self-adjustment is an explicit point."
+      },
+      {
+        "text": "Recheck the saturation at the next shift, not in half an hour.",
+        "note": "The page says you will recheck after half an hour."
+      },
+      {
+        "text": "Skin behind the ears is not inspected.",
+        "note": "The face, including the back of the ears, is checked for damage before the device goes on."
+      },
+      {
+        "text": "Check the facial skin, including behind the ears, before you apply the cannula or mask. Explain no smoking and no self-adjustment. Prop the person up. Say you will recheck the saturation in half an hour. Chart the MEWS and report signs of suffocation. Clean your hands before and after touching the person.",
+        "note": "Correct. Do not leave the teaching until the end of the shift."
+      }
+    ],
+    "answer": 3,
+    "page": "43-44"
+  },
+  {
+    "id": "cp-088",
+    "topic": "Airway suction",
+    "scene": "You can hear secretions and a nasopharyngeal suction is ordered.",
+    "ask": "How is the suction catheter handled?",
+    "choices": [
+      {
+        "text": "Pass a Fr 12 to 14 catheter, packet unbroken and in date, about 10 to 15 cm into the nose with the suction off. Apply suction only as you withdraw, at 100 to 120 mmHg for an adult, rotating the catheter, and break the suction intermittently.",
+        "note": "Correct. Do not suction while you are still inserting."
+      },
+      {
+        "text": "Suction on the way in at 150 mmHg so secretions are caught early.",
+        "note": "Suction is applied on the way out, at 100 to 120 mmHg, not on the way in."
+      },
+      {
+        "text": "Insert about 25 cm and use a Fr 18 catheter as the printed size.",
+        "note": "The printed nasal distance is about 10 to 15 cm and the size is Fr 12 to 14."
+      },
+      {
+        "text": "Keep the suction continuous with no rotation.",
+        "note": "The page wants rotation and intermittent suction."
+      }
+    ],
+    "answer": 0,
+    "page": "45"
+  },
+  {
+    "id": "cp-089",
+    "topic": "Airway suction",
+    "scene": "You are preparing the suction trolley and your protective equipment.",
+    "ask": "What fluid and precautions match the page?",
+    "choices": [
+      {
+        "text": "Only sterile water for injection may touch the tubing. Cold boiled water is banned.",
+        "note": "Cold boiled water is one of the three named irrigation fluids."
+      },
+      {
+        "text": "A mask is optional and gloves are optional.",
+        "note": "Gloves and a mask are required. Gown and face shield are the optional items."
+      },
+      {
+        "text": "Irrigate with normal saline, water, or cold boiled water. Hand hygiene, gloves and a mask are required. A gown and a face shield are optional. Check the bracelet and the order, look in the mouth and nose for blockage, prop the person up, and give a verbal report. An oximeter throughout is optional, but compare the condition before and after.",
+        "note": "Correct. Privacy is also provided."
+      },
+      {
+        "text": "No report is needed if the saturation did not change.",
+        "note": "The page ends with a verbal report."
+      }
+    ],
+    "answer": 2,
+    "page": "45"
+  },
+  {
+    "id": "cp-090",
+    "topic": "Inhaler",
+    "scene": "You are coaching a first metered-dose inhaler.",
+    "ask": "Which sequence matches the ten steps?",
+    "choices": [
+      {
+        "text": "Hold the inhaler sideways, breathe in fast for 1 second, and do not pause between puffs.",
+        "note": "It is held upright, the breath is slow over 3 to 5 seconds, and you wait about 30 seconds."
+      },
+      {
+        "text": "Seal the lips and also keep two finger-widths, both at the same time.",
+        "note": "Those are two alternative positions."
+      },
+      {
+        "text": "Skip the rinse after a steroid inhaler.",
+        "note": "The page says to rinse after an inhaled steroid."
+      },
+      {
+        "text": "Take off the cap and hold the inhaler upright. Shake it. Tip the head back and breathe out. Either hold it two finger-widths from the open mouth, or seal the lips on the mouthpiece. Press as a slow deep breath starts, over 3 to 5 seconds. Close the mouth, hold the breath for about 10 seconds, then breathe normally. Wait about 30 seconds between puffs and replace the cap. Rinse the mouth after an inhaled steroid such as QVAR, Flovent or Asmanex.",
+        "note": "Correct. The two mouth positions are alternatives, not two extra doses."
+      }
+    ],
+    "answer": 3,
+    "page": "46"
+  },
+  {
+    "id": "cp-091",
+    "topic": "Inhaler",
+    "scene": "Three inhalers are due together: a steroid, an anticholinergic and a reliever.",
+    "ask": "What order and timing does the package print?",
+    "choices": [
+      {
+        "text": "Ventolin first, the short-acting reliever. Then Atrovent, which starts in about 15 minutes and lasts 6 to 8 hours. Then Beclofort, the steroid inhaler.",
+        "note": "Correct. The reliever comes before the steroid, not after it."
+      },
+      {
+        "text": "Beclofort first, then Ventolin, then Atrovent.",
+        "note": "The printed order is Ventolin, Atrovent, then Beclofort."
+      },
+      {
+        "text": "Atrovent starts in about one minute and lasts one hour.",
+        "note": "The page says about 15 minutes to work and 6 to 8 hours of effect."
+      },
+      {
+        "text": "Any order is acceptable because the drugs do not interact in the airway.",
+        "note": "The page prints a sequence, with the bronchodilator first."
+      }
+    ],
+    "answer": 0,
+    "page": "46"
+  },
+  {
+    "id": "cp-092",
+    "topic": "Three-lead ECG",
+    "scene": "You are following the English three-lead note, not the Chinese electrode note.",
+    "ask": "Where do the English colours go?",
+    "choices": [
+      {
+        "text": "RA is white, LA is black and LL is red, which is the Chinese note.",
+        "note": "Those colours are the other note on the same page. The English note is red, yellow and green."
+      },
+      {
+        "text": "RA is red, inside the rib-cage frame just under the right clavicle near the shoulder. LA is yellow, under the left clavicle at the same level. LL is green, on the left, under the pectoral muscle at the lower edge of the left rib cage.",
+        "note": "Correct. Do not use the white-black-red Chinese colours for this English note."
+      },
+      {
+        "text": "RA is yellow and LA is red.",
+        "note": "In the English note red is RA and yellow is LA."
+      },
+      {
+        "text": "LL is green on the right lower ribs.",
+        "note": "The green electrode is on the left lower rib edge."
+      }
+    ],
+    "answer": 1,
+    "page": "47"
+  },
+  {
+    "id": "cp-093",
+    "topic": "Three-lead ECG",
+    "scene": "You are now following the Chinese three-lead electrode note.",
+    "ask": "Which colours and sites does that note print?",
+    "choices": [
+      {
+        "text": "RA white, LA yellow, LL green.",
+        "note": "Yellow and green are the English note. The Chinese LA is black and the Chinese LL is red."
+      },
+      {
+        "text": "LL is red under the right clavicle.",
+        "note": "The red electrode in the Chinese note is the lower-left apex lead, not RA."
+      },
+      {
+        "text": "All three Chinese leads are brown chest leads.",
+        "note": "Brown is a 12-lead chest colour, V4, not this three-lead note."
+      },
+      {
+        "text": "RA, on the right, is white at the midpoint under the right clavicle. LA, on the left, is black at the midpoint under the left clavicle. LL, lower left, is red at the midpoint of the sternal tip between the 6th and 7th ribs, the apex.",
+        "note": "Correct. This is a different colour set from the English red, yellow and green note."
+      }
+    ],
+    "answer": 3,
+    "page": "47"
+  },
+  {
+    "id": "cp-094",
+    "topic": "Twelve-lead ECG",
+    "scene": "You are placing the chest leads for a 12-lead ECG.",
+    "ask": "Which colours and sites match the page?",
+    "choices": [
+      {
+        "text": "V1 red, 4th intercostal space, right sternal edge. V2 yellow, 4th space, left sternal edge. V3 green, between V2 and V4. V4 brown, 5th space, left mid-clavicular line. V5 black, 5th space, between V4 and V6. V6 purple, 5th space, left mid-axillary line.",
+        "note": "Correct. V3 is not on the same rib line as V2. It sits between V2 and V4."
+      },
+      {
+        "text": "V1 yellow at the 5th space, left mid-axillary line.",
+        "note": "That site and the purple colour belong to V6. V1 is red at the 4th right sternal edge."
+      },
+      {
+        "text": "V4 green at the 4th right sternal edge.",
+        "note": "Green is V3, between V2 and V4. V4 is brown at the 5th left mid-clavicular line."
+      },
+      {
+        "text": "V2 black and V5 red.",
+        "note": "V2 is yellow and V5 is black."
+      }
+    ],
+    "answer": 0,
+    "page": "48"
+  },
+  {
+    "id": "cp-095",
+    "topic": "Twelve-lead ECG",
+    "scene": "A classmate asks why a 12-lead test does not use 12 wires on the chest.",
+    "ask": "What does the page say about the electrodes?",
+    "choices": [
+      {
+        "text": "Twelve separate chest electrodes are required, with no gel.",
+        "note": "The page says ten electrodes, and the pads contain gel."
+      },
+      {
+        "text": "A recording called 12-lead uses ten electrodes. Some electrodes form a pair and that pair supplies two leads. The pads stick on and have conducting gel in the centre. The other side snaps onto the cable.",
+        "note": "Correct. Ten electrodes is not a missing-lead error."
+      },
+      {
+        "text": "The cables are tied on with micropore because the pads do not stick.",
+        "note": "The pads are self-sticking and snap onto the cables."
+      },
+      {
+        "text": "Each electrode can supply only one lead, so ten electrodes make a 10-lead ECG.",
+        "note": "The page says some electrodes form a pair that provides two leads."
+      }
+    ],
+    "answer": 1,
+    "page": "48"
+  },
+  {
+    "id": "cp-096",
+    "topic": "Bladder irrigation",
+    "scene": "You are laying up a bladder irrigation, not a pleural tap.",
+    "ask": "Which items match the bladder list?",
+    "choices": [
+      {
+        "text": "A 23 gauge angiocath and an Atrium chest drain as the irrigation set.",
+        "note": "Those are pleural-tap items. Bladder irrigation uses the Y-set and a three-way catheter."
+      },
+      {
+        "text": "Lignocaine 5 percent and a 16 gauge long angiocath.",
+        "note": "Those are on the abdomen-tapping list."
+      },
+      {
+        "text": "An S14 dressing set, a Y irrigation set with the white end rubber removed, a three-way catheter of Fr 20 or above, Hibitane which is blue or Tisept which is yellow, a bladder syringe, xylocaine jelly, and two 2-litre measuring jars.",
+        "note": "Correct. Also a drip stand, Hyperfix, an irrigation bedside bag, sterile gloves and an extra blue pad."
+      },
+      {
+        "text": "Leave the white end rubber on the Y-set.",
+        "note": "The page says to remove the white end rubber tubing."
+      }
+    ],
+    "answer": 2,
+    "page": "49"
+  },
+  {
+    "id": "cp-097",
+    "topic": "Abdomen tapping",
+    "scene": "The doctor is about to tap ascites.",
+    "ask": "What does the abdomen-tapping list put first, and which needle and anaesthetic does it name?",
+    "choices": [
+      {
+        "text": "Give intravenous albumin first if it is prescribed. Use a 16 gauge long angiocath and lignocaine 5 percent, with 70 percent alcohol and povidone. If the first attempt fails, dress the site with gauze, combined gauze and Opsite, with or without Elastoplast.",
+        "note": "Correct. This list is not the pleural set and it is not the bladder Y-set."
+      },
+      {
+        "text": "Start with an Atrium chest bottle and 2 percent lignocaine.",
+        "note": "2 percent lignocaine and the Atrium unit are on the pleural list. Abdomen tapping uses lignocaine 5 percent and a 16 gauge long angiocath."
+      },
+      {
+        "text": "Albumin is given only after a failed tap.",
+        "note": "Albumin, if prescribed, is given before the tap."
+      },
+      {
+        "text": "Use a Fr 10 Nelaton catheter as the tapping needle.",
+        "note": "The Nelaton is the once-only urinary catheter, not this tap."
+      }
+    ],
+    "answer": 0,
+    "page": "49"
+  },
+  {
+    "id": "cp-098",
+    "topic": "Pleural tapping",
+    "scene": "You are setting a trolley for a pleural tap.",
+    "ask": "Which equipment identifies this list rather than an abdomen tap?",
+    "choices": [
+      {
+        "text": "A 16 gauge long angiocath and lignocaine 5 percent as the main needle and drug.",
+        "note": "Those are the abdomen-tap items. Pleural tapping names a 23 gauge angiocath."
+      },
+      {
+        "text": "A 23 gauge angiocath, a sterile blade, suture material, an Atrium disposable chest drainage unit, thoracic trocars and cannulae in three sizes, and a keyhole dressing.",
+        "note": "Correct. Also a mask, a gown, a safety stand, an oximeter and a suction machine."
+      },
+      {
+        "text": "A three-way Fr 20 catheter and xylocaine jelly as the drainage method.",
+        "note": "That is bladder irrigation."
+      },
+      {
+        "text": "No drainage unit is required.",
+        "note": "The Atrium disposable sterile chest drainage unit is on the list."
+      }
+    ],
+    "answer": 1,
+    "page": "50"
+  },
+  {
+    "id": "cp-099",
+    "topic": "Pleural tapping",
+    "scene": "The pleural trolley is almost complete and you are checking the anaesthetic and the drain bottle.",
+    "ask": "Which details match the pleural list?",
+    "choices": [
+      {
+        "text": "5 percent lignocaine and no water in the chamber.",
+        "note": "5 percent lignocaine is the abdomen-tap strength. The pleural list says 2 percent, and sterile water fills the chamber."
+      },
+      {
+        "text": "Bare metal clamps, with the latex tubing removed.",
+        "note": "The blades are protected with latex tubing."
+      },
+      {
+        "text": "The local anaesthetic named is 2 percent lignocaine. Sterile water is used to fill the chamber. Two pairs of clamps have their blades protected with latex tubing. A disinfectant example is 10 percent povidone iodine.",
+        "note": "Correct. There is also a 5 ml or 10 ml syringe, alcohol preps, adhesive tape, specimen bottles, and a safety pin as an optional item."
+      },
+      {
+        "text": "1 percent povidone iodine is the printed example.",
+        "note": "The example is 10 percent povidone iodine solution."
+      }
+    ],
+    "answer": 2,
+    "page": "50"
+  },
+  {
+    "id": "cp-100",
+    "topic": "Tapping trolleys",
+    "scene": "Three trolleys are labelled bladder irrigation, abdomen tap and pleural tap.",
+    "ask": "Which item belongs only with the pleural trolley?",
+    "choices": [
+      {
+        "text": "Xylocaine jelly and a bladder syringe.",
+        "note": "Those are bladder-irrigation items."
+      },
+      {
+        "text": "A 16 gauge long angiocath.",
+        "note": "That needle is on the abdomen-tap list. The pleural angiocath is 23 gauge."
+      },
+      {
+        "text": "Hyperfix and two 2-litre jars.",
+        "note": "Those are on the bladder-irrigation list."
+      },
+      {
+        "text": "Sterile water to fill the chamber of a chest drainage unit.",
+        "note": "Correct. Bladder irrigation is identified by the Y-set, xylocaine jelly and a three-way catheter of Fr 20 or above. Abdomen tapping is identified by intravenous albumin first, a 16 gauge long angiocath and lignocaine 5 percent."
+      }
+    ],
+    "answer": 3,
+    "page": "49-50"
+  }
+]

@@ -1,0 +1,22 @@
+Correlation in Clinical Data
+UPHILL CLIMB
+BMI:INCREASE (POSITIVE)
+Rule:AsXincreases,
+Yincreases.
+BMi&HealthcareCosts
+Asapatient'sBodyMass
+Indexincreases,their
+annual healthcare
+spending tends to
+increase.
+
+DOWNHILL SLIDE
+(NEGATIVE) CARDIACRISK:
+DECREASE
+Rule:As X increases,
+Ydecreases.
+Exercise&CardiacRisk
+Asweeklyexerciseis
+higher, cardiac risk tends
+tobelower.
+（Bewicketal.,2003;Guyattetal.,1995;Hazra&Gogtay,2016)

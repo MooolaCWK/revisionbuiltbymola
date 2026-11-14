@@ -1,0 +1,16 @@
+Hong Kong’s GDP-to-GNI calculation for 2025
+2025 • HK$ billion • current market prices
+
+Accounting Ledger
+
+GNI = 3,331.8 + 334.4 = 3,666.2
+
+Net primary income |
+Inflow 2,245.4 − outflow 1,911.0
+= 334.4
+
+Interpretation |
+GNI exceeds GDP because the net primary income flow is positive.
+
+Preliminary release: 17 March 2026. Negative net income would make GNI lower than GDP.
+(Census and Statistics Department, 2026)

@@ -1,0 +1,19 @@
+A p-value is a surprise meter
+It asks: if nothing interesting is happening,
+howshocking arethesedata?
+THE SUSPICIOUS COIN
+Afriend hands you a coin.
+Default rule:this is a regular,fair coin.
+That default is the null hypothesis.
+You flip it 10 times.
+Headsevery time.
+
+Question:if thecoinreallyisfair,what
+arethechancesof10headsinarow?
+Answer:about 1 in 1,000 (0.001).
+That tinynumber is thep-value:
+howpoorlythedatamatch
+the"fair coin"story.
+The surprise meter spikes.
+The fair-coin default is apoor
+description of these tosses.

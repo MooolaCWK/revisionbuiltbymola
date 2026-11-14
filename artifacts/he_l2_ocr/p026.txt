@@ -1,0 +1,13 @@
+SURPRISE METER
+If we assume the
+coin is fair, a result
+thisextreme(ormore)
+would happen about
+0.1%of the time.
+p=0.001
+
+Small p →these
+data would be
+highly unusual
+underthe default.
+(Flechner&Tseng.2011;Greenlandetal.,2016)

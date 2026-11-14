@@ -1,0 +1,2602 @@
+[
+  {
+    "id": "surg-001",
+    "topic": "Department aim",
+    "scene": "A new student asks the surgical ward manager what this department is trying to achieve.",
+    "ask": "What aim does the introduction give?",
+    "choices": [
+      {
+        "text": "Quality client-centered service, aiming at high efficiency, equity, and cost-effectiveness.",
+        "note": "Correct. The introduction says the Department of Surgery provides quality client-centered service, with an aim to achieve high efficiency, equity, and cost-effectiveness."
+      },
+      {
+        "text": "High-technology surgery only, with equity left out of the aim.",
+        "note": "The same sentence keeps efficiency, equity, and cost-effectiveness together; it does not drop equity or reduce the aim to technology."
+      },
+      {
+        "text": "Client-centered care that sets cost-effectiveness aside.",
+        "note": "Cost-effectiveness is named in the aim alongside efficiency and equity, not set aside."
+      },
+      {
+        "text": "A manual whose only aim is to raise study pressure.",
+        "note": "Freedom from study pressure is the study-manual purpose on the next page, not this department-aim sentence."
+      }
+    ],
+    "answer": 0,
+    "page": "3"
+  },
+  {
+    "id": "surg-002",
+    "topic": "Specialty codes",
+    "scene": "The theatre list marks a patient as HBP and the student checks the scope list.",
+    "ask": "What specialty does this page attach to HBP?",
+    "choices": [
+      {
+        "text": "Head and Neck, written 頭頸外科.",
+        "note": "頭頸外科 is the Chinese label for Head and Neck (H&N), not HBP."
+      },
+      {
+        "text": "Liver Transplant, written 肝臟移植外科.",
+        "note": "肝臟移植外科 belongs to Liver Transplant (LT), a separate scope item."
+      },
+      {
+        "text": "Hepatobiliary and Pancreatic, written 肝膽胰外科.",
+        "note": "Correct. The scope line reads Hepatobiliary & Pancreatic (HBP: 肝膽胰外科)."
+      },
+      {
+        "text": "Ear, Nose and Throat, written 耳鼻喉外科.",
+        "note": "耳鼻喉外科 is ENT, not the HBP line."
+      }
+    ],
+    "answer": 2,
+    "page": "3"
+  },
+  {
+    "id": "surg-003",
+    "topic": "Specialty codes",
+    "scene": "Two gastrointestinal labels on the allocation sheet are easy to mix up.",
+    "ask": "Which pairing does the note give for colorectal surgery?",
+    "choices": [
+      {
+        "text": "EGI, 消化道外科.",
+        "note": "EGI is Esophagus & Gastrointestinal, 消化道外科, not colorectal."
+      },
+      {
+        "text": "CRS, 結腸直腸外科.",
+        "note": "Correct. The page prints Colorectal (CRS: 結腸直腸外科)."
+      },
+      {
+        "text": "SGEN, 普通外科.",
+        "note": "SGEN is General Surgery, 普通外科."
+      },
+      {
+        "text": "BR, 乳房外科.",
+        "note": "BR is Breast, 乳房外科."
+      }
+    ],
+    "answer": 1,
+    "page": "3"
+  },
+  {
+    "id": "surg-004",
+    "topic": "Specialty codes",
+    "scene": "The student is matching TSU and NS on the same scope list.",
+    "ask": "What do those two codes stand for here?",
+    "choices": [
+      {
+        "text": "TSU is trauma surgery and NS is neck surgery.",
+        "note": "Trauma is not this code; Head and Neck is H&N, 頭頸外科, and NS is neurosurgery."
+      },
+      {
+        "text": "TSU is transplant surgery and NS is nasal surgery.",
+        "note": "Liver Transplant is LT, and ear, nose and throat is ENT."
+      },
+      {
+        "text": "Both codes sit under Plastic Surgery, PRS, 整形外科.",
+        "note": "PRS is its own scope item, separate from TSU and NS."
+      },
+      {
+        "text": "TSU is Thoracic Surgery Unit, 胸外科, and NS is Neurosurgery, 神經外科.",
+        "note": "Correct. The page lists Thoracic Surgery Unit (TSU: 胸外科) and Neurosurgery (NS: 神經外科) as separate services."
+      }
+    ],
+    "answer": 3,
+    "page": "3"
+  },
+  {
+    "id": "surg-005",
+    "topic": "Specialty codes",
+    "scene": "Endocrine is on the scope list but the Chinese label looks unfinished.",
+    "ask": "What does the page actually print beside ECS?",
+    "choices": [
+      {
+        "text": "A completed Chinese label written in the same style as 泌尿外科.",
+        "note": "Urology has 泌尿外科; the ECS colon is empty in this extract."
+      },
+      {
+        "text": "The same Chinese label as ENT, 耳鼻喉外科.",
+        "note": "ENT is a different item and does carry 耳鼻喉外科."
+      },
+      {
+        "text": "Endocrine (ECS: ) with the Chinese label left blank.",
+        "note": "Correct. The line is Endocrine (ECS: ) while the neighbouring specialties have Chinese names filled in."
+      },
+      {
+        "text": "ECS is omitted from the scope of services.",
+        "note": "Endocrine (ECS) is listed; only the Chinese wording is blank."
+      }
+    ],
+    "answer": 2,
+    "page": "3"
+  },
+  {
+    "id": "surg-006",
+    "topic": "Manual purpose",
+    "scene": "The tutor says a surgical student may sometimes leave this ward for practicum, and asks why the manual exists.",
+    "ask": "Which statement matches that introduction page?",
+    "choices": [
+      {
+        "text": "You may visit Orthopaedics and Traumatology (Trauma: 創傷及矯形外科), and the manual is so students can adapt, become a competence member, and keep studying without pressure from an unfamiliar environment.",
+        "note": "Correct. The page says sometimes you visit that department as a surgery clinical practicum location, and states that education-program purpose."
+      },
+      {
+        "text": "Orthopaedics replaces every surgical specialty on the previous page.",
+        "note": "The page says sometimes you will visit it as a practicum location, not that it replaces the surgical scope."
+      },
+      {
+        "text": "The purpose is to increase study pressure until the environment feels familiar.",
+        "note": "The note says continuous clinical study free from study pressure caused by an unfamiliar environment."
+      },
+      {
+        "text": "Trauma is labelled 神經外科 and is the daily neurosurgical ward.",
+        "note": "神經外科 is NS on the scope page; this page names 創傷及矯形外科."
+      }
+    ],
+    "answer": 0,
+    "page": "4"
+  },
+  {
+    "id": "surg-007",
+    "topic": "Vital signs purpose",
+    "scene": "Before the first observation round, a student asks what vital signs are for.",
+    "ask": "How does this vital-sign page describe them?",
+    "choices": [
+      {
+        "text": "Fixed adult numbers that do not change with age or condition.",
+        "note": "The page says normal ranges of measurements change with age and medical condition."
+      },
+      {
+        "text": "A temperature-only check with no role in finding problems.",
+        "note": "The page ties vital signs to assessing basic functions and to detecting or monitoring medical problems."
+      },
+      {
+        "text": "The same list as a septic workup, including cultures.",
+        "note": "Cultures are a later workup page; this page is about vital signs as basic measures."
+      },
+      {
+        "text": "Measures of physiological status used to assess the most basic body functions, useful for detecting or monitoring medical problems, with normal ranges that change with age and medical condition.",
+        "note": "Correct. That is the page wording: measures of various physiological status, basic body functions, ranges that change with age and medical condition, and useful in detecting or monitoring medical problems."
+      }
+    ],
+    "answer": 3,
+    "page": "6"
+  },
+  {
+    "id": "surg-008",
+    "topic": "Vital signs list",
+    "scene": "The tutor points at the examples of the body's most basic functions.",
+    "ask": "Which measurements does that page list?",
+    "choices": [
+      {
+        "text": "Blood glucose and wound exudate only.",
+        "note": "Glucose and wound words are in later sections, not this list."
+      },
+      {
+        "text": "Body temperature, blood pressure and pulse or heart rate, and oxygen saturation and respiration.",
+        "note": "Correct. The page lists body temperature (Temp), blood pressure (BP) and pulse / heart rate, and oxygen saturation and respiration."
+      },
+      {
+        "text": "Temperature and blood pressure, leaving out oxygen saturation and respiration.",
+        "note": "Oxygen saturation and respiration are the third example group on the page."
+      },
+      {
+        "text": "Pain score, PCA use, and drain output.",
+        "note": "Those appear in the return-to-ward notes, not in this vital-sign list."
+      }
+    ],
+    "answer": 1,
+    "page": "7"
+  },
+  {
+    "id": "surg-009",
+    "topic": "Tympanic temperature",
+    "scene": "A tympanic reading looks lower than the patient feels, so you check the underestimate list.",
+    "ask": "Which set does the note give as reasons for an underestimated tympanic temperature?",
+    "choices": [
+      {
+        "text": "The ear canal is not straightened and the probe is poorly inserted so air leaks, the ear is impacted with a lot of earwax, or the patient has just swallowed cold food or liquid.",
+        "note": "Correct. Those are the three underestimate factors cited from Timby, 2003."
+      },
+      {
+        "text": "Hot food or drink, or lying with the ear covered.",
+        "note": "Those are the overestimate factors on the same page, not the underestimate list."
+      },
+      {
+        "text": "A narrow blood-pressure cuff and talking during the reading.",
+        "note": "Cuff and talking problems are on the blood-pressure pages, not this tympanic list."
+      },
+      {
+        "text": "Earwax only, after the canal was straightened and the probe sealed.",
+        "note": "Impacted earwax is one factor, but a canal that is not straightened with air leak, and cold food or liquid, are also listed."
+      }
+    ],
+    "answer": 0,
+    "page": "8"
+  },
+  {
+    "id": "surg-010",
+    "topic": "Tympanic temperature",
+    "scene": "The next tympanic reading may be falsely high.",
+    "ask": "What does the same page list as overestimate factors?",
+    "choices": [
+      {
+        "text": "Cold food and a lot of earwax.",
+        "note": "Cold intake and impacted earwax are underestimate factors."
+      },
+      {
+        "text": "An unstraightened canal with an air leak around the probe.",
+        "note": "That probe and canal problem is listed under underestimate, not overestimate."
+      },
+      {
+        "text": "The patient has just swallowed hot food or liquids, or has lain down and covered the ear.",
+        "note": "Correct. The overestimate factors are hot food or liquids, and lying down with the ear covered."
+      },
+      {
+        "text": "Charting the higher of the two ears.",
+        "note": "Choosing the higher ear is a later low-temperature charting step, not an overestimate cause on this page."
+      }
+    ],
+    "answer": 2,
+    "page": "8"
+  },
+  {
+    "id": "surg-011",
+    "topic": "Temperature range",
+    "scene": "One ear reads 36.2 ℃ and the student asks whether that sits in the normal band printed for tympanic temperature.",
+    "ask": "What normal range and what low-temperature cut-off does this page print?",
+    "choices": [
+      {
+        "text": "Normal 36.5℃ to 37.5℃, with low starting under 36.5℃.",
+        "note": "Those cut-offs are not printed; this page uses 36.0 ℃-37.6℃ and ≤35.9℃."
+      },
+      {
+        "text": "Normal range 36.0 ℃-37.6℃, and low body temperature at ≤35.9℃.",
+        "note": "Correct. The low-temperature page prints normal range 36.0 ℃-37.6℃ and the action row ≤35.9℃ as low body temp."
+      },
+      {
+        "text": "Normal 36.0 ℃-37.6℃, and 37.6℃ already counted as low body temperature.",
+        "note": "37.6℃ is inside the printed normal top, and the low row is ≤35.9℃; the low-grade fever row starts on the next page."
+      },
+      {
+        "text": "No range in this file, because vital signs are only a cross-reference to the medical FAQ.",
+        "note": "The section banner says vital signs are the same as the medical FAQ, but this page still prints 36.0 ℃-37.6℃ and ≤35.9℃."
+      }
+    ],
+    "answer": 1,
+    "page": "9"
+  },
+  {
+    "id": "surg-012",
+    "topic": "Low temperature",
+    "scene": "Recheck gives 35.4℃ in one ear and 36.1℃ in the other. The patient is not dizzy.",
+    "ask": "What should you chart, and when do you tell the team nurse?",
+    "choices": [
+      {
+        "text": "Chart the lower ear so a low reading is not hidden, and phone the doctor yourself.",
+        "note": "The note says chart the higher result within or nearest normal, and the team nurse is the person who informs the doctor."
+      },
+      {
+        "text": "Skip the recheck and apply Bair Hugger as the first step.",
+        "note": "Bair Hugger is the remark for when recheck and blankets still fail to keep a normal temperature."
+      },
+      {
+        "text": "Report every ≤35.9℃ reading immediately, dizzy or not.",
+        "note": "Immediate report is for the dizziness case; otherwise the report is after routine."
+      },
+      {
+        "text": "Recheck both ears at once, chart the higher result that is within or nearest the normal range, and report after the temperature routine.",
+        "note": "Correct. The action says recheck bilateral ears immediately, then chart the higher result which is within or nearest normal range, and report immediately only for a dizziness case; otherwise after routine."
+      }
+    ],
+    "answer": 3,
+    "page": "9"
+  },
+  {
+    "id": "surg-013",
+    "topic": "Low temperature",
+    "scene": "Both ears stay at or below 35.9℃ after the recheck, and the patient feels dizzy.",
+    "ask": "Which still-low care matches the page?",
+    "choices": [
+      {
+        "text": "Ice pad, encourage fluid, and take blankets off.",
+        "note": "Ice, fluids, and removing blankets are the high-temperature care, not the low row."
+      },
+      {
+        "text": "Blankets only, with no rail, no pulse or blood-pressure check, and no further temperature.",
+        "note": "If the patient is dizzy the page adds a bedside rail and a BP and pulse check, then a 15-30 minute recheck and a report."
+      },
+      {
+        "text": "Add more blankets and keep bed rest; if dizzy, put up the bedside rail and check blood pressure and pulse; recheck the temperature after 15-30 minutes; tell the team nurse immediately because of dizziness.",
+        "note": "Correct. That is the numbered still-low care: blankets and bed rest, rail plus BP and pulse if dizzy, recheck after 15-30 minutes, and immediate report for dizziness. The team nurse informs the doctor."
+      },
+      {
+        "text": "Raise the feet above the head before any blanket.",
+        "note": "Feet higher than the head is a low blood-pressure step, not this temperature list."
+      }
+    ],
+    "answer": 2,
+    "page": "9"
+  },
+  {
+    "id": "surg-014",
+    "topic": "Bair Hugger",
+    "scene": "Blankets and another temperature check still do not hold a normal reading.",
+    "ask": "What may be used, and what is it?",
+    "choices": [
+      {
+        "text": "Bair Hugger, a temperature management system that uses forced warm air to prevent and treat hypothermia in surgical patients.",
+        "note": "Correct. The remark says if recheck and blankets still fail to keep a normal temperature, Bair Hugger may be applied, and the footnote defines it as forced warm air for hypothermia."
+      },
+      {
+        "text": "An ice pad with a pillow cover, used as a warming hugger.",
+        "note": "Ice pads with a cover are on the high-temperature pages; this failure line names Bair Hugger."
+      },
+      {
+        "text": "Nasal oxygen at 6 L/min as the hypothermia treatment.",
+        "note": "Those oxygen litres are on the saturation pages, not the low-temperature remark."
+      },
+      {
+        "text": "Oral Panadol 500 mg started to warm the patient.",
+        "note": "Panadol 500 mg Q4H prn is the high-temperature example as a doctor's order, not this low-temperature line."
+      }
+    ],
+    "answer": 0,
+    "page": "9"
+  },
+  {
+    "id": "surg-015",
+    "topic": "Low-grade fever",
+    "scene": "After bilateral recheck the tympanic readings stay in the low-grade band. The patient is not dizzy and can drink.",
+    "ask": "What care does the low-grade fever row describe?",
+    "choices": [
+      {
+        "text": "Phone the doctor at once and collect septic cultures yourself.",
+        "note": "On this band the team nurse informs the doctor during the ward round; a septic workup is the severe-fever remark."
+      },
+      {
+        "text": "Chart whichever ear is further above normal, then add blankets.",
+        "note": "This page says chart the result within or nearest normal, and care includes removing extra blanket and clothing."
+      },
+      {
+        "text": "Start Panadol 500 mg Q4H prn as a standing dose with no order.",
+        "note": "The page gives Panadol 500 mg Q4H prn as an example of administration as doctor order."
+      },
+      {
+        "text": "The row is ≥37.6℃ and ≤38.5℃. Recheck both ears and chart the result within or nearest normal. If still high: ice pad with a cover, encourage water when there is no fluid restriction and no swallowing problem, remove extra blanket and clothing, recheck in 15-30 minutes, and give oral or per-rectal Panadol 500 mg Q4H prn only as the doctor orders.",
+        "note": "Correct. That is the low-grade action and nursing care. Report at once only for dizziness; otherwise after the temperature routine. The team nurse increases monitoring to Q4H and informs the doctor during the ward round."
+      }
+    ],
+    "answer": 3,
+    "page": "10"
+  },
+  {
+    "id": "surg-016",
+    "topic": "High fever",
+    "scene": "The temperature is still at or above 38.5℃ and the blood pressure looks low.",
+    "ask": "How does the severe high-fever page differ from the low-grade row?",
+    "choices": [
+      {
+        "text": "Treat it exactly like low-grade fever and wait for the ward-round message.",
+        "note": "This page says the team nurse informs the doctor by phone immediately, and it adds blood pressure, pulse and SaO2."
+      },
+      {
+        "text": "Call it high fever at ≥38.5℃. Recheck both ears; if still high, measure blood pressure, pulse and SaO2, and tell the team nurse at once if blood pressure or SaO2 is on the low side. If high temperature and low blood pressure remain, use the covered ice pad, water if allowed, removal of extra blankets and clothing, a 15-30 minute recheck, and doctor-ordered Panadol 500 mg Q4H prn. The team nurse phones the doctor immediately.",
+        "note": "Correct. Those are the severe-page actions and the phone-immediately remark. The doctor may order a septic workup, and temperature monitoring increases to Q4H."
+      },
+      {
+        "text": "Do not recheck the ears once the first reading is ≥38.5℃.",
+        "note": "The action column still says recheck bilateral ears immediately."
+      },
+      {
+        "text": "Start Bair Hugger because 38.5℃ is the hypothermia device threshold.",
+        "note": "Bair Hugger is the low-temperature forced-air remark, not this high-fever page."
+      }
+    ],
+    "answer": 1,
+    "page": "11"
+  },
+  {
+    "id": "surg-017",
+    "topic": "Septic shock",
+    "scene": "After a high fever the team nurse uses the words septic shock and asks what this page means.",
+    "ask": "What definition is printed?",
+    "choices": [
+      {
+        "text": "A serious condition that occurs when a body-wide infection leads to dangerously low blood pressure.",
+        "note": "Correct. That is the opening definition on the septic-shock page."
+      },
+      {
+        "text": "A local wound infection with a normal blood pressure.",
+        "note": "The page says a body-wide infection leading to dangerously low blood pressure."
+      },
+      {
+        "text": "High blood pressure caused by toxins, without tissue damage.",
+        "note": "The page says toxins released by the bacteria or fungi may cause tissue damage, and defines the shock by low blood pressure."
+      },
+      {
+        "text": "Only a mild fever that stays inside the low-grade band.",
+        "note": "Low-grade fever is the earlier temperature row; this page calls septic shock a serious condition."
+      }
+    ],
+    "answer": 0,
+    "page": "12"
+  },
+  {
+    "id": "surg-018",
+    "topic": "Septic shock",
+    "scene": "A student is listing who develops septic shock and what can cause it.",
+    "ask": "Which account matches the page?",
+    "choices": [
+      {
+        "text": "Only middle-aged adults, and only one kind of bacteria.",
+        "note": "The page says most often the very old and the very young, and any type of bacteria."
+      },
+      {
+        "text": "Viruses are the usual cause and bacteria are rare.",
+        "note": "Viruses may rarely cause it; any type of bacteria can cause it."
+      },
+      {
+        "text": "It occurs most often in the very old and the very young, and may occur with a weakened immune system. Any type of bacteria can cause it. Fungi and, rarely, viruses may also cause it. Toxins may cause tissue damage.",
+        "note": "Correct. That matches the page: age groups, weakened immune systems, any bacteria, fungi, rarely viruses, and toxins causing tissue damage."
+      },
+      {
+        "text": "Fungi are excluded, and toxins protect tissue.",
+        "note": "Fungi may cause it, and toxins may cause tissue damage."
+      }
+    ],
+    "answer": 2,
+    "page": "12"
+  },
+  {
+    "id": "surg-019",
+    "topic": "Septic shock",
+    "scene": "The tutor asks how the second septic-shock page links the illness to organs.",
+    "ask": "What does that page say?",
+    "choices": [
+      {
+        "text": "Toxins raise blood pressure and improve organ function.",
+        "note": "The page says this may lead to low blood pressure and poor organ function."
+      },
+      {
+        "text": "This may lead to low blood pressure and poor organ function. Some researchers think blood clots in small arteries cause the lack of blood flow and poor organ function. A strong inflammatory response to the toxins may contribute to organ damage.",
+        "note": "Correct. Those three statements are the whole of the second septic-shock page."
+      },
+      {
+        "text": "The researchers named on the page blame clots in large veins only.",
+        "note": "The page says some researchers think blood clots in small arteries cause the lack of blood flow."
+      },
+      {
+        "text": "The inflammatory response protects organs from the toxins.",
+        "note": "The page says the strong inflammatory response may contribute to organ damage."
+      }
+    ],
+    "answer": 1,
+    "page": "13"
+  },
+  {
+    "id": "surg-020",
+    "topic": "Septic workup",
+    "scene": "The doctor writes a septic workup and the student reads the blood-test examples.",
+    "ask": "What blood tests are named, and what is CBP for?",
+    "choices": [
+      {
+        "text": "CBP is the urine culture, and blood culture is not listed.",
+        "note": "CBP is complete blood picture; urine culture on this page is MSU x C/ST or CSU x C/ST."
+      },
+      {
+        "text": "The only blood test named is a chest X-ray.",
+        "note": "CXR is on the next workup page, not in this blood-test list."
+      },
+      {
+        "text": "L/RFT means the sputum culture.",
+        "note": "Sputum culture is Spt x C/ST; L/RFT is liver and renal function."
+      },
+      {
+        "text": "Bld x C/ST for blood culture, CBP as complete blood picture to observe any white-cell increase, and L/RFT for liver and renal function.",
+        "note": "Correct. The page gives those three blood examples and glosses CBP as complete blood picture to observe any white blood cell increase, and L/RFT as liver and renal function."
+      }
+    ],
+    "answer": 3,
+    "page": "14"
+  },
+  {
+    "id": "surg-021",
+    "topic": "Septic workup",
+    "scene": "The same workup also asks about urine and sputum.",
+    "ask": "Which specimens does the note name?",
+    "choices": [
+      {
+        "text": "A urine stick for glucose and protein only, with no culture.",
+        "note": "Glucose and protein by urine stick are on a perioperative page; this page names MSU or CSU culture."
+      },
+      {
+        "text": "Catheter urine only, never a mid-stream specimen.",
+        "note": "Both MSU x C/ST and CSU x C/ST are listed."
+      },
+      {
+        "text": "MSU x C/ST or CSU x C/ST, asked as a check for urinary tract infection, and Spt x C/ST for sputum.",
+        "note": "Correct. The page lists mid-stream urine culture or catheterized urine culture, and sputum culture."
+      },
+      {
+        "text": "Sputum culture written as Bld x C/ST.",
+        "note": "Bld x C/ST is the blood culture; sputum is Spt x C/ST."
+      }
+    ],
+    "answer": 2,
+    "page": "14"
+  },
+  {
+    "id": "surg-022",
+    "topic": "Septic workup",
+    "scene": "The workup continues on the next page, beyond the cultures already named.",
+    "ask": "What imaging example is printed there?",
+    "choices": [
+      {
+        "text": "CXR, a chest X-ray.",
+        "note": "Correct. The second workup page starts with CXR (Chest X-ray)."
+      },
+      {
+        "text": "An ankle X-ray as the named film.",
+        "note": "The page names a chest X-ray, not an ankle film."
+      },
+      {
+        "text": "A 12-lead ECG as the workup imaging.",
+        "note": "A 12-lead ECG is in the low blood-pressure remarks, not this workup list."
+      },
+      {
+        "text": "Wound-bed slough grading instead of a film.",
+        "note": "Wound-bed words are in the later wound-care page, not this workup line."
+      }
+    ],
+    "answer": 0,
+    "page": "15"
+  },
+  {
+    "id": "surg-023",
+    "topic": "Septic workup",
+    "scene": "The patient is still febrile and someone reaches for Panadol before the antibiotic review.",
+    "ask": "What does this workup page say about Panadol?",
+    "choices": [
+      {
+        "text": "Intravenous Panadol 1 g is required so the fever chart stays flat.",
+        "note": "The page says +/- oral or per rectal Panadol, and it does not print a 1 g intravenous dose."
+      },
+      {
+        "text": "Panadol must be given or the blood cultures cannot be taken.",
+        "note": "The page does not tie cultures to a compulsory Panadol dose; it allows Panadol to be left unprescribed."
+      },
+      {
+        "text": "Panadol is withheld only when the temperature is already normal.",
+        "note": "The reason printed is observing the fever pattern to check antibiotics, not a normal temperature."
+      },
+      {
+        "text": "Panadol is marked +/- and may be oral or per rectal. If the doctor wants to watch the fever pattern to check the effect of antibiotics, he may not prescribe Panadol.",
+        "note": "Correct. That is the parenthetical remark on the page: he may not prescribe Panadol to a fever patient when observing the fever pattern against antibiotics."
+      }
+    ],
+    "answer": 3,
+    "page": "15"
+  },
+  {
+    "id": "surg-024",
+    "topic": "Septic workup",
+    "scene": "Intravenous antibiotics are added and the student reads the examples on the page.",
+    "ask": "Which antibiotic examples are actually printed?",
+    "choices": [
+      {
+        "text": "Augmentin 1.2g Q6H and Tazocin 4.5g once a day.",
+        "note": "Both Augmentin and Tazocin are printed as Q8H, not Q6H or once daily."
+      },
+      {
+        "text": "Augmentin 1.2g Q8H, Tazocin 4.5g Q8H, and Meropenem with no dose written beside the name.",
+        "note": "Correct. The page says +/- intravenous antibiotics, e.g. Augmentin 1.2g Q8H, Tazocin 4.5g Q8H, Meropenem."
+      },
+      {
+        "text": "Meropenem 1g Q8H as a dose this page states.",
+        "note": "Meropenem is named, but no dose is printed beside it."
+      },
+      {
+        "text": "No intravenous antibiotic example, only oral Panadol.",
+        "note": "The page includes the intravenous antibiotic examples as well as +/- Panadol."
+      }
+    ],
+    "answer": 1,
+    "page": "15"
+  },
+  {
+    "id": "surg-025",
+    "topic": "Blood pressure cuff",
+    "scene": "The cuff looks narrow on the arm and the systolic reading jumps.",
+    "ask": "What result and reason does the cuff page give for a cuff that is too narrow?",
+    "choices": [
+      {
+        "text": "Systolic blood pressure increases 10 to 40 mmHg, because it takes extra pressure to compress the brachial artery.",
+        "note": "Correct. That is the narrow-cuff row: measurement increase 10 to 40 mmHg, extra pressure to compress the brachial artery."
+      },
+      {
+        "text": "Systolic pressure falls 10 to 40 mmHg because the artery is compressed too easily.",
+        "note": "Cutting off the artery too easily is the rationale for a falsely low reading from a loose or ballooning cuff, not the narrow-cuff row."
+      },
+      {
+        "text": "Systolic pressure increases 10 to 50 mmHg from the narrow cuff.",
+        "note": "10 to 50 mmHg is the clothing row, not the narrow-cuff row."
+      },
+      {
+        "text": "The reading does not change if the cuff is only a little narrow.",
+        "note": "The page states an increase of 10 to 40 mmHg for a cuff too narrow for the extremity."
+      }
+    ],
+    "answer": 0,
+    "page": "16"
+  },
+  {
+    "id": "surg-026",
+    "topic": "Blood pressure cuff",
+    "scene": "The cuff is too loose, the wrap is uneven, and the bladder balloons out.",
+    "ask": "What reading does the note expect, and why?",
+    "choices": [
+      {
+        "text": "A systolic rise of 10 to 40 mmHg, as with a narrow cuff.",
+        "note": "The 10 to 40 mmHg rise is the narrow-cuff result, not the loose-cuff result."
+      },
+      {
+        "text": "A systolic rise of 10 to 50 mmHg, as with clothing.",
+        "note": "Clothing is the 10 to 50 mmHg row."
+      },
+      {
+        "text": "A falsely low blood pressure, because the cuff cuts off the brachial artery supply too easily and the monitor gives a lower reading than it should.",
+        "note": "Correct. That is the loose, uneven, or ballooning-bladder row and its rationale."
+      },
+      {
+        "text": "No error, because a loose cuff is the recommended fit.",
+        "note": "The page lists this fit as a common problem with a falsely low result."
+      }
+    ],
+    "answer": 2,
+    "page": "16"
+  },
+  {
+    "id": "surg-027",
+    "topic": "Blood pressure cuff",
+    "scene": "The student leaves a thick sleeve under the cuff.",
+    "ask": "What can clothing do to the systolic reading?",
+    "choices": [
+      {
+        "text": "It always lowers systolic pressure by 10 mmHg.",
+        "note": "The page says clothing can increase the systolic reading, not lower it by a fixed 10 mmHg."
+      },
+      {
+        "text": "Depending on the thickness of the fabric, clothing can increase systolic blood pressure from 10 to 50 mmHg.",
+        "note": "Correct. The clothing row says clothing can increase a systolic blood pressure from 10 to 50 mmHg, depending on fabric thickness."
+      },
+      {
+        "text": "It has no effect once the cuff size is correct.",
+        "note": "Cuff over clothing is still listed as its own common problem."
+      },
+      {
+        "text": "It raises every systolic reading by exactly 40 mmHg.",
+        "note": "A 10 to 40 mmHg rise is the narrow-cuff figure; clothing is 10 to 50 mmHg and depends on thickness."
+      }
+    ],
+    "answer": 1,
+    "page": "16"
+  },
+  {
+    "id": "surg-028",
+    "topic": "Blood pressure cuff",
+    "scene": "The patient is lying on one side and the cuffed arm is above heart level.",
+    "ask": "What does this page say that position does?",
+    "choices": [
+      {
+        "text": "It gives a falsely high blood pressure because the arm is above the heart.",
+        "note": "The page says above heart level provides a falsely low BP, not a high one."
+      },
+      {
+        "text": "Side-lying always matches a sitting reading.",
+        "note": "The rationale is that readings vary depending on distance from the heart."
+      },
+      {
+        "text": "It is the position you should use to confirm a low reading before charting.",
+        "note": "It is listed as a common problem, not as the charting method."
+      },
+      {
+        "text": "Above heart level it provides a falsely low blood pressure, and readings vary with distance from the heart.",
+        "note": "Correct. The side-lying row says above heart level provides a falsely low BP, with varied readings depending on distance from the heart."
+      }
+    ],
+    "answer": 3,
+    "page": "16"
+  },
+  {
+    "id": "surg-029",
+    "topic": "High blood pressure",
+    "scene": "The first systolic reading is above 160 mmHg.",
+    "ask": "What does the high blood-pressure action start with?",
+    "choices": [
+      {
+        "text": "Put the feet higher than the head by 15-30 degrees.",
+        "note": "Feet higher than the head is a later step on the low blood-pressure page, not this high reading."
+      },
+      {
+        "text": "Report to the doctor before any cuff or talking check.",
+        "note": "The numbered actions start with clothing, cuff size, stop talking, and a bilateral recheck, and the report goes to the team nurse."
+      },
+      {
+        "text": "Make sure there is no clothing blockage, use the correct cuff size, stop talking, and recheck both limbs.",
+        "note": "Correct. For SBP > 160 mmHg the first action is no clothing blockage, correct cuff size, stop talking, and recheck bilateral limb."
+      },
+      {
+        "text": "Use this same first step for any systolic reading above 140 mmHg.",
+        "note": "The threshold printed on this page is SBP > 160 mmHg."
+      }
+    ],
+    "answer": 2,
+    "page": "17"
+  },
+  {
+    "id": "surg-030",
+    "topic": "High blood pressure",
+    "scene": "The pressure is still high after that recheck. The patient has no headache.",
+    "ask": "What does the page say about the next measure, the report, and the repeat check?",
+    "choices": [
+      {
+        "text": "Invite the patient back to bed and keep them relaxed, report to the team nurse after the blood-pressure routine, and recheck blood pressure and pulse after 15-30 minutes.",
+        "note": "Correct. Actions 2 to 4 say return to bed and keep relax, report after the routine unless there is headache, and recheck BP/P after 15-30 minutes."
+      },
+      {
+        "text": "Report every high reading immediately, headache or not.",
+        "note": "Immediate report on this page is if the patient suffers with headache; otherwise after the routine."
+      },
+      {
+        "text": "Recheck only the pulse after 2 hours.",
+        "note": "The page says recheck patient BP/P after 15-30 minutes."
+      },
+      {
+        "text": "Have the patient exercise before the next reading.",
+        "note": "The nursing care says stop exercise and talking, and rest on the bed."
+      }
+    ],
+    "answer": 0,
+    "page": "17"
+  },
+  {
+    "id": "surg-031",
+    "topic": "High blood pressure",
+    "scene": "You are settling the patient after the high reading and the team nurse explains the follow-up.",
+    "ask": "What nursing care and remarks are printed?",
+    "choices": [
+      {
+        "text": "Walk the patient and take the call bell away.",
+        "note": "Care says rest on bed, give a call bell, stop exercise and talking, and put on the bedside rail."
+      },
+      {
+        "text": "Stop all blood-pressure checks until the next day.",
+        "note": "The remark says the team nurse will increase monitoring to Q4H or Q1H."
+      },
+      {
+        "text": "Start an inotrope before any ECG.",
+        "note": "Inotrope is on the low blood-pressure remarks; this page says antihypertensive agents after investigation such as ECG or blood test."
+      },
+      {
+        "text": "Rest on the bed, give the call bell, stop exercise and talking, and put the bedside rail up. Monitoring may increase to Q4H or Q1H. The doctor may order antihypertensive agents after investigation such as ECG or a blood test.",
+        "note": "Correct. That is the nursing-care box and the remarks on the high blood-pressure page."
+      }
+    ],
+    "answer": 3,
+    "page": "17"
+  },
+  {
+    "id": "surg-032",
+    "topic": "Low blood pressure",
+    "scene": "Systolic pressure stays under 90 mmHg after you have checked the cuff and brought the patient back to bed.",
+    "ask": "What position does this page then tell you to try for the measurement?",
+    "choices": [
+      {
+        "text": "Head higher than the feet by 15-30 degrees.",
+        "note": "The page says feet higher than the head, not the head higher than the feet."
+      },
+      {
+        "text": "Feet higher than the head by 15-30 degrees.",
+        "note": "Correct. If the record is still low after return to bed, attempt to measure BP with the feet higher than the head by 15-30 degrees. Earlier you must already have checked there is no limb elevation or clothing blockage and that the cuff size is correct, and rechecked both limbs."
+      },
+      {
+        "text": "Leave the limbs up from the start, because elevation is the first instruction.",
+        "note": "Action 1 says make sure there is no elevation of limbs; the feet-higher position is a later attempt if the bed reading is still low."
+      },
+      {
+        "text": "Sit the patient with both feet hanging down.",
+        "note": "The printed position is feet higher than the head by 15-30 degrees."
+      }
+    ],
+    "answer": 1,
+    "page": "18"
+  },
+  {
+    "id": "surg-033",
+    "topic": "Low blood pressure",
+    "scene": "The low systolic reading continues and the patient feels dizzy while you are still there.",
+    "ask": "How does this page handle conscious level, the report, and the repeat check?",
+    "choices": [
+      {
+        "text": "Check conscious level while you act. If the patient is dizzy, report to the team nurse immediately; otherwise report after the blood-pressure routine. Recheck blood pressure and pulse after 15-30 minutes.",
+        "note": "Correct. Those are actions 5, 6, 4 and 7: check conscious level in action, immediate report for dizziness, report after the routine otherwise, and recheck BP/P after 15-30 minutes."
+      },
+      {
+        "text": "Do not check conscious level, and never report dizziness early.",
+        "note": "The page says check conscious level in action, and report immediately if the patient suffers with dizziness."
+      },
+      {
+        "text": "Recheck only after 2 hours.",
+        "note": "The recheck printed is BP/P after 15-30 minutes."
+      },
+      {
+        "text": "Phone the doctor yourself before telling the team nurse.",
+        "note": "The report named in the action list is to the team nurse."
+      }
+    ],
+    "answer": 0,
+    "page": "18"
+  },
+  {
+    "id": "surg-034",
+    "topic": "Low blood pressure",
+    "scene": "The team nurse is dealing with the SBP < 90 mmHg and you prepare the bedside.",
+    "ask": "What may the doctor order, and what else is written?",
+    "choices": [
+      {
+        "text": "Antihypertensive tablets and more walking.",
+        "note": "Antihypertensive agents are the high-blood-pressure remark; this page says IVF or inotrope and keep bed rest."
+      },
+      {
+        "text": "Septic-workup cultures only, with no ECG.",
+        "note": "This remark lists 12-lead ECG, those blood tests, IVF or inotrope, and bed rest."
+      },
+      {
+        "text": "A 12-lead ECG; blood tests such as CBP, L/RFT, CK, and Trop I; IVF or an inotrope; and keep bed rest. Also watch any sudden increase and decrease of blood pressure. For a dizzy patient: rest, a call bell, and a bedside rail. Monitoring may go to Q4H or Q1H.",
+        "note": "Correct. Those are the doctor-may-order remarks, the footnote about sudden increase and decrease, the dizziness nursing care, and the Q4H or Q1H monitoring line."
+      },
+      {
+        "text": "No action unless the systolic pressure is above 160 mmHg.",
+        "note": "This page is the SBP < 90 mmHg row."
+      }
+    ],
+    "answer": 2,
+    "page": "18"
+  },
+  {
+    "id": "surg-035",
+    "topic": "Oxygen saturation",
+    "scene": "During observations the pulse oximeter reads under 90%.",
+    "ask": "What does the saturation page tell you to do first about that number?",
+    "choices": [
+      {
+        "text": "Wait for the end of the shift routine before telling anyone.",
+        "note": "The instruction is to inform the team nurse immediately when SpO2 is less than 90%."
+      },
+      {
+        "text": "Inform the team nurse immediately if SpO2 is less than 90%.",
+        "note": "Correct. The page opens with: inform the team nurse immediately if the patient's SpO2 is less than 90%."
+      },
+      {
+        "text": "Start a 100% oxygen mask before telling the team nurse.",
+        "note": "The 50% or 100% mask is the later step if cannula oxygen still fails, not the first line on this page."
+      },
+      {
+        "text": "Treat under 92% in every patient as this same immediate call.",
+        "note": "The immediate threshold on this page is less than 90%; 88-92% is the later COPD aim."
+      }
+    ],
+    "answer": 1,
+    "page": "19"
+  },
+  {
+    "id": "surg-036",
+    "topic": "Oxygen saturation",
+    "scene": "The finger probe may be unreliable and you have a second limb to try.",
+    "ask": "What checks and charting does this page add?",
+    "choices": [
+      {
+        "text": "Chart the lower limb so desaturation is not missed.",
+        "note": "The page says chart the highest one after the bilateral recheck."
+      },
+      {
+        "text": "Ignore cold fingers because only a cuff error changes SpO2.",
+        "note": "The page tells you to make sure the reading is not affected by cold or circulation."
+      },
+      {
+        "text": "Chart the ear temperature instead of either limb.",
+        "note": "This page is about SpO2 limbs, not tympanic charting."
+      },
+      {
+        "text": "Make sure SpO2 is not affected by cold or circulation, recheck both limbs, and chart the highest one.",
+        "note": "Correct. The page says make sure SpO2 is not affected by cold or circulation, recheck bilateral limbs, and chart the highest one."
+      }
+    ],
+    "answer": 3,
+    "page": "19"
+  },
+  {
+    "id": "surg-037",
+    "topic": "Oxygen saturation",
+    "scene": "You hear a sputum sound while the saturation is being checked.",
+    "ask": "What problem and action does the page name?",
+    "choices": [
+      {
+        "text": "The sound means the oxygen mask is too tight, so remove all oxygen.",
+        "note": "The page links the sputum sound to sputum retention and nasopharyngeal suction, not to removing oxygen."
+      },
+      {
+        "text": "Give orange juice before any airway clearance.",
+        "note": "Orange juice is the conscious low-glucose care, not this saturation line."
+      },
+      {
+        "text": "The patient may have sputum retention, and the airway is cleared by nasopharyngeal suction.",
+        "note": "Correct. The page says if there is sputum sound, the patient may suffer from sputum retention, and to clear the airway by nasopharyngeal suction."
+      },
+      {
+        "text": "Suction is forbidden until a chest X-ray is done.",
+        "note": "The page names nasopharyngeal suction for the sputum sound; it does not require a chest X-ray first."
+      }
+    ],
+    "answer": 2,
+    "page": "19"
+  },
+  {
+    "id": "surg-038",
+    "topic": "Oxygen therapy",
+    "scene": "SaO2 has not come back to normal within 20-30 second.",
+    "ask": "What oxygen step does the page give next?",
+    "choices": [
+      {
+        "text": "Apply oxygen by nasal cannula, such as 2 L/min, 4 L/min and 6 L/min, as the doctor's prescription.",
+        "note": "Correct. The page says if SaO2 still does not return to normal within 20-30 second, apply oxygen therapy via nasal cannula, such as 2 L/min, 4 L/min and 6 L/min as doctor's prescription."
+      },
+      {
+        "text": "Start at 8 L/min by cannula because 6 L/min is not on the page.",
+        "note": "The cannula examples printed are 2 L/min, 4 L/min and 6 L/min, not 8 L/min."
+      },
+      {
+        "text": "Apply the cannula only after a full hour of low saturation.",
+        "note": "The time printed is within 20-30 second, not one hour."
+      },
+      {
+        "text": "Choose any litre flow without a prescription.",
+        "note": "The page says as doctor's prescription."
+      }
+    ],
+    "answer": 0,
+    "page": "20"
+  },
+  {
+    "id": "surg-039",
+    "topic": "Oxygen therapy",
+    "scene": "Cannula oxygen has still failed to restore the saturation.",
+    "ask": "What does the page say to do then?",
+    "choices": [
+      {
+        "text": "Go back to room air and recheck tomorrow.",
+        "note": "Failure of the cannula step leads to a 50% or 100% mask and a doctor call as soon as possible."
+      },
+      {
+        "text": "Use only a 24% mask, because 50% and 100% are not printed.",
+        "note": "The page names 50% or 100% oxygen mask."
+      },
+      {
+        "text": "Start Bair Hugger instead of a mask.",
+        "note": "Bair Hugger is the low-temperature device, not this oxygen-failure line."
+      },
+      {
+        "text": "Apply a 50% or 100% oxygen mask and call the doctor for further management as soon as possible.",
+        "note": "Correct. The page says if still fail, apply 50% or 100% oxygen mask, and call the doctor for further management as soon as possible."
+      }
+    ],
+    "answer": 3,
+    "page": "20"
+  },
+  {
+    "id": "surg-040",
+    "topic": "COPD oxygen",
+    "scene": "The patient has COPD and you are setting the saturation target before giving oxygen.",
+    "ask": "What SpO2 range does this page say to aim for in COPD?",
+    "choices": [
+      {
+        "text": "At least 96% for every COPD patient.",
+        "note": "The COPD aim printed is 88-92%, not 96% or above."
+      },
+      {
+        "text": "88-92%.",
+        "note": "Correct. The page says for a patient with COPD, the SpO2 is aimed to keep 88-92%."
+      },
+      {
+        "text": "Under 80%, the same as the immediate call threshold.",
+        "note": "Less than 90% is the immediate team-nurse call on the earlier page; the COPD aim is 88-92%."
+      },
+      {
+        "text": "There is no COPD target in this file.",
+        "note": "The page prints 88-92% for COPD."
+      }
+    ],
+    "answer": 1,
+    "page": "21"
+  },
+  {
+    "id": "surg-041",
+    "topic": "COPD oxygen",
+    "scene": "A student asks how a normal person's breathing rate is controlled, using this page.",
+    "ask": "What does the note say drives the respiratory rate in normal people?",
+    "choices": [
+      {
+        "text": "The O2 sensor and the CO2 sensor in the brain. Low oxygen in the blood or high CO2 in the blood will increase the respiratory rate.",
+        "note": "Correct. The page says for normal people the RR is controlled by the O2 sensor and CO2 sensor in the brain, and that low O2 or high CO2 concentration in blood will increase the RR."
+      },
+      {
+        "text": "Only a carbon-dioxide sensor, with oxygen having no effect.",
+        "note": "The page names both the O2 sensor and the CO2 sensor, and low O2 as well as high CO2."
+      },
+      {
+        "text": "Only the oxygen sensor, in every person including those without COPD.",
+        "note": "The oxygen-only mechanism is the later COPD point, after the CO2 sensor is described as deactivated."
+      },
+      {
+        "text": "The respiratory rate falls when CO2 is high.",
+        "note": "The page says high CO2 concentration in blood will increase the RR in normal people."
+      }
+    ],
+    "answer": 0,
+    "page": "21"
+  },
+  {
+    "id": "surg-042",
+    "topic": "COPD oxygen",
+    "scene": "The same student asks what is different about carbon dioxide in COPD.",
+    "ask": "What does the page say happens to the CO2 sensor?",
+    "choices": [
+      {
+        "text": "The CO2 sensor becomes more sensitive, so small rises stop breathing.",
+        "note": "The page says the brain CO2 sensor is deactivated, not that it becomes more sensitive."
+      },
+      {
+        "text": "COPD patients have a chronic low CO2, so the sensor is removed surgically.",
+        "note": "The page says a chronic condition of high CO2, and that the sensor is deactivated; it does not describe surgery."
+      },
+      {
+        "text": "In COPD there is a chronic high CO2 level in the blood, and the brain CO2 sensor is deactivated.",
+        "note": "Correct. The page says COPD patients experience a chronic condition of high CO2 level in blood, and the brain CO2 sensor is deactivated."
+      },
+      {
+        "text": "The O2 sensor is the one that is deactivated in COPD.",
+        "note": "The page deactivates the CO2 sensor; the next page says the remaining mechanism is the O2 level."
+      }
+    ],
+    "answer": 2,
+    "page": "21"
+  },
+  {
+    "id": "surg-043",
+    "topic": "COPD oxygen",
+    "scene": "Someone is about to turn the oxygen up high on the COPD patient.",
+    "ask": "Why does this page warn against too much oxygen?",
+    "choices": [
+      {
+        "text": "High oxygen reactivates the CO2 sensor and makes the rate rise safely.",
+        "note": "The page says high oxygen leads the O2 sensor to reduce the respiratory rate and worsens CO2 retention."
+      },
+      {
+        "text": "The only mechanism left to regulate the respiratory rate is the oxygen level in the blood. High oxygen tells the body the rate can be reduced, and that decrease further worsens CO2 retention. The note puts it as 俾太多氧氣個patient㑹唔識抖氣.",
+        "note": "Correct. That is the page: O2 level is the only mechanism, high O2 lets RR be reduced, decreased RR worsens CO2 retention, and that Cantonese warning is printed."
+      },
+      {
+        "text": "Extra oxygen is harmless because both sensors still work as in a person without COPD.",
+        "note": "The previous page says the COPD CO2 sensor is deactivated, so oxygen level is the remaining mechanism."
+      },
+      {
+        "text": "The warning is about tympanic earwax, not breathing.",
+        "note": "The Cantonese line and the CO2-retention sentences are on the oxygen page."
+      }
+    ],
+    "answer": 1,
+    "page": "22"
+  },
+  {
+    "id": "surg-044",
+    "topic": "COPD oxygen",
+    "scene": "The COPD patient's oxygen has been increased and you need the next investigation step named here.",
+    "ask": "What follow-up does the page ask for?",
+    "choices": [
+      {
+        "text": "A urine stick for glucose only.",
+        "note": "Urine glucose is a perioperative test; this page names ABG."
+      },
+      {
+        "text": "Stop all observations once the mask is on.",
+        "note": "The page asks for close monitoring."
+      },
+      {
+        "text": "Give Panadol 500 mg instead of telling the doctor.",
+        "note": "Panadol is the fever example; this page says inform the doctor and names ABG."
+      },
+      {
+        "text": "Close monitoring, and inform the doctor for further investigation such as arterial blood gas (ABG).",
+        "note": "Correct. The page says close monitoring and inform the doctor for further investigation, such as blood test arterial blood gas (ABG)."
+      }
+    ],
+    "answer": 3,
+    "page": "22"
+  },
+  {
+    "id": "surg-045",
+    "topic": "Low blood glucose",
+    "scene": "The routine meter reads under 4 mmol/L. You need to know who to tell, and how fast.",
+    "ask": "What reporting does the low-glucose page require?",
+    "choices": [
+      {
+        "text": "Phone the doctor yourself before the team nurse sees the meter.",
+        "note": "The action says report to the team nurse; the team nurse is the one who informs the doctor."
+      },
+      {
+        "text": "Report only if the reading is above 16 mmol/L.",
+        "note": "Above 16 is the next page; this page is the < 4 mmol/L action."
+      },
+      {
+        "text": "Report to the team nurse when you see the reading after the routine blood glucose. Report immediately if the patient is dizzy or unconscious.",
+        "note": "Correct. That is the action column for < 4 mmol/L."
+      },
+      {
+        "text": "Do not report a reading under 4 if the patient is unconscious.",
+        "note": "Unconscious is a reason to report immediately, not a reason to withhold the report."
+      }
+    ],
+    "answer": 2,
+    "page": "23"
+  },
+  {
+    "id": "surg-046",
+    "topic": "Low blood glucose",
+    "scene": "The reading is still under 4 mmol/L. One patient is awake and one cannot be roused.",
+    "ask": "What treatment contrast does the page give?",
+    "choices": [
+      {
+        "text": "A conscious patient is given orange juice or milk. For an unconscious patient an intravenous site is set up and D50 is given via that site as the doctor's prescription. Anti-hyperglycemic drugs are withheld as the doctor ordered.",
+        "note": "Correct. Those are the nursing-care lines for < 4 mmol/L."
+      },
+      {
+        "text": "Both patients get orange juice, including the unconscious patient.",
+        "note": "Orange juice or milk is for the conscious patient; the unconscious patient is given D50 via an intravenous site."
+      },
+      {
+        "text": "The unconscious patient is given oral Panadol 500 mg.",
+        "note": "Panadol is the fever example; this page names D50 via the intravenous site for the unconscious patient."
+      },
+      {
+        "text": "Anti-hyperglycemic drugs are doubled as the first response.",
+        "note": "The page says withhold the patient's anti-hyperglycemic drugs as doctor ordered."
+      }
+    ],
+    "answer": 0,
+    "page": "23"
+  },
+  {
+    "id": "surg-047",
+    "topic": "Low blood glucose",
+    "scene": "The team nurse is deciding how to tell the doctor about the low reading.",
+    "ask": "How does the remark differ for a conscious patient and an unconscious patient?",
+    "choices": [
+      {
+        "text": "Both cases wait for the next day's ward round.",
+        "note": "The unconscious remark is phone the doctor immediately."
+      },
+      {
+        "text": "The conscious patient is the one who triggers an immediate phone call, and the unconscious patient waits.",
+        "note": "It is the other way round on this page."
+      },
+      {
+        "text": "The doctor is not informed in either case.",
+        "note": "The team nurse informs the doctor during the ward round if conscious, and by phone immediately if unconscious."
+      },
+      {
+        "text": "If the patient is conscious, the team nurse informs the doctor during the ward round and the anti-hyperglycemic drugs are withheld. If the patient is unconscious, the team nurse phones the doctor immediately and IV D50 will be prescribed.",
+        "note": "Correct. That is the split in the remarks column."
+      }
+    ],
+    "answer": 3,
+    "page": "23"
+  },
+  {
+    "id": "surg-048",
+    "topic": "Low blood glucose",
+    "scene": "The conscious patient has taken the orange juice and you plan the next meter check.",
+    "ask": "When does the page say to recheck, and what else may be ordered?",
+    "choices": [
+      {
+        "text": "Recheck only the next morning.",
+        "note": "The interval printed is 15-30 minutes after the intake or treatment."
+      },
+      {
+        "text": "Recheck the blood glucose 15-30 minutes after meals, orange juice, milk, or the doctor's treatment. The doctor may order more frequent glucose testing and a blood test.",
+        "note": "Correct. The remarks say recheck after the patient has taken meals or orange juice or milk or the doctor's treatment after 15-30 min, and the doctor may increase the frequency of blood glucose test and blood test."
+      },
+      {
+        "text": "Do not recheck once orange juice has been given.",
+        "note": "The page tells you to recheck after that intake."
+      },
+      {
+        "text": "Recheck tympanic temperature instead of glucose.",
+        "note": "The 15-30 minute recheck on this page is of the blood glucose level."
+      }
+    ],
+    "answer": 1,
+    "page": "23"
+  },
+  {
+    "id": "surg-049",
+    "topic": "High blood glucose",
+    "scene": "The meter reads above 16 mmol/L on the routine round. The patient is awake and not dizzy.",
+    "ask": "What actions does the high-glucose page list?",
+    "choices": [
+      {
+        "text": "Report to the team nurse after the routine blood glucose, but report immediately if the patient is dizzy or unconscious. Check or ask what the patient took, including anything taken on their own. Withhold the night snack. Do a urine test for ketone as hospital instruction.",
+        "note": "Correct. Those are the action lines for > 16 mmol/L."
+      },
+      {
+        "text": "Give orange juice first, as you would for a reading under 4.",
+        "note": "Orange juice or milk is the conscious low-glucose care; this page does not use it for a reading above 16."
+      },
+      {
+        "text": "Ignore self-taken food and still give the night snack.",
+        "note": "The page says check intake history, such as anything taken by own, and withhold the night snack."
+      },
+      {
+        "text": "Skip the ketone urine test unless the reading is under 4.",
+        "note": "Urine test for ketone as hospital instruction is on the > 16 mmol/L page."
+      }
+    ],
+    "answer": 0,
+    "page": "24"
+  },
+  {
+    "id": "surg-050",
+    "topic": "High blood glucose",
+    "scene": "The team nurse has the > 16 mmol/L result and is calling about treatment.",
+    "ask": "What does the remark say the doctor may do?",
+    "choices": [
+      {
+        "text": "Wait for the ward round, as with a conscious patient whose glucose is under 4.",
+        "note": "On this high-glucose page the team nurse phones the doctor immediately."
+      },
+      {
+        "text": "Give intravenous D50 as the high-glucose drug.",
+        "note": "D50 is the unconscious low-glucose treatment; this page names subcutaneous insulin and, if DKA risk, a DKI drip."
+      },
+      {
+        "text": "The team nurse phones the doctor immediately. The doctor may prescribe a subcutaneous insulin injection and monitor blood glucose Q4H. If there is a risk of DKA, a DKI drip will be ordered.",
+        "note": "Correct. That is the remarks column for the high-glucose row."
+      },
+      {
+        "text": "Stop all glucose checks for 24 hours after one high reading.",
+        "note": "The page says monitor blood glucose level as Q4H."
+      }
+    ],
+    "answer": 2,
+    "page": "24"
+  },
+  {
+    "id": "surg-051",
+    "topic": "Glucose memory range",
+    "scene": "A student asks for the easy memory band printed under the high-glucose table, not the action cut-offs.",
+    "ask": "What range does that line give?",
+    "choices": [
+      {
+        "text": "Under 4 mmol/L, which is the treatment line rather than the memory line.",
+        "note": "Under 4 is the low-glucose action threshold; the memory line is 4 to 8."
+      },
+      {
+        "text": "4 mmol/L - 8 mmol/L.",
+        "note": "Correct. The page prints: common range for easy remember: 4 mmol/L - 8 mmol/L."
+      },
+      {
+        "text": "Above 16 mmol/L.",
+        "note": "Above 16 is the high-glucose action row, not the easy-remember range."
+      },
+      {
+        "text": "8 mmol/L - 16 mmol/L.",
+        "note": "The printed memory range is 4 mmol/L - 8 mmol/L, not 8 to 16."
+      }
+    ],
+    "answer": 1,
+    "page": "24"
+  },
+  {
+    "id": "surg-052",
+    "topic": "Glucose reporting",
+    "scene": "Two meters alarm: one conscious patient is under 4 mmol/L, and another is over 16 mmol/L.",
+    "ask": "How do the team-nurse remarks differ on who phones the doctor?",
+    "choices": [
+      {
+        "text": "Both readings wait for the ward round, whatever the number.",
+        "note": "The > 16 page says phone the doctor immediately."
+      },
+      {
+        "text": "The low conscious reading is an immediate phone call and the high reading waits.",
+        "note": "The pages place the immediate phone call on the unconscious low reading and on the high reading, not on the conscious low reading."
+      },
+      {
+        "text": "Neither reading is reported if the patient can talk.",
+        "note": "A conscious low reading is still reported to the team nurse after the routine, and a high reading is reported to the team nurse after the routine, with immediate report if dizzy or unconscious."
+      },
+      {
+        "text": "For the conscious patient under 4, the team nurse informs the doctor during the ward round. For the reading over 16, the team nurse phones the doctor immediately.",
+        "note": "Correct. The low-glucose remark uses the ward round for a conscious patient; the high-glucose remark says the team nurse will phone inform the doctor immediately."
+      }
+    ],
+    "answer": 3,
+    "page": "23-24"
+  },
+  {
+    "id": "surg-053",
+    "topic": "Perioperative definition",
+    "scene": "A student starting theatre allocation asks what perioperative nursing covers.",
+    "ask": "How does this page define it?",
+    "choices": [
+      {
+        "text": "Only the intraoperative scrub role, with the family excluded.",
+        "note": "The definition includes patients, families, and significant others, and all three phases, not the scrub role alone."
+      },
+      {
+        "text": "Only wound dressing after discharge home.",
+        "note": "The phases named are pre-operative, intraoperative and postoperative, not a home-dressing service alone."
+      },
+      {
+        "text": "Nursing practices that address the needs of patients, their families, and significant others during the pre-operative, intraoperative and postoperative phases.",
+        "note": "Correct. That is the definition printed on the page. It also calls perioperative nursing a sophisticated arena of various roles, and says perioperative nurses endeavor to ensure quality patient care."
+      },
+      {
+        "text": "The same list as the septic workup cultures.",
+        "note": "Cultures are the fever workup; this page is the definition of perioperative nursing."
+      }
+    ],
+    "answer": 2,
+    "page": "26"
+  },
+  {
+    "id": "surg-054",
+    "topic": "Perioperative outcome",
+    "scene": "The tutor asks what outcome this definition page wants.",
+    "ask": "What desired outcome is printed?",
+    "choices": [
+      {
+        "text": "The patient's optimal level of wellness and functional status before, during and after surgical intervention.",
+        "note": "Correct. The page says the desired outcome is the achievement of patient optimal level of wellness and functional status before, during and after surgical intervention."
+      },
+      {
+        "text": "A shorter waiting list, with functional status left out.",
+        "note": "The outcome named is optimal wellness and functional status around the operation, not a waiting-list target."
+      },
+      {
+        "text": "Wellness only before surgery, not during or after.",
+        "note": "The page says before, during and after surgical intervention."
+      },
+      {
+        "text": "Freedom from study pressure for the student.",
+        "note": "That purpose belongs to the study-manual introduction, not this outcome sentence."
+      }
+    ],
+    "answer": 0,
+    "page": "26"
+  },
+  {
+    "id": "surg-055",
+    "topic": "Perioperative practice",
+    "scene": "You are planning care once an operation is in prospect.",
+    "ask": "What does this page say perioperative practice includes?",
+    "choices": [
+      {
+        "text": "It starts only when the patient enters the theatre, with no evaluation of outcomes.",
+        "note": "The page says practice begins with the prospect of an operative procedure and the evaluation of its outcomes."
+      },
+      {
+        "text": "Evidence is set aside so that cost is the only factor.",
+        "note": "The page says the nurse uses evidence-based findings and considers safety, effectiveness, efficiency, environmental concerns, and cost together."
+      },
+      {
+        "text": "Significant others are not part of the continuum.",
+        "note": "The page says perioperative nurses interact with both patients and their significant others throughout the care continuum."
+      },
+      {
+        "text": "It begins with the prospect of an operation and the evaluation of its outcomes. Nurses interact with patients and significant others through the care continuum, use evidence-based findings, and consider safety, effectiveness, efficiency, environmental concerns, and cost.",
+        "note": "Correct. Those are the three points on the pre-operative investigation and management page."
+      }
+    ],
+    "answer": 3,
+    "page": "27"
+  },
+  {
+    "id": "surg-056",
+    "topic": "PPP",
+    "scene": "The theatre list says PPP beside tomorrow's case.",
+    "ask": "What does PPP stand for on this page?",
+    "choices": [
+      {
+        "text": "Post Procedure Prescription.",
+        "note": "The expansion printed is Please Prepare Patient, not a prescription title."
+      },
+      {
+        "text": "Please Prepare Patient.",
+        "note": "Correct. The page prints PPP = Please Prepare Patient."
+      },
+      {
+        "text": "Pre-operative Platelet Protocol.",
+        "note": "Platelets are one blood test in the list below, but PPP is expanded as Please Prepare Patient."
+      },
+      {
+        "text": "Patient Property Policy.",
+        "note": "Property handling is a later OT-day check; this page defines PPP as Please Prepare Patient."
+      }
+    ],
+    "answer": 1,
+    "page": "28"
+  },
+  {
+    "id": "surg-057",
+    "topic": "Pre-operative bloods",
+    "scene": "You are checking the PPP blood tests the day before theatre.",
+    "ask": "How does the page read platelet, Hb, INR, L/RFT and RG?",
+    "choices": [
+      {
+        "text": "Platelet too low will not be able to stop bleeding during the operation. Hb too low may need blood transfusion before the operation. INR, written as Internationalized Normalized Ratio, abnormal will appear bleeding tendency. L/RFT looks at Na and K. RG is random glucose. CBP is also listed.",
+        "note": "Correct. Those are the blood-test glosses on the PPP page, including the printed wording Internationalized Normalized Ratio."
+      },
+      {
+        "text": "A low platelet is ignored because only Hb affects bleeding.",
+        "note": "The page says platelet too low will not able to stop bleeding during operation, and separately that Hb too low may need transfusion."
+      },
+      {
+        "text": "An abnormal INR means the kidney tests, and L/RFT means clotting.",
+        "note": "INR abnormal will appear bleeding tendency; L/RFT is the Na and K line."
+      },
+      {
+        "text": "RG means a fasting lipid test.",
+        "note": "The page says RG: Random Glucose."
+      }
+    ],
+    "answer": 0,
+    "page": "28"
+  },
+  {
+    "id": "surg-058",
+    "topic": "Pre-operative medicines",
+    "scene": "The drug chart has several medicines to sort before the operation.",
+    "ask": "Which withhold examples does the page give?",
+    "choices": [
+      {
+        "text": "Aspirin for 1 week and Plavix for 3 days, the intervals swapped.",
+        "note": "Aspirin is printed as at least 3 days, and Plavix for 1 week."
+      },
+      {
+        "text": "Anti-hyperglycemic drugs only when the patient is eating, not when NPO.",
+        "note": "The page says anti-hyperglycemic drugs for an NPO case."
+      },
+      {
+        "text": "Aspirin at least 3 days, heparin, enoxaparin (IMI), Plavix as an antiplatelet drug for 1 week, warfarin, and anti-hyperglycemic drugs for an NPO case.",
+        "note": "Correct. The page lists those as medications the doctor will prescribe to be withheld before operation."
+      },
+      {
+        "text": "Enoxaparin by mouth, with heparin left off the list.",
+        "note": "Enoxaparin is written (IMI), and heparin is on the list."
+      }
+    ],
+    "answer": 2,
+    "page": "29"
+  },
+  {
+    "id": "surg-059",
+    "topic": "Pre-operative medicines",
+    "scene": "You are about to give the pre-operative medicine and you are unsure about an anticoagulant.",
+    "ask": "What does the page tell you to do?",
+    "choices": [
+      {
+        "text": "Withhold every anticoagulant even when the instruction says continue.",
+        "note": "The page says confirm whether it has been withheld or continued as the doctor's instructions."
+      },
+      {
+        "text": "Confirm whether a related medicine such as an anticoagulant has been withheld or continued as the doctor's instructions. Administer or prepare the pre-operative medicine as prescribed and comply with the Five Rights. Clarify with the doctor if there is any doubt.",
+        "note": "Correct. Those are the three instruction lines under the withhold list. The page does not spell out the five rights; it says comply with the Five Rights principle."
+      },
+      {
+        "text": "Skip the Five Rights because this is only a pre-operative dose.",
+        "note": "The page says comply with the Five Rights principle."
+      },
+      {
+        "text": "Guess the dose if the chart is unclear, and do not ask the doctor.",
+        "note": "The page says clarify with the doctor if any doubts."
+      }
+    ],
+    "answer": 1,
+    "page": "29"
+  },
+  {
+    "id": "surg-060",
+    "topic": "Pre-operative urine",
+    "scene": "The PPP list includes a routine urine test for a urology patient with BPH.",
+    "ask": "What urine items does the page name?",
+    "choices": [
+      {
+        "text": "Blood culture instead of any urine test.",
+        "note": "Bld x C/ST is the septic-workup blood culture; this page is the routine urine list."
+      },
+      {
+        "text": "MSU culture for every specialty, and no stick test.",
+        "note": "The culture line is for a URO case, and glucose and protein by urine stick are also listed."
+      },
+      {
+        "text": "IPSS for every surgical patient, not the BPH case.",
+        "note": "The page says U+RU, IPSS questionnaire for a BPH case."
+      },
+      {
+        "text": "Glucose and protein by urine stick; MSU or CSU for culture for a URO case; and U+RU plus an IPSS questionnaire for a BPH case.",
+        "note": "Correct. That is the routine urine-test list on the page."
+      }
+    ],
+    "answer": 3,
+    "page": "30"
+  },
+  {
+    "id": "surg-061",
+    "topic": "Weight and height",
+    "scene": "The anaesthetist needs numbers from the pre-operative measurement page.",
+    "ask": "Why are body weight and height taken, and which unit is named?",
+    "choices": [
+      {
+        "text": "For dietetic review only, with the unit in pounds.",
+        "note": "The page ties the measurement to antiesthetic drug calculation and says the unit should be kg."
+      },
+      {
+        "text": "Weight is not required if height is known.",
+        "note": "Both body weight and height are listed."
+      },
+      {
+        "text": "For antiesthetic drugs calculation, and the unit should be kg.",
+        "note": "Correct. The page says body weight and height are for antiesthetic drugs calculation (unit should be kg), using that spelling."
+      },
+      {
+        "text": "The unit printed is cm for the drug calculation.",
+        "note": "The unit named for the calculation is kg."
+      }
+    ],
+    "answer": 2,
+    "page": "30"
+  },
+  {
+    "id": "surg-062",
+    "topic": "Pre-operative checklist",
+    "scene": "It is the evening before theatre and you are working through the preparation list.",
+    "ask": "Which items does this checklist page name?",
+    "choices": [
+      {
+        "text": "Informed consent available and valid, with major consent by the M.O. and minor consent by the H.O.; ECG and chest X-ray; surgical site marking; body-hair clipping if required; bathing; FAMN, fast after midnight; and a reminder NPO sign.",
+        "note": "Correct. Those are the items on the perioperative-care checklist page."
+      },
+      {
+        "text": "Minor consent by the M.O. and major consent by the H.O.",
+        "note": "The page says major consent by M.O. and minor consent by H.O."
+      },
+      {
+        "text": "FAMN means free fluids after midnight.",
+        "note": "The page writes FAMN (Fast after mid-night)."
+      },
+      {
+        "text": "Site marking is omitted, and hair must always be shaved with no if required.",
+        "note": "Surgical site marking is listed, and body hair clipping is if required."
+      }
+    ],
+    "answer": 0,
+    "page": "31"
+  },
+  {
+    "id": "surg-063",
+    "topic": "Perioperative record",
+    "scene": "You are looking at the perioperative nursing record before the patient leaves the ward.",
+    "ask": "What does this page say the record and PNIS are for?",
+    "choices": [
+      {
+        "text": "One identical paper form is used in every hospital, with no digital system.",
+        "note": "The page says different hospitals have various records, and that PNIS digitalizes the handwriting sheet and whiteboard."
+      },
+      {
+        "text": "The record is only for the ward clerk and is not shared with the theatre.",
+        "note": "The page says the record maintains accurate communication between the operation theatre and the postoperative care nurse."
+      },
+      {
+        "text": "Documentation is optional once the whiteboard is wiped.",
+        "note": "The page says proper documentation provides an accurate and clear record for continuity and consistency of care."
+      },
+      {
+        "text": "Hospitals vary in their records. The record keeps accurate communication between the theatre and the postoperative nurse. Proper documentation gives a clear record for continuity and consistency. PNIS was adopted to digitalize the handwriting sheet and whiteboard used for intraoperative nursing documentation.",
+        "note": "Correct. Those are the points on the perioperative nursing record page, including Perioperative Nursing Information System (PNIS)."
+      }
+    ],
+    "answer": 3,
+    "page": "33"
+  },
+  {
+    "id": "surg-064",
+    "topic": "Identity check",
+    "scene": "The porter is at the bedside on OT morning.",
+    "ask": "What identity details does the first checking page tell you to confirm?",
+    "choices": [
+      {
+        "text": "Bed number only, without the HKID.",
+        "note": "The page includes name, HKID number and bracelet, not the bed number alone."
+      },
+      {
+        "text": "Name, HKID number, and bracelet.",
+        "note": "Correct. Item 1 is check patient identification including name, HKID number and bracelet."
+      },
+      {
+        "text": "The relative's HKID instead of the patient's.",
+        "note": "The check is the patient's name, HKID number and bracelet."
+      },
+      {
+        "text": "Bracelet only if the patient is unconscious.",
+        "note": "The bracelet is part of the identity check as printed, not limited to unconscious patients."
+      }
+    ],
+    "answer": 1,
+    "page": "34"
+  },
+  {
+    "id": "surg-065",
+    "topic": "Fasting check",
+    "scene": "You continue the same OT-morning checks after the identity band.",
+    "ask": "What does the page say to check about intake and about what the patient knows?",
+    "choices": [
+      {
+        "text": "The time of the last food and drink, and the patient's knowledge of the operation.",
+        "note": "Correct. Items 2 and 3 are time for last food and drink, and patient knowledge for operation."
+      },
+      {
+        "text": "Only the breakfast menu for after surgery, not the last intake.",
+        "note": "The page asks for the time of the last food and drink."
+      },
+      {
+        "text": "Knowledge of the hospital bill, not of the operation.",
+        "note": "Item 3 is patient knowledge for the operation."
+      },
+      {
+        "text": "Last food only, with drinks ignored.",
+        "note": "The page says time for last food and drink."
+      }
+    ],
+    "answer": 0,
+    "page": "34"
+  },
+  {
+    "id": "surg-066",
+    "topic": "Consent check",
+    "scene": "The consent form is in the folder and you are checking it is complete.",
+    "ask": "What does this page say the consent check includes?",
+    "choices": [
+      {
+        "text": "The patient's signature only, with the surgeons and anaesthetist left unsigned.",
+        "note": "The page includes surgeons, anaesthetist and patient signatures."
+      },
+      {
+        "text": "A blank form is acceptable if the OT list is correct.",
+        "note": "The page asks you to check the consent form is complete in those details."
+      },
+      {
+        "text": "Completion of the surgeons', anaesthetist's and patient's signatures, and the operation details: operative diagnosis, the operation that will be performed, and complication plus or minus the operation fact sheet.",
+        "note": "Correct. That is item 4 on the checking page."
+      },
+      {
+        "text": "Complication is never written on the consent.",
+        "note": "The page includes complication +/- operation fact sheet."
+      }
+    ],
+    "answer": 2,
+    "page": "34"
+  },
+  {
+    "id": "surg-067",
+    "topic": "OT list check",
+    "scene": "The perioperative record still has empty boxes and the OT list is clipped behind it.",
+    "ask": "What must match?",
+    "choices": [
+      {
+        "text": "Leave the blanks empty so the theatre can guess the operation.",
+        "note": "The page says fill in the blank, with the right identity and operation details."
+      },
+      {
+        "text": "Fill the blanks on the perioperative nursing record, and match the OT list to the right patient identity and the operation details.",
+        "note": "Correct. Item 5 says check the perioperative nursing record, fill in the blank, and the OT list with right patient identity and operation details."
+      },
+      {
+        "text": "Match the OT list to the bed number only.",
+        "note": "The page says right patient identity and operation details."
+      },
+      {
+        "text": "The OT list is not used once the record exists.",
+        "note": "Item 5 includes the OT list together with the record."
+      }
+    ],
+    "answer": 1,
+    "page": "34"
+  },
+  {
+    "id": "surg-068",
+    "topic": "Special orders",
+    "scene": "The anaesthetist and surgeon have written PPP orders for this morning.",
+    "ask": "Which special-order examples does the page give?",
+    "choices": [
+      {
+        "text": "Only oral Panadol 500 mg, with no blood products or IVF.",
+        "note": "Panadol 500 mg is the fever example; this page lists medicines, blood products, anaesthetic type, those IVF examples, and results seen by the house officer."
+      },
+      {
+        "text": "Actrapid 4 units as a sliding scale you invent, not as the printed IVF example.",
+        "note": "Actrapid 4 units appears inside the example D10+ 10mmol KCL + Actrapid 4 units Q8H."
+      },
+      {
+        "text": "Results need not be seen by anyone before transfer.",
+        "note": "The page says blood results, CXR and ECG with at least seen by the house officer."
+      },
+      {
+        "text": "Medicines on call to OT, on induction, or withheld; blood, fresh frozen plasma or platelet transfusion; the anaesthetist order for GA, SA, LA or MAC; IVF examples such as 1\\2 1\\2 sol Q8H, 1D1S Q6H, and D10+ 10mmol KCL + Actrapid 4 units Q8H; and blood results, CXR and ECG at least seen by the house officer.",
+        "note": "Correct. Those are the special-order examples under item 6."
+      }
+    ],
+    "answer": 3,
+    "page": "35"
+  },
+  {
+    "id": "surg-069",
+    "topic": "Past history and infection",
+    "scene": "Before transfer you ask a short past-history question and look at infection flags.",
+    "ask": "What script and which infection labels does the page give?",
+    "choices": [
+      {
+        "text": "Ask only about allergy to plaster, and ignore hepatitis and diabetes.",
+        "note": "The plaster question is the allergy script on the next page; this item is the past-history prompt, which includes 肝炎 and 糖尿."
+      },
+      {
+        "text": "CRE and VRE mean the patient must go first on the list.",
+        "note": "The page says may need to arrange the patient to be the last user of the operation theater."
+      },
+      {
+        "text": "Ask 有無肝炎、肺病、心藏病、糖尿、血壓或要覆診既病. Infection status named includes MRSA, Hep. B, CRE and VRE, and the patient may need to be the last user of the theatre.",
+        "note": "Correct. That is item 7, including the Cantonese prompt and those infection labels, and the last-user arrangement."
+      },
+      {
+        "text": "The history prompt leaves out heart disease and blood pressure.",
+        "note": "The prompt includes 心藏病 and 血壓."
+      }
+    ],
+    "answer": 2,
+    "page": "35"
+  },
+  {
+    "id": "surg-070",
+    "topic": "Allergy script",
+    "scene": "You are at the bedside asking about allergy before theatre.",
+    "ask": "What wording does the page give you to use?",
+    "choices": [
+      {
+        "text": "有無食物、藥物敏感或貼膠布有無敏感.",
+        "note": "Correct. Item 8 prints that allergy history question, covering food, drug, and plaster."
+      },
+      {
+        "text": "有無鬆牙或假牙, which is the teeth question.",
+        "note": "The teeth question is item 9; item 8 is the food, drug and plaster allergy script."
+      },
+      {
+        "text": "Ask about drug allergy only, and skip food and plaster.",
+        "note": "The printed script includes 食物, 藥物 and 貼膠布."
+      },
+      {
+        "text": "There is no allergy question on the OT-day pages.",
+        "note": "Item 8 is the allergy history question."
+      }
+    ],
+    "answer": 0,
+    "page": "36"
+  },
+  {
+    "id": "surg-071",
+    "topic": "Teeth and preparation asks",
+    "scene": "You continue the bedside questions after allergy.",
+    "ask": "Which further questions does this page print?",
+    "choices": [
+      {
+        "text": "Ask about general anaesthesia only, and do not mention local.",
+        "note": "The printed question is whether it is local or general anaesthesia."
+      },
+      {
+        "text": "Leave a denture in place without checking if it can be removed.",
+        "note": "The page says if there is a denture, check whether it can be taken off."
+      },
+      {
+        "text": "Nail polish may stay on, and contact lenses are not asked about.",
+        "note": "Items 11 and 12 ask about contact lens and about removing nail polish."
+      },
+      {
+        "text": "Loose or movable or unmovable denture: 有無鬆牙或假牙, and if there is a denture, check whether it can be taken out. Operation knowledge: 知唔知係局部定全身麻醉. Contact lens: 有無帶隱形眼鏡. Nail polish: 有無抹走指甲油.",
+        "note": "Correct. Those are items 9 to 12."
+      }
+    ],
+    "answer": 3,
+    "page": "36"
+  },
+  {
+    "id": "surg-072",
+    "topic": "Patient property",
+    "scene": "The patient is still wearing a watch and a necklace at the bedside.",
+    "ask": "What property handling does the page remind you of?",
+    "choices": [
+      {
+        "text": "Send all valuables to theatre with the patient.",
+        "note": "The page says valuables may be stored in the ward property cupboard, and tells the patient to remove jewellery and items."
+      },
+      {
+        "text": "Remove all jewellery and items, including metal items, rings, watches and necklaces. Valuables may be kept for the time being in the ward patient-property cupboard.",
+        "note": "Correct. The Chinese reminder says remove all jewellery and items, including metal items, rings, watches and necklaces, and that valuables may be stored in the ward patient property cupboard."
+      },
+      {
+        "text": "Rings and watches may stay on if they are not gold.",
+        "note": "The list includes rings and watches among items to remove, not only one metal."
+      },
+      {
+        "text": "Only the necklace comes off; the watch stays for timing drugs.",
+        "note": "Watches are in the remove list together with necklaces."
+      }
+    ],
+    "answer": 1,
+    "page": "36"
+  },
+  {
+    "id": "surg-073",
+    "topic": "Pre-operative vitals",
+    "scene": "The checks are nearly done and the patient still looks flushed.",
+    "ask": "What do the next numbered items say about vital signs and a change such as fever?",
+    "choices": [
+      {
+        "text": "Assess the pre-operative vital signs. Inform the surgeon, the anaesthetist and the theatre staff if the condition changes, for example fever.",
+        "note": "Correct. Items 14 and 15 say assess pre-operative vital signs and inform those people if there is a change such as fever."
+      },
+      {
+        "text": "Skip vital signs on OT morning because they were done yesterday.",
+        "note": "Item 14 is assess the patient's pre-operative vital signs."
+      },
+      {
+        "text": "Tell only the ward clerk about a new fever.",
+        "note": "The page says inform the surgeon, anaesthetist and operation theatre staff."
+      },
+      {
+        "text": "A fever is not an example of a change worth reporting.",
+        "note": "The page gives fever as the example of a change in condition."
+      }
+    ],
+    "answer": 0,
+    "page": "37"
+  },
+  {
+    "id": "surg-074",
+    "topic": "Site, drugs and attire",
+    "scene": "The patient is almost ready to move, and a cardiac tablet is due.",
+    "ask": "What else does this checking page require?",
+    "choices": [
+      {
+        "text": "Give the cardiac drug with a full cup of tea, not 50 ml of water.",
+        "note": "The page says take medication with 50 ml water if indicated, such as hypertensive and cardiac drugs."
+      },
+      {
+        "text": "Site marking is never checked on OT day.",
+        "note": "Item 16 is check the correct site is marked where applicable."
+      },
+      {
+        "text": "Check the correct site is marked where applicable. If indicated, take medicine such as hypertensive and cardiac drugs with 50 ml of water. Remove all underwear and put on operation attire. Make the bed ready for after the operation.",
+        "note": "Correct. Items 16 to 19 cover site marking, 50 ml water for those drugs, removal of underwear and operation attire, and bed making for post-operation."
+      },
+      {
+        "text": "Leave underwear on under the theatre gown.",
+        "note": "Item 18 says remove all underwear and put on operation attire."
+      }
+    ],
+    "answer": 2,
+    "page": "37"
+  },
+  {
+    "id": "surg-075",
+    "topic": "Record ticks",
+    "scene": "You are filling the perioperative record from the worked examples.",
+    "ask": "How does the page tell you to mark readiness, and what do the two medication timings mean?",
+    "choices": [
+      {
+        "text": "A cross means ready and a tick means not ready.",
+        "note": "The page says a tick for ready and a cross for not ready."
+      },
+      {
+        "text": "Verify the proposed operation against the official operation list and the consent. Put a tick for ready, a cross for not ready, and NA for not applicable. Medication on induction means bring to OT. Medication on call to OT means you receive a phone call from OT and give it before transfer. Some theatres ask for a printout of IPMOE for the last regimen.",
+        "note": "Correct. Those instructions are the example pages: verify against the official list and consent; tick, cross and NA; the two medication meanings; and IPMOE for the last regimen."
+      },
+      {
+        "text": "On induction means wait for a phone call, and on call means bring the drug to OT.",
+        "note": "The page says on induction means bring to OT, and on call to OT means give it after the phone call before transfer."
+      },
+      {
+        "text": "Fill the operation name from memory, not from the list and consent.",
+        "note": "The page says verify and fill in the proposed operation details according to the official operation list and the consent."
+      }
+    ],
+    "answer": 1,
+    "page": "39-40"
+  },
+  {
+    "id": "surg-076",
+    "topic": "Blood and pacemaker",
+    "scene": "The record is almost signed. The patient has a pacemaker, and blood has been requested.",
+    "ask": "What do the last example pages say about blood, the pacemaker, and the signature?",
+    "choices": [
+      {
+        "text": "OTBTS means the ward nurse must crossmatch blood at the bedside without a system.",
+        "note": "The page describes OTBTS as a virtual blood banking system for computer crossmatch-compatible ordering and delivery in the theatre, remote from the hospital blood bank."
+      },
+      {
+        "text": "The student changes the pacemaker mode without calling the company.",
+        "note": "The page says the team nurse should contact the pacemaker company sales representative to adjust the mode."
+      },
+      {
+        "text": "Loose teeth and unremovable items are left off the record.",
+        "note": "The page says record and inform OT staff about those unremovable items and loose teeth, and the team nurse signs after the whole check."
+      },
+      {
+        "text": "Check that investigation results and blood-product preparation are ready. OTBTS means operating theater blood transaction system, a virtual blood bank for computer crossmatch-compatible blood ordering and delivery in the theatre, remote from the hospital blood bank. For a pacemaker, the team nurse contacts the company sales representative to adjust the mode for the operation. Record and tell OT staff about unremovable items and loose teeth. After the whole check, the team nurse signs the form.",
+        "note": "Correct. Those points are on the last two example pages, including the printed expansion operating theater blood transaction system."
+      }
+    ],
+    "answer": 3,
+    "page": "41-42"
+  },
+  {
+    "id": "surg-077",
+    "topic": "Recovery room",
+    "scene": "The recovery room phones that the operation is complete, and you are going to collect the patient.",
+    "ask": "What does the discharge page say to bring and to check in the recovery room?",
+    "choices": [
+      {
+        "text": "Leave the recovery tray on the ward and check only the bed number.",
+        "note": "The page says bring the recovery tray, kit or box, and check name, HKID, bracelet, conscious level and vital signs."
+      },
+      {
+        "text": "Check the HKID only if the patient is awake.",
+        "note": "Bracelet, conscious level and vital signs are in the same check as name and HKID."
+      },
+      {
+        "text": "Before you go to the theatre, bring the recovery tray, kit or box and special items the OT nurse asked for, such as an extra pillow. In the recovery room check name, HKID number, bracelet, conscious level and vital signs.",
+        "note": "Correct. Those are the first two points on the discharge-from-recovery page."
+      },
+      {
+        "text": "An extra pillow is forbidden in the recovery collection.",
+        "note": "An extra pillow is the example of a special item requested by the OT nurse."
+      }
+    ],
+    "answer": 2,
+    "page": "44"
+  },
+  {
+    "id": "surg-078",
+    "topic": "Recovery room",
+    "scene": "You are reading the recovery handover before the patient leaves that room.",
+    "ask": "What operation and anaesthetic facts does the page tell you to check?",
+    "choices": [
+      {
+        "text": "The name of the operation done, the postoperative diagnosis, and the final anaesthetic method: general, spinal or local. Also the estimated blood loss and any intra-operative complications.",
+        "note": "Correct. Points 3 and 4 name the operation done, postoperative diagnosis, final method GA, SA or LA, estimated blood loss, and intra-operative complications."
+      },
+      {
+        "text": "Only the planned operation from yesterday, not the operation actually done.",
+        "note": "The page says check the name of the OT done and the postoperative diagnosis."
+      },
+      {
+        "text": "The anaesthetic method is omitted once blood loss is known.",
+        "note": "The final anaesthetic method GA, SA or LA is in the same check."
+      },
+      {
+        "text": "Intra-operative complications are not recorded if blood loss is small.",
+        "note": "The page says estimated blood loss and any intra-operative complications."
+      }
+    ],
+    "answer": 0,
+    "page": "44"
+  },
+  {
+    "id": "surg-079",
+    "topic": "Recovery room",
+    "scene": "The patient is ready to leave recovery and you are checking the wound, oxygen and lines.",
+    "ask": "Which items does this second discharge page list before the fasting line?",
+    "choices": [
+      {
+        "text": "Oxygen flow without asking until when.",
+        "note": "The page says check the prescription, L/min and till when."
+      },
+      {
+        "text": "Drains only, with Foley and IVF left unchecked.",
+        "note": "Point 8 is any drain, Foley and IVF."
+      },
+      {
+        "text": "Skip the wound if a dressing is already on.",
+        "note": "Point 5 is check the operation wound site for any active bleeding."
+      },
+      {
+        "text": "Whether the wound is actively bleeding; any oxygen therapy, including the prescribed L/min and until when; medicines given in theatre or recovery, type and time; any drain, Foley and IVF; and the surgeon's post-op orders.",
+        "note": "Correct. Those are points 5 to 9."
+      }
+    ],
+    "answer": 3,
+    "page": "45"
+  },
+  {
+    "id": "surg-080",
+    "topic": "Post-op fasting",
+    "scene": "The recovery nurse says the patient may be NPO, and the ward is about to offer a drink.",
+    "ask": "What post-op NPO times does the page print?",
+    "choices": [
+      {
+        "text": "GA 1.5 hour and SA 3 hours, the times swapped.",
+        "note": "GA is 3 hours if DAT is prescribed, and SA is 1.5 hour."
+      },
+      {
+        "text": "GA: 3 hours if DAT is prescribed. SA: 1.5 hour. LA: not required. Confirm with the team nurse before giving any drink or food.",
+        "note": "Correct. That is the post-op NPO line, including the instruction to confirm with the team nurse before any drinks or foods."
+      },
+      {
+        "text": "LA patients stay NPO for 6 hours.",
+        "note": "The page says LA is not required."
+      },
+      {
+        "text": "Give food as soon as the patient asks, with no team-nurse check.",
+        "note": "The page says confirm with the team nurse before any drinks or foods."
+      }
+    ],
+    "answer": 1,
+    "page": "45"
+  },
+  {
+    "id": "surg-081",
+    "topic": "Return to ward",
+    "scene": "The patient is back in the surgical bed after thyroidectomy.",
+    "ask": "What observations and oxygen or fluid points does the return page start with?",
+    "choices": [
+      {
+        "text": "Blood pressure and pulse, body temperature and SpO2. For a post-thyroidectomy patient, continuous SpO2 monitoring and a recovery tray or box. Keep IVF continuous and secured. Give oxygen if it is prescribed.",
+        "note": "Correct. Those are the first three return-to-ward points, including the thyroidectomy SpO2 and recovery tray or box."
+      },
+      {
+        "text": "Spot SpO2 only after thyroidectomy, with the recovery tray left in theatre.",
+        "note": "The page says continuous SpO2 monitoring and set up a recovery tray or box for the post-thyroidectomy patient."
+      },
+      {
+        "text": "Stop the IVF on arrival so the cannula can rest.",
+        "note": "The page says continuous and secured IVF."
+      },
+      {
+        "text": "Give oxygen to every return even when none is prescribed.",
+        "note": "The page says administrate O2 if prescribed."
+      }
+    ],
+    "answer": 0,
+    "page": "46"
+  },
+  {
+    "id": "surg-082",
+    "topic": "Return to ward",
+    "scene": "You are looking at the thyroidectomy wound and the patient's position.",
+    "ask": "What wound and position instructions are printed, and who receives the handover?",
+    "choices": [
+      {
+        "text": "Leave oozing unmarked and change the dressing only if you choose to.",
+        "note": "The page says mark the oozing area, inform the team nurse if oozing is heavy, and change the outer dressing or the whole dressing as instructed."
+      },
+      {
+        "text": "Lay every thyroidectomy patient flat, with 30o and 45o used only for spinal cases.",
+        "note": "The example prop-up at 30o or 45o is for the post-thyroidectomy patient, unless other instructions."
+      },
+      {
+        "text": "Observe and record the wound, mark the oozing area, tell the team nurse if oozing is heavy, and change the outer dressing or the whole dressing as instructed. Unless there is another instruction, use the correct post-op position, for example prop up at 30o or 45o after thyroidectomy. Hand over to the case nurse or the shift in-charge.",
+        "note": "Correct. Those are points 4, 5 and 6, including prop up at 30o or 45o for the post-thyroidectomy patient and handover from the recovery nurse's information."
+      },
+      {
+        "text": "Hand over only to the patient's relative.",
+        "note": "The page says handover to the case nurse or shift in-charge."
+      }
+    ],
+    "answer": 2,
+    "page": "46"
+  },
+  {
+    "id": "surg-083",
+    "topic": "Return to ward",
+    "scene": "The patient is awake enough to look at the pump, and a drain and a Foley are in place.",
+    "ask": "What does the second return page say about PCA, property, temperature and the tubes?",
+    "choices": [
+      {
+        "text": "Return property while the patient is still not fully conscious.",
+        "note": "The page says return patient property when the patient is fully conscious."
+      },
+      {
+        "text": "Teach the patient to use PCA if there is one. Return property when the patient is fully conscious. Check hypothermia management. Secure the drain and the Foley.",
+        "note": "Correct. Those are points 7 to 10."
+      },
+      {
+        "text": "PCA is set up but not explained.",
+        "note": "The page says educate the patient to use PCA if any."
+      },
+      {
+        "text": "Hypothermia is not checked once the patient is back in the ward.",
+        "note": "Point 9 is check for hypothermia management."
+      }
+    ],
+    "answer": 1,
+    "page": "47"
+  },
+  {
+    "id": "surg-084",
+    "topic": "Return to ward",
+    "scene": "You are writing the notes just after the patient arrives back.",
+    "ask": "What does the documentation point say to record?",
+    "choices": [
+      {
+        "text": "Only the time of arrival, with wound and pain left out.",
+        "note": "Wound condition and pain level are both in the list."
+      },
+      {
+        "text": "The nasogastric tube is omitted even if one is present.",
+        "note": "The list includes any drain, nasogastric tube and Foley."
+      },
+      {
+        "text": "Education is not written down.",
+        "note": "Patient education provided is the last item in that documentation list."
+      },
+      {
+        "text": "Time back to the ward, operation performed, general condition, vital signs, wound condition, pain level, IVF, any drain, nasogastric tube and Foley, and the patient education given.",
+        "note": "Correct. That is the documentation list in point 11."
+      }
+    ],
+    "answer": 3,
+    "page": "47"
+  },
+  {
+    "id": "surg-085",
+    "topic": "Return to ward",
+    "scene": "The IVF is running and the bedside bag and drain need a first chart.",
+    "ask": "What intake, output and intake checks does the page add?",
+    "choices": [
+      {
+        "text": "Do not chart the drain until the next shift.",
+        "note": "The page includes the first emptying of the drain as ordered in the I.O. charting."
+      },
+      {
+        "text": "Oral intake is never monitored after an operation.",
+        "note": "The page says monitor oral intake if indicated."
+      },
+      {
+        "text": "Chart intake and output for the IVF, and the first emptying of the bedside bag or the drain as ordered. Monitor post-operative urination and oral intake if indicated.",
+        "note": "Correct. Points 12 and 13 say chart I.O. for IVF, first empty bedside bag or empty drain as order, and monitor post-operation urination and oral intake if indicated."
+      },
+      {
+        "text": "Empty the bedside bag only after 24 hours, whatever the order.",
+        "note": "The page says first empty the bedside bag or drain as order, not after a fixed 24 hours."
+      }
+    ],
+    "answer": 2,
+    "page": "47"
+  },
+  {
+    "id": "surg-086",
+    "topic": "Wound oozing mark",
+    "scene": "There is a small stain on the outer dressing after the patient returns.",
+    "ask": "How does this page tell you to mark it?",
+    "choices": [
+      {
+        "text": "Mark the oozing area with a marker pen on the outer dressing so you can see whether the oozing changes.",
+        "note": "Correct. The page says mark down the oozing area by marker pen on the outer dressing to observe the change of oozing."
+      },
+      {
+        "text": "Mark the skin under the dressing and then discard the outer layer.",
+        "note": "The mark is on the outer dressing, so the change in oozing can be observed."
+      },
+      {
+        "text": "Do not mark a light ooze; tell the team nurse only if you have already changed the whole dressing.",
+        "note": "This page's action is the marker-pen outline on the outer dressing. Heavy oozing is reported on the previous return page."
+      },
+      {
+        "text": "Use a ballpoint on the wound itself.",
+        "note": "The page says marker pen on the outer dressing, not on the wound surface."
+      }
+    ],
+    "answer": 0,
+    "page": "48"
+  },
+  {
+    "id": "surg-087",
+    "topic": "Spinal anaesthesia",
+    "scene": "The anaesthetic record says SA, and the patient asks what that injection was.",
+    "ask": "How does this page describe spinal anaesthesia?",
+    "choices": [
+      {
+        "text": "SA is a sedative tablet swallowed before theatre.",
+        "note": "The page describes injection of a local anaesthetic into the subarachnoid space through a fine needle."
+      },
+      {
+        "text": "SA is the same as general anaesthesia because both erase memory.",
+        "note": "Amnesia is in the general-anaesthesia description; SA is described as blocking sensory signals to eliminate pain."
+      },
+      {
+        "text": "The injection is into a muscle, not the subarachnoid space.",
+        "note": "The page says into the subarachnoid space."
+      },
+      {
+        "text": "Spinal anaesthesia, 脊髓麻醉/半身麻醉, is regional anaesthesia: a local anaesthetic is injected into the subarachnoid space, generally through a fine needle. The aim is to block afferent nerve signals from peripheral nociceptors so sensory signals from the site are blocked and pain is eliminated.",
+        "note": "Correct. That is the SA text on the abbreviations page."
+      }
+    ],
+    "answer": 3,
+    "page": "49"
+  },
+  {
+    "id": "surg-088",
+    "topic": "General anaesthesia",
+    "scene": "The record says GA and a classmate asks what state that is.",
+    "ask": "What does the same page say general anaesthesia is?",
+    "choices": [
+      {
+        "text": "GA is only a local injection into the operative site.",
+        "note": "Infiltration of the operative site is on the local-anaesthesia page; GA is medicines for amnesia, analgesia, muscle paralysis and sedation."
+      },
+      {
+        "text": "General anaesthesia, 全身麻醉, is the state from medicines for amnesia, analgesia, muscle paralysis and sedation. The patient is in a controlled, reversible unconsciousness. It lets the patient tolerate procedures that would otherwise cause unbearable pain, extreme physiologic exacerbations, and unpleasant memories.",
+        "note": "Correct. That is the GA paragraph beside the spinal description."
+      },
+      {
+        "text": "The unconsciousness of GA is not reversible.",
+        "note": "The page says a controlled, reversible state of unconsciousness."
+      },
+      {
+        "text": "GA provides analgesia only, with no amnesia or paralysis.",
+        "note": "The page lists medicines for amnesia, analgesia, muscle paralysis, and sedation."
+      }
+    ],
+    "answer": 1,
+    "page": "49"
+  },
+  {
+    "id": "surg-089",
+    "topic": "Monitored anaesthesia care",
+    "scene": "The list says MAC rather than a general anaesthetic.",
+    "ask": "When is MAC described as the choice, and what is watched?",
+    "choices": [
+      {
+        "text": "MAC, 監測麻醉, is often chosen when general anaesthesia or deep sedation is not required. Drugs go through an intravenous catheter and vital signs are monitored as in a general anaesthetic. The anaesthesiologist monitors blood pressure, heart rate, and the amount of oxygen carried to vital organs.",
+        "note": "Correct. That is the monitored anaesthesia care paragraph."
+      },
+      {
+        "text": "MAC is chosen only when deep sedation is required.",
+        "note": "The page says MAC is often chosen when general anaesthesia or deep sedation is not required."
+      },
+      {
+        "text": "Drugs are given into the subarachnoid space, as for spinal anaesthesia.",
+        "note": "Subarachnoid injection is the spinal description; MAC drugs are given through an intravenous catheter."
+      },
+      {
+        "text": "Oxygen delivery to vital organs is not part of the MAC watch.",
+        "note": "The page says anaesthesiologists monitor blood pressure, heart rate, and the amount of oxygen carried to vital organs."
+      }
+    ],
+    "answer": 0,
+    "page": "50"
+  },
+  {
+    "id": "surg-090",
+    "topic": "Local anaesthesia",
+    "scene": "A patient booked for LA with sedation asks whether they can go home after a long procedure.",
+    "ask": "What does this page say local anaesthesia allows?",
+    "choices": [
+      {
+        "text": "LA cannot be used for a long procedure, so every long case needs general anaesthesia.",
+        "note": "The page says local anaesthetic applications enable lengthy and complex procedures as outpatients."
+      },
+      {
+        "text": "LA is only a nerve block, not infiltration.",
+        "note": "The page says local anaesthesia encompasses infiltration of the operative site, tumescent techniques, and nerve blocks."
+      },
+      {
+        "text": "LA, 局部麻醉, with sedation lets the team tailor the depth of anaesthesia. Local anaesthetic use lets patients have lengthy and complex procedures as outpatients and then be discharged home promptly and safely. It covers infiltration of the operative site, tumescent techniques, and nerve blocks.",
+        "note": "Correct. That is the local-anaesthesia paragraph."
+      },
+      {
+        "text": "Patients stay in hospital overnight after every LA case.",
+        "note": "The page says they may promptly and safely be discharged home."
+      }
+    ],
+    "answer": 2,
+    "page": "50"
+  },
+  {
+    "id": "surg-091",
+    "topic": "IV drop factor",
+    "scene": "You are about to regulate a gravity infusion from the surgical drip table.",
+    "ask": "What drop factor does the table print?",
+    "choices": [
+      {
+        "text": "15 drops per ml, as a standard the table does not print.",
+        "note": "The figure printed is 20 drops per ml."
+      },
+      {
+        "text": "Drop factor equals drops per ml: 20.",
+        "note": "Correct. The IV monitoring page states Drop factor = Drop per ml: 20."
+      },
+      {
+        "text": "60 drops per ml for a micro-drip set.",
+        "note": "The table states 20, not 60."
+      },
+      {
+        "text": "20 ml per drop.",
+        "note": "The page says drop per ml: 20, not ml per drop."
+      }
+    ],
+    "answer": 1,
+    "page": "52"
+  },
+  {
+    "id": "surg-092",
+    "topic": "IV rate",
+    "scene": "The order is 500 ml Q8H and you are using that drop-factor table.",
+    "ask": "What rate does the Q8H row print?",
+    "choices": [
+      {
+        "text": "About 27.77 to 28 drops per minute, which is the Q6H row.",
+        "note": "27.77~28 drop/min is Q6H of 500 ml, not Q8H."
+      },
+      {
+        "text": "About 166 drops per minute, which is the Q1H row.",
+        "note": "166.66~167 drop/min is Q1H of 500 ml."
+      },
+      {
+        "text": "About 7 drops per minute, which is the Q24H row.",
+        "note": "6.94~7 drop/min is Q24H of 500 ml."
+      },
+      {
+        "text": "About 20.83 to 21 drops per minute, and about 1.74 to 2 drops per 5 seconds.",
+        "note": "Correct. The Q8H row for 500 ml is 20.83~21 drop/min and 1.74~2 drop/5sec."
+      }
+    ],
+    "answer": 3,
+    "page": "52"
+  },
+  {
+    "id": "surg-093",
+    "topic": "IV rate",
+    "scene": "A classmate swaps the Q1H row with the Q12H row on the same 500 ml table.",
+    "ask": "Which pairing does the table actually print?",
+    "choices": [
+      {
+        "text": "Q1H is 13.88 to 14 drops per minute.",
+        "note": "13.88~14 drop/min is the Q12H row; Q1H drop/min is 166.66~167."
+      },
+      {
+        "text": "Q12H is 166 drops per minute.",
+        "note": "166.66~167 drop/min is Q1H, not Q12H."
+      },
+      {
+        "text": "Q1H is about 166.66 to 167 drops per minute, or about 13.88 to 14 drops per 5 seconds. Q12H is about 13.88 to 14 drops per minute, or about 1.16 to 1 drop per 5 seconds.",
+        "note": "Correct. Those are the Q1H and Q12H rows. The 13.88~14 figure is drops per minute only on the Q12H row, and drops per 5 seconds on the Q1H row."
+      },
+      {
+        "text": "Both rows are 41.66 to 42 drops per minute.",
+        "note": "41.66~42 is the Q4H row."
+      }
+    ],
+    "answer": 2,
+    "page": "52"
+  },
+  {
+    "id": "surg-094",
+    "topic": "Intramuscular injection",
+    "scene": "You are about to give an intramuscular injection and the FAQ page is open at the first checks.",
+    "ask": "What identity and hygiene steps does that page name?",
+    "choices": [
+      {
+        "text": "Check identity: name, HKID, and allergy, written as Anymore? Allergy History. Then hand hygiene: wash and dry the hands to reduce the risk of infection. It also asks which syringe is suitable while you prepare the syringe.",
+        "note": "Correct. Those are the printed checks: name, HKID, allergy history, hand hygiene with wash and dry, and preparing a suitable syringe."
+      },
+      {
+        "text": "Check the name and HKID only, and leave allergy until after the injection.",
+        "note": "Allergy history is in the identity check with name and HKID, written as Anymore? Allergy History."
+      },
+      {
+        "text": "Wash the hands but do not dry them.",
+        "note": "The page says wash and dry hands to reduce the risk of infection."
+      },
+      {
+        "text": "Identity is the only step, so the syringe question is not on the page.",
+        "note": "The page also asks which syringe is suitable while you prepare the syringe."
+      }
+    ],
+    "answer": 0,
+    "page": "53"
+  },
+  {
+    "id": "surg-095",
+    "topic": "Intramuscular site",
+    "scene": "The syringe is prepared and you turn to the next intramuscular slides for the site.",
+    "ask": "Which sites does the intramuscular site slide label?",
+    "choices": [
+      {
+        "text": "Only the phrase Anything for checking, used as a body area.",
+        "note": "Anything for checking is the prompt on the preparing-syringe slide, not a muscle on the site slide."
+      },
+      {
+        "text": "The dorsogluteal buttock only, with no deltoid and no thigh.",
+        "note": "The site slide does not label a dorsogluteal site. It labels deltoid, ventrogluteal, and vastus lateralis."
+      },
+      {
+        "text": "The subarachnoid space, as for a spinal anaesthetic.",
+        "note": "Subarachnoid injection is the spinal-anaesthesia description, not an intramuscular site on this slide."
+      },
+      {
+        "text": "Deltoid, ventrogluteal, and vastus lateralis. The deltoid panel marks the acromion, clavicle and the deep brachial artery with the radial nerve. The ventrogluteal panel marks the iliac crest, anterior superior iliac spine and greater trochanter. The thigh panel marks vastus lateralis, clear of the femoral vessels.",
+        "note": "Correct. The slide titled Intramuscular Injection Site draws those three sites, with the landmarks named on each panel."
+      }
+    ],
+    "answer": 3,
+    "page": "54-55"
+  },
+  {
+    "id": "surg-096",
+    "topic": "Injection angle",
+    "scene": "After the site slide, the student looks for a degree to hold the needle.",
+    "ask": "Which angles does the injection slide print?",
+    "choices": [
+      {
+        "text": "Intramuscular 45 degrees, subcutaneous 90 degrees, intravenous 10 degrees, intradermal 25 degrees.",
+        "note": "That swaps the printed angles. Intramuscular is the right angle, not 45 degrees."
+      },
+      {
+        "text": "Intramuscular 90 degrees, subcutaneous 45 degrees, intravenous 25 degrees, and intradermal 10 to 15 degrees. The layers drawn are epidermis, dermis, subcutaneous tissue, and muscle.",
+        "note": "Correct. The slide is titled Angle of Injection and prints those four angles."
+      },
+      {
+        "text": "Every route is 90 degrees, and the slide prints no layer names.",
+        "note": "Only the intramuscular needle is drawn at 90 degrees. The other three angles differ, and the layers are labelled."
+      },
+      {
+        "text": "The angle slide is the drop-factor table, so it prints drops per minute instead of degrees.",
+        "note": "The drop-factor table is a different page. This slide is the angle diagram."
+      }
+    ],
+    "answer": 1,
+    "page": "56"
+  },
+  {
+    "id": "surg-097",
+    "topic": "WHO analgesic ladder",
+    "scene": "A patient is in pain and you look for the pain framework in the miscellaneous section.",
+    "ask": "Which rungs does the analgesic ladder print?",
+    "choices": [
+      {
+        "text": "Mild pain: a non-opioid, acetaminophen (paracetamol), aspirin or an NSAID, with or without an adjuvant. Mild to moderate pain: an opioid such as codeine or tramadol, with or without a non-opioid and an adjuvant. Moderate to severe pain: an opioid such as morphine or fentanyl, with or without a non-opioid and an adjuvant.",
+        "note": "Correct. The slide is titled World Health Organization (WHO) Analgesic Ladder and prints those three rungs."
+      },
+      {
+        "text": "The first rung is Panadol 500 mg every 4 hours as needed.",
+        "note": "Panadol 500 mg every 4 hours is the fever-page example as a doctor's order, not the wording of the ladder."
+      },
+      {
+        "text": "The top rung is Augmentin 1.2 g every 8 hours.",
+        "note": "Augmentin 1.2 g every 8 hours is an intravenous antibiotic example in the septic workup, not a rung on the ladder."
+      },
+      {
+        "text": "The slide is titled the ward ABCDE pain script and lists no drugs.",
+        "note": "The printed title is World Health Organization (WHO) Analgesic Ladder, and the rungs name non-opioids and opioids."
+      }
+    ],
+    "answer": 0,
+    "page": "57"
+  },
+  {
+    "id": "surg-098",
+    "topic": "Wound bed",
+    "scene": "You are describing the wound bed in the dressing notes.",
+    "ask": "Which wound-bed terms does the page list?",
+    "choices": [
+      {
+        "text": "Serous, blood and pus, which are the exudate words.",
+        "note": "Serous fluid, blood and pus are under exudate, not under wound bed."
+      },
+      {
+        "text": "Intact, erythema and oedema, which are surrounding-skin words.",
+        "note": "Those words are in the surrounding-skin list, not the wound-bed list."
+      },
+      {
+        "text": "Epithelialization (上皮形成), granulation (肉芽), slough (腐肉), necrotic (壞死), and dry eschar (腐痂).",
+        "note": "Correct. Those are the wound-bed terms printed with those Chinese labels."
+      },
+      {
+        "text": "Slough is omitted, and only dry eschar is a wound-bed word.",
+        "note": "Slough (腐肉) is in the wound-bed list together with dry eschar and the other terms."
+      }
+    ],
+    "answer": 2,
+    "page": "60"
+  },
+  {
+    "id": "surg-099",
+    "topic": "Wound exudate and skin",
+    "scene": "The dressing note also needs the exudate and the skin around the wound.",
+    "ask": "What lists does the page give for those two?",
+    "choices": [
+      {
+        "text": "Exudate words are granulation and slough.",
+        "note": "Granulation and slough are wound-bed terms; exudate is serous fluid, blood, pus, or other."
+      },
+      {
+        "text": "Exudate: serous fluid (槳液), blood (血), pus (膿), or other. Surrounding skin: intact (完整), abraded (剝落), erythema (發紅), oedema (浮腫), or macerated (浸軟).",
+        "note": "Correct. Those are the exudate and surrounding-skin lines."
+      },
+      {
+        "text": "Macerated skin is listed as a kind of exudate.",
+        "note": "Macerated (浸軟) is in the surrounding-skin list."
+      },
+      {
+        "text": "The page has no word for pus.",
+        "note": "Pus (膿) is in the exudate list."
+      }
+    ],
+    "answer": 1,
+    "page": "60"
+  },
+  {
+    "id": "surg-100",
+    "topic": "Wound dressing",
+    "scene": "You are choosing the solution, the dressing, and how to hold it from this page.",
+    "ask": "Which examples are printed?",
+    "choices": [
+      {
+        "text": "0.9% chlorhexidine as the saline strength, and 0.05% sodium chloride as Hibitane.",
+        "note": "0.9% is sodium chloride, normal saline; 0.05% chlorhexidine is aqueous Hibitane."
+      },
+      {
+        "text": "Kaltostat is the spelling printed, and Tegaderm is not listed.",
+        "note": "The page spells Keltostat, and Tegaderm is in the secure-dressing examples."
+      },
+      {
+        "text": "Alcohol strength is 2% chlorhexidine in 50% alcohol.",
+        "note": "The page says 2% chlorhexidine in 70% alcohol."
+      },
+      {
+        "text": "Solutions include 0.9% sodium chloride (normal saline), 0.05% chlorhexidine (aqueous Hibitane), 2% chlorhexidine in 70% alcohol, chlorhexidine gluconate, Betadine, and povidone iodine. Materials include plain gauze, combined dressing, Keltostat, Aquacel, and Mesalt. Secure with Electroplast as a pressure dressing, bandage, Micropore, Omnifix, or Tegaderm.",
+        "note": "Correct. Those are the dressing-solution, dressing-material and secure-dressing examples, including the spelling Keltostat."
+      }
+    ],
+    "answer": 3,
+    "page": "60"
+  }
+]

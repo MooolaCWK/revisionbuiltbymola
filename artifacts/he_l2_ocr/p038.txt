@@ -1,0 +1,10 @@
+The Structure of a Regression Model
+The Ingredients The Recipe&Oven
+Predictors/IndependentVariables(x): The RegressionModel:The mathematical
+Age,BMI,and smoking status. function thatintegratesandweightsall
+ingredientstogether.
+（Bzovskyetal.,2022;Schneideretal.,2010;Skrepnek,2005）
+
+The Plated Dish
+Outcome/Dependent Variable(Y):total
+hospital charges.

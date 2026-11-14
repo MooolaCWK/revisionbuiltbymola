@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/assessment",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Pre RN revision",
+      "hasCanvas": false,
+      "bodyTextLen": 6748,
+      "bodyTextHash": "76a6a8b5d372ecaaf847b605f2737868b5529ba854a2524271d337949c9b72df",
+      "bodyTextPrefix": "YEAR 5 · BEFORE REGISTRATION Pre RN revision Back to Health econ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/prern-smoke.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Pre RN revision",
+      "hasCanvas": false,
+      "bodyTextLen": 6702,
+      "bodyTextHash": "7da08655de8e1601dfb013be2b566acd6c909ae1b8754b28ec1342ab942552f9",
+      "bodyTextPrefix": "YEAR 5 · BEFORE REGISTRATION Pre RN revision Back to Health econ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/prern-smoke-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/prern-smoke.json"
+}

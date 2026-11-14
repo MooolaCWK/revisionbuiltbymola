@@ -1,0 +1,15 @@
+02 / PRICE ELASTICITY
+
+Worked answer: |PED| is approximately 1.91
+
+01 Average price = (400 + 500) / 2 = 450.
+
+02 Average quantity = (80 + 52) / 2 = 66.
+
+03 Price change = 100 / 450 = +22.22%; quantity change = -28 / 66 = -42.42%.
+
+04 PED = -42.42 / 22.22 ≈ -1.91; |PED| ≈ 1.91, so demand is elastic.
+
+Keep the signed result before reporting its absolute value.
+
+(Mankiw, 2024)

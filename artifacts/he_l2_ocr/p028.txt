@@ -1,0 +1,23 @@
+Cheat sheet for students
+Low p(e.g.p≤0.05)
+If thedefault assumptionwere
+true,these datawould be
+highly unusual.
+Action:treat the default asa
+poor fit for these data.
+Convention often says"reject."
+That isnot proof the
+alternative is true,and nota
+5%chance the default is true.
+
+High p (e.g. p > 0.05)
+Thesedata arereasonably
+compatiblewith thedefault.
+Thispattern could easilyhappen
+by chance under that story.
+Action:do not reject the
+default.That isnot the same as
+proving the coin isfair,or
+“keeping”the assumption as
+true.
+（Flechner&Tseng,2011;Greenland et al.,2016)

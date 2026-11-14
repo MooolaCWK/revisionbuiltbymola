@@ -1,0 +1,18 @@
+Regression Analysis
+Definition: A statistical technique that draws a“best-fit line”to quantify
+relationshipsbetweentargetoutcomesandpredictorvariables.
+Predict
+Expectedvaluesforsimilar
+patients-notavalidatedforecast.
+Estimating expected chargesfor
+patients like thosein the data.
+CoefficientsareestimateswithCls.
+（Bzovskyetal.,2022;Schneideretal.,2010;Skrepnek,2005)
+
+Estimate Effect
+Adjustedassociations,notexact
+effects
+The smoking coefficient is an
+adjusted association with a Cl-
+nottheexactaddedcostof
+smoking.

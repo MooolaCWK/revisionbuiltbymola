@@ -1,0 +1,18 @@
+GDP measured through expenditure
+
+GDP = C + I + G + (X − M)
+
+C | Household final consumption
+Private consultation
+
+I | Private investment and inventories
+Privately purchased new scanner
+
+G | Government consumption and investment
+Government purchase of care or hospital construction
+
+X − M | Exports minus imports
+Visitor care less imported devices
+
+Count each purchase once. Cash transfers themselves are not purchases of output.
+(Mankiw, 2024)

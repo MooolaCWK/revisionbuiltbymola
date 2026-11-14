@@ -1,0 +1,27 @@
+Kicker: MODEL PARAMETERS
+Title: Representative Fiscal Data (HKD Billion)
+
+1,800
+Private Consumption
+C | 1,800
+Household dining, retail, housing, services
+
+450
+Gross Investment
+I | 450
+Infrastructure construction and capital hardware
+
+400
+Government Spending
+G | 400
+Public healthcare, education, civil wages
+
+5,200
+Exports
+X | 5,200
+Logistics, offshore banking, regional tourism
+
+5,100
+Imports
+M | 5,100
+Food supplies, energy resources, machinery

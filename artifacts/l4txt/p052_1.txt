@@ -1,0 +1,22 @@
+02 / PRICE ELASTICITY
+Elasticity measures proportional responsiveness
+
+PED = percentage change in Qd ÷ percentage change in price
+
+1
+Example
+Price rises 10%; quantity demanded falls 2%. PED ≈ -0.2.
+
+2
+Absolute value
+|PED| means the magnitude, ignoring the minus sign: |PED| = 0.2.
+
+3
+Interpretation
+A 1% price rise corresponds approximately to a 0.2% fall in quantity demanded.
+
+Price
+
+Other demand determinants must remain unchanged for this demand-curve interpretation.
+
+(Mankiw, 2024)

@@ -1,0 +1,24 @@
+02 / PRICE ELASTICITY
+Elastic, unit elastic and inelastic demand
+
+Magnitude | Meaning | For a small price rise
+
+|PED| < 1
+Inelastic: Q changes
+proportionately less
+Revenue rises
+
+|PED| = 1
+Unit elastic: equal
+proportional response
+Revenue is locally
+unchanged
+
+|PED| > 1
+Elastic: Q changes
+proportionately more
+Revenue falls
+
+Revenue = price × quantity. Revenue is different from profit.
+
+(Mankiw, 2024)

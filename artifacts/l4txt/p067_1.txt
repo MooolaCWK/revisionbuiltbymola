@@ -1,0 +1,13 @@
+GDP measures production within an economy
+
+Gross Domestic Product (GDP) measures the value of final goods and services produced within an economy during a stated period.
+
+Final output: Output for final use. Avoid counting intermediate inputs again.
+
+Value added: The value a producer adds after subtracting purchased intermediate inputs.
+
+Healthcare example: Care produced by a foreign-owned clinic in Hong Kong contributes to Hong Kong GDP.
+
+The owner’s citizenship does not determine where production is counted.
+
+(Census and Statistics Department, 2026)

@@ -1,0 +1,9 @@
+Three relationships use different axes
+
+Relationship	Vertical axis	Horizontal axis
+1	Healthcare service demand	Price per consultation	Consultations per period
+2	Nursing labour demand	Wage per labour unit	Labour units per period
+3	Aggregate demand (AD)	General price level	Real GDP
+
+Healthcare is one sector. Aggregate demand covers the whole economy.
+(Mankiw, 2024)

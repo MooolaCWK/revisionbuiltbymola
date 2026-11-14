@@ -1,0 +1,16 @@
+The Line
+of Best Fit
+REGRESSIONANALYSIS
+If correlation tellsyou
+whetherthingsarerelated,
+regression estimateshowY
+changeswithX,onaverage.
+ItpredictsexpectedYfor
+similar patients.
+That isnot a validated
+forecastandnot
+automatically causal.
+
+y=a+bx
+(Bewick et al.,2003;Guyatt et al.,1995;
+Hazra & Gogtontay,2016）

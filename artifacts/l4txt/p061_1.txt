@@ -1,0 +1,28 @@
+02 / PRICE ELASTICITY
+Historical evidence: the 2017 A&E fee increase
+
+The fee increased from HK$100 to HK$180 in 2017.
+
+Study-defined urgency group | Reported immediate change
+
+Emergency conditions
+No statistically significant change reported
+
+Urgent conditions
+-5.9%
+
+Nonurgent conditions
+-8.9%
+
+Left Zone
+Emergency
+
+Middle Zone
+Urgent
+
+Right Zone
+Nonurgent
+
+Study population: age 64 or younger. These findings do not provide a 2026 PED.
+
+(Wu et al., 2023)

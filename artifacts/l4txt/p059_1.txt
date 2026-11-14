@@ -1,0 +1,12 @@
+02 / PRICE ELASTICITY
+Elasticity and total revenue
+
+Before: 400 × 80 = HK$32,000    After: 500 × 52 = HK$26,000
+
+Demand over the relevant change | If price rises | If price falls
+Inelastic | Revenue rises | Revenue falls
+Unit elastic | Revenue unchanged | Revenue unchanged
+Elastic | Revenue falls | Revenue rises
+
+For discrete changes, use midpoint elasticity over that interval. Costs are needed for profit.
+(Mankiw, 2024)

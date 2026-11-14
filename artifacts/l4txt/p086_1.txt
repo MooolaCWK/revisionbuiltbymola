@@ -1,0 +1,13 @@
+Terminology
+
+Marginal Revenue Product of Labor (MRP)
+
+The increase in a firm's total revenue resulting from hiring an additional worker.
+
+It is calculated by multiplying the Marginal Product of Labor (MPL) by the Marginal Revenue (MR) of the output produced:
+
+MRP = MPL x MR
+
+Marginal Resource Cost (MRC)
+
+One more unit of the input results in an additional cost.

@@ -1,0 +1,10 @@
+Direction of Association
+The direction ofa correlation isinstantlyvisibleona scatterplot.
+Positive (+) Negative(-)
+When onethinggoesup,theotheralsogoes Whenone thinggoes up,theothergoesdown.
+up.
+
+Zero(o)
+No linearassociation.AU-shapecanhaver
+Oand still matter(e.g.BMI).
+(Bewicketal,2003;Guyattetal.,1995;Hazra&Gogtay,2016)

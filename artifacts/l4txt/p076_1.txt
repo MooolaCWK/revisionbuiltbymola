@@ -1,0 +1,11 @@
+Aggregate demand is planned economy-wide spending
+
+AD = C + I + G + (X − M)
+
+• At each price level: AD describes the real output households, firms, government and overseas buyers plan to purchase.
+
+• Healthcare examples: Private visits enter C; a private hospital building enters I; government purchases enter G.
+
+• Accounting distinction: Expenditure GDP records actual expenditure. AD describes planned spending across price levels.
+
+Government investment is included in G under the convention used in this lecture. (Mankiw, 2024)

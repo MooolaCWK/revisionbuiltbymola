@@ -1,0 +1,20 @@
+Limitations of Observational Regression
+Correlation # Causation
+Co-movementdoes notequal cause.
+Regression quantifies associations,
+not automatic causation.
+Missing Confounders
+Omitting key variables (like chronic
+disease status)artificially distorts
+visiblemodel coefficients.
+（Bzovskyetal,2022;Zhouetal,2023;Tannietal,2020;Skrpnek,2005）
+
+Costs are Skewed
+Afewhigh-costpatientsskewdata.
+Use a GLM (e.g. gamma, log link) or
+bootstrap; a log transform is not
+automatically the HEsolution.
+Model Choice Matters
+Different statistical models yield
+different answers.Alwaysverify
+model specifications.

@@ -1,0 +1,24 @@
+Short-run equilibrium can be below potential
+
+General price level (index)
+Y ↑
+
+Real GDP (illustrative units)
+→ X
+
+0
+Pe
+Ye
+Y*
+E
+LRAS
+SRAS
+AD
+
+Short-run intersection: AD meets SRAS at Ye.
+
+Negative output gap: Ye is below potential output Y*.
+
+Employment link: Weak output can reduce hiring and hours, with uneven effects across sectors.
+
+Y denotes real GDP. Potential output does not mean every hospital post is filled. (Mankiw, 2024)

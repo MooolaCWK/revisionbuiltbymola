@@ -1,0 +1,10 @@
+Correlation versus Slope
+Correlation(The Swarm)
+Measures:How tight thedataftstheline.
+Units:Boundedbetween-1and+1(Unitless).
+Key Insight:You can have a very strong correlation (tight swarm) on a very gentle slope！
+
+Slope(The Path)
+Measures:estimated average associated change inYperunitofX.
+Units:outcomeper unitofX(here,Hk$peryearof age).
+（Bewicketal.2003；Follandetal.2024;Tannietal.,2020）

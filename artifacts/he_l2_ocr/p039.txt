@@ -1,0 +1,15 @@
+Simple vs.Multiple Regression
+Simple Linear Regression
+(ONEINGREDIENT)
+Example:Age alone isused
+topredict hospital charges.
+Limitation:one predictor usually leaves out confounders.
+AddingvariablesalwaysraisesrawR²,evenjunkones.
+（Bzovskyetal.,2022;Schneideretal.,2010;Skrepnek,2005)
+
+Multiple Regression
+(MULTIPLEINGREDIENTS)
+Example:Age,BMl,and smoker
+together predictcharges.
+Reason to add covariates:adjustment for confounding
+nota biggerR2.RawR²always riseswhenyou add variables.
